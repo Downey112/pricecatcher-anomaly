@@ -1,0 +1,42 @@
+table funnel
+	lineageTag: bb0397e9-8376-5acc-93d3-60567bea0b03
+
+	measure 'Funnel Rows' = SUM ( funnel[rows] )
+		formatString: #,0
+		displayFolder: Base
+		lineageTag: 283ab627-fe90-5e72-982d-6bcbb2db72fb
+
+	column step
+		dataType: string
+		lineageTag: 69970f53-c675-5fd0-b958-11f796e4c712
+		summarizeBy: none
+		sourceColumn: step
+		sortByColumn: step_order
+
+	column rows
+		dataType: int64
+		formatString: #,0
+		lineageTag: 2d470cd8-e833-558e-9da5-ed2d40ba0fef
+		summarizeBy: none
+		sourceColumn: rows
+
+	column step_order
+		dataType: int64
+		formatString: 0
+		lineageTag: 295be2a3-f8d3-5810-b882-ea994943309f
+		summarizeBy: none
+		sourceColumn: step_order
+
+	partition funnel = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\funnel.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {
+				        {"step", type text},
+				        {"rows", Int64.Type},
+				        {"step_order", Int64.Type}
+				    }, "en-US")
+				in
+				    Typed

@@ -1,0 +1,48 @@
+{
+  "chosen_on_val": "mad_baseline",
+  "test_paired_recall_diff_k20": {
+    "mad_minus_iforest_m20": {
+      "diff": 0.0258,
+      "ci_lo": 0.0062,
+      "ci_hi": 0.0464
+    },
+    "mad_minus_ecod_m20": {
+      "diff": 0.0339,
+      "ci_lo": 0.0132,
+      "ci_hi": 0.0551
+    },
+    "mad_minus_iforest_p20": {
+      "diff": 0.1036,
+      "ci_lo": 0.092,
+      "ci_hi": 0.1164
+    },
+    "mad_minus_ecod_p20": {
+      "diff": 0.1196,
+      "ci_lo": 0.1065,
+      "ci_hi": 0.1337
+    },
+    "mad_minus_iforest_m50": {
+      "diff": -0.274,
+      "ci_lo": -0.3021,
+      "ci_hi": -0.2468
+    },
+    "mad_minus_ecod_m50": {
+      "diff": -0.1461,
+      "ci_lo": -0.1772,
+      "ci_hi": -0.1154
+    }
+  },
+  "test_rows": 1186345,
+  "test_injected": 12907,
+  "test_injected_by_type": {
+    "p20": 5784,
+    "m50": 1540,
+    "m30": 1509,
+    "m20": 1473,
+    "m10": 1412,
+    "slip": 1189
+  },
+  "test_weeks": 6,
+  "test_district_weeks": 993,
+  "rows_per_district_week_median": 938.0
+}

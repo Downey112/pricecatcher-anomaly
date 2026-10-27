@@ -1,0 +1,3101 @@
+week,state,likely_cause,flags,mean_ratio,cause_order
+2026-01-05,Johor,first observation,200,1.3193903,2
+2026-01-12,Johor,above peers,52,1.1531008,6
+2026-01-12,Johor,first observation,16,1.4064128,2
+2026-01-12,Johor,pack/unit mismatch?,3,1.9681082,3
+2026-01-12,Johor,persistent premium,122,1.3847342,4
+2026-01-12,Johor,spike,7,1.3693653,5
+2026-01-19,Johor,above peers,54,1.1786512,6
+2026-01-19,Johor,decimal slip?,2,105.77252,1
+2026-01-19,Johor,first observation,6,1.3318969,2
+2026-01-19,Johor,pack/unit mismatch?,3,1.9789478,3
+2026-01-19,Johor,persistent premium,123,1.3916115,4
+2026-01-19,Johor,spike,12,1.3061465,5
+2026-01-26,Johor,above peers,46,1.1701185,6
+2026-01-26,Johor,first observation,8,1.3400831,2
+2026-01-26,Johor,pack/unit mismatch?,2,1.9974067,3
+2026-01-26,Johor,persistent premium,134,1.4146668,4
+2026-01-26,Johor,spike,10,1.8129269,5
+2026-02-02,Johor,above peers,58,1.283619,6
+2026-02-02,Johor,first observation,3,1.7039803,2
+2026-02-02,Johor,pack/unit mismatch?,11,2.390026,3
+2026-02-02,Johor,persistent premium,117,1.6798517,4
+2026-02-02,Johor,spike,11,1.2333604,5
+2026-02-09,Johor,above peers,54,1.2283056,6
+2026-02-09,Johor,first observation,7,1.370537,2
+2026-02-09,Johor,pack/unit mismatch?,2,2.0111227,3
+2026-02-09,Johor,persistent premium,116,1.3980072,4
+2026-02-09,Johor,spike,21,1.3586428,5
+2026-02-23,Johor,above peers,47,1.2155615,6
+2026-02-23,Johor,first observation,27,1.3706449,2
+2026-02-23,Johor,pack/unit mismatch?,2,2.0075376,3
+2026-02-23,Johor,persistent premium,110,1.4158933,4
+2026-02-23,Johor,spike,14,1.2643311,5
+2026-03-02,Johor,above peers,57,1.2309306,6
+2026-03-02,Johor,decimal slip?,1,22.77992,1
+2026-03-02,Johor,first observation,4,1.2515883,2
+2026-03-02,Johor,pack/unit mismatch?,4,2.0057487,3
+2026-03-02,Johor,persistent premium,115,1.3738387,4
+2026-03-02,Johor,spike,19,1.2979361,5
+2026-03-09,Johor,above peers,74,1.2654123,6
+2026-03-09,Johor,first observation,10,1.8427557,2
+2026-03-09,Johor,pack/unit mismatch?,6,2.0113156,3
+2026-03-09,Johor,persistent premium,99,1.4062821,4
+2026-03-09,Johor,spike,11,1.397018,5
+2026-03-16,Johor,above peers,70,1.3421625,6
+2026-03-16,Johor,first observation,5,1.4874113,2
+2026-03-16,Johor,pack/unit mismatch?,3,2.023755,3
+2026-03-16,Johor,persistent premium,109,1.4360077,4
+2026-03-16,Johor,spike,13,1.3406378,5
+2026-03-23,Johor,above peers,77,1.3588784,6
+2026-03-23,Johor,first observation,2,2.031968,2
+2026-03-23,Johor,pack/unit mismatch?,5,2.1809437,3
+2026-03-23,Johor,persistent premium,85,1.6400387,4
+2026-03-23,Johor,spike,23,1.2845844,5
+2026-03-30,Johor,above peers,47,1.2465131,6
+2026-03-30,Johor,decimal slip?,1,10.062405,1
+2026-03-30,Johor,first observation,30,1.2803718,2
+2026-03-30,Johor,pack/unit mismatch?,2,2.0369954,3
+2026-03-30,Johor,persistent premium,92,1.4882567,4
+2026-03-30,Johor,spike,28,1.3714975,5
+2026-04-06,Johor,above peers,71,1.206481,6
+2026-04-06,Johor,first observation,4,1.4617621,2
+2026-04-06,Johor,pack/unit mismatch?,5,1.9836286,3
+2026-04-06,Johor,persistent premium,105,1.4121978,4
+2026-04-06,Johor,spike,15,1.3439393,5
+2026-04-13,Johor,above peers,52,1.231059,6
+2026-04-13,Johor,first observation,8,1.2717711,2
+2026-04-13,Johor,pack/unit mismatch?,8,2.2580996,3
+2026-04-13,Johor,persistent premium,117,1.4660218,4
+2026-04-13,Johor,spike,15,1.3004622,5
+2026-04-20,Johor,above peers,64,1.2231952,6
+2026-04-20,Johor,decimal slip?,1,12.306666,1
+2026-04-20,Johor,first observation,5,1.3252078,2
+2026-04-20,Johor,pack/unit mismatch?,4,1.9911057,3
+2026-04-20,Johor,persistent premium,111,1.38412,4
+2026-04-20,Johor,spike,15,1.7173011,5
+2026-04-27,Johor,above peers,48,1.239678,6
+2026-04-27,Johor,first observation,36,1.3914673,2
+2026-04-27,Johor,pack/unit mismatch?,4,2.0136173,3
+2026-04-27,Johor,persistent premium,105,1.3825386,4
+2026-04-27,Johor,spike,7,1.3735168,5
+2026-05-04,Johor,above peers,56,1.25648,6
+2026-05-04,Johor,first observation,3,1.4137335,2
+2026-05-04,Johor,pack/unit mismatch?,8,2.1165748,3
+2026-05-04,Johor,persistent premium,115,1.4568918,4
+2026-05-04,Johor,spike,18,1.3275257,5
+2026-05-11,Johor,above peers,53,1.1808325,6
+2026-05-11,Johor,first observation,5,1.593006,2
+2026-05-11,Johor,pack/unit mismatch?,7,2.136853,3
+2026-05-11,Johor,persistent premium,123,1.3721788,4
+2026-05-11,Johor,spike,12,1.6252738,5
+2026-05-18,Johor,above peers,48,1.2016746,6
+2026-05-18,Johor,decimal slip?,1,50.499992,1
+2026-05-18,Johor,first observation,5,1.2811878,2
+2026-05-18,Johor,pack/unit mismatch?,6,2.3226702,3
+2026-05-18,Johor,persistent premium,130,1.3432736,4
+2026-05-18,Johor,spike,10,2.1748223,5
+2026-05-25,Johor,above peers,52,1.1816065,6
+2026-05-25,Johor,first observation,2,4.78251,2
+2026-05-25,Johor,pack/unit mismatch?,7,2.2515702,3
+2026-05-25,Johor,persistent premium,113,1.5665336,4
+2026-05-25,Johor,spike,26,1.3220793,5
+2026-06-01,Johor,above peers,59,1.1821618,6
+2026-06-01,Johor,first observation,4,1.3040601,2
+2026-06-01,Johor,pack/unit mismatch?,3,2.3148825,3
+2026-06-01,Johor,persistent premium,111,1.4024245,4
+2026-06-01,Johor,spike,23,1.2939298,5
+2026-06-08,Johor,above peers,72,1.2303617,6
+2026-06-08,Johor,first observation,7,1.3438638,2
+2026-06-08,Johor,pack/unit mismatch?,3,2.3292952,3
+2026-06-08,Johor,persistent premium,112,1.3759707,4
+2026-06-08,Johor,spike,6,1.4122448,5
+2026-06-15,Johor,above peers,61,1.1984441,6
+2026-06-15,Johor,first observation,6,1.7235972,2
+2026-06-15,Johor,pack/unit mismatch?,1,3.0,3
+2026-06-15,Johor,persistent premium,117,1.3361485,4
+2026-06-15,Johor,spike,15,1.3283248,5
+2026-06-22,Johor,above peers,63,1.2001636,6
+2026-06-22,Johor,first observation,4,1.3629203,2
+2026-06-22,Johor,pack/unit mismatch?,3,2.0114663,3
+2026-06-22,Johor,persistent premium,123,1.4873822,4
+2026-06-22,Johor,spike,7,1.2531811,5
+2026-06-29,Johor,above peers,40,1.1838137,6
+2026-06-29,Johor,first observation,31,1.3063278,2
+2026-06-29,Johor,pack/unit mismatch?,1,1.9313304,3
+2026-06-29,Johor,persistent premium,122,1.4681014,4
+2026-06-29,Johor,spike,6,1.3567795,5
+2026-07-06,Johor,above peers,62,1.1887243,6
+2026-07-06,Johor,decimal slip?,1,11.600706,1
+2026-07-06,Johor,first observation,6,1.9112245,2
+2026-07-06,Johor,pack/unit mismatch?,3,2.2968447,3
+2026-07-06,Johor,persistent premium,110,1.4491576,4
+2026-07-06,Johor,spike,18,1.3299438,5
+2026-07-13,Johor,above peers,56,1.2204349,6
+2026-07-13,Johor,first observation,5,2.6805549,2
+2026-07-13,Johor,pack/unit mismatch?,4,2.2550259,3
+2026-07-13,Johor,persistent premium,124,1.470759,4
+2026-07-13,Johor,spike,11,1.3041241,5
+2026-07-20,Johor,above peers,54,1.1790183,6
+2026-07-20,Johor,decimal slip?,1,97.17869,1
+2026-07-20,Johor,first observation,3,1.2300805,2
+2026-07-20,Johor,pack/unit mismatch?,3,2.0191314,3
+2026-07-20,Johor,persistent premium,130,1.4203976,4
+2026-07-20,Johor,spike,9,1.398247,5
+2026-07-27,Johor,above peers,40,1.1975967,6
+2026-07-27,Johor,decimal slip?,1,138.7059,1
+2026-07-27,Johor,first observation,33,1.3527818,2
+2026-07-27,Johor,pack/unit mismatch?,4,1.9854015,3
+2026-07-27,Johor,persistent premium,111,1.4413244,4
+2026-07-27,Johor,spike,11,1.348051,5
+2026-08-03,Johor,above peers,50,1.1761173,6
+2026-08-03,Johor,first observation,4,1.3671477,2
+2026-08-03,Johor,pack/unit mismatch?,5,2.024535,3
+2026-08-03,Johor,persistent premium,122,1.3719174,4
+2026-08-03,Johor,spike,19,1.3034273,5
+2026-08-10,Johor,above peers,63,1.1627498,6
+2026-08-10,Johor,first observation,4,1.4675124,2
+2026-08-10,Johor,pack/unit mismatch?,1,2.0050251,3
+2026-08-10,Johor,persistent premium,123,1.331731,4
+2026-08-10,Johor,spike,9,1.3109319,5
+2026-08-17,Johor,above peers,62,1.195838,6
+2026-08-17,Johor,first observation,2,2.1903033,2
+2026-08-17,Johor,pack/unit mismatch?,8,2.2340393,3
+2026-08-17,Johor,persistent premium,120,1.4034247,4
+2026-08-17,Johor,spike,8,1.2180551,5
+2026-08-24,Johor,above peers,46,1.1926309,6
+2026-08-24,Johor,decimal slip?,1,51.03751,1
+2026-08-24,Johor,first observation,33,1.3257117,2
+2026-08-24,Johor,pack/unit mismatch?,5,2.195559,3
+2026-08-24,Johor,persistent premium,99,1.3625909,4
+2026-08-24,Johor,spike,16,1.6008612,5
+2026-08-31,Johor,above peers,56,1.211927,6
+2026-08-31,Johor,pack/unit mismatch?,3,1.9961004,3
+2026-08-31,Johor,persistent premium,112,1.6150953,4
+2026-08-31,Johor,spike,26,1.308799,5
+2026-09-07,Johor,above peers,75,1.2096227,6
+2026-09-07,Johor,first observation,5,2.0498052,2
+2026-09-07,Johor,pack/unit mismatch?,1,2.0010011,3
+2026-09-07,Johor,persistent premium,104,1.377497,4
+2026-09-07,Johor,spike,15,1.3785474,5
+2026-09-14,Johor,above peers,78,1.2049733,6
+2026-09-14,Johor,decimal slip?,1,108.02138,1
+2026-09-14,Johor,first observation,2,1.3814101,2
+2026-09-14,Johor,pack/unit mismatch?,3,2.05297,3
+2026-09-14,Johor,persistent premium,104,1.3926604,4
+2026-09-14,Johor,spike,12,1.3206459,5
+2026-09-21,Johor,above peers,48,1.2421912,6
+2026-09-21,Johor,decimal slip?,1,90.93272,1
+2026-09-21,Johor,first observation,42,1.3397973,2
+2026-09-21,Johor,pack/unit mismatch?,1,2.0539844,3
+2026-09-21,Johor,persistent premium,98,1.4643419,4
+2026-09-21,Johor,spike,10,1.3428524,5
+2026-09-28,Johor,above peers,67,1.196756,6
+2026-09-28,Johor,first observation,7,1.446433,2
+2026-09-28,Johor,pack/unit mismatch?,2,2.0016723,3
+2026-09-28,Johor,persistent premium,111,1.4550755,4
+2026-09-28,Johor,spike,13,1.3942096,5
+2026-10-12,Johor,above peers,57,1.1886325,6
+2026-10-12,Johor,first observation,8,1.3644582,2
+2026-10-12,Johor,pack/unit mismatch?,4,2.0202727,3
+2026-10-12,Johor,persistent premium,97,1.4181082,4
+2026-10-12,Johor,spike,34,1.3612852,5
+2026-10-19,Johor,above peers,85,1.1968046,6
+2026-10-19,Johor,first observation,4,2.1281981,2
+2026-10-19,Johor,pack/unit mismatch?,5,2.2028556,3
+2026-10-19,Johor,persistent premium,94,1.4351215,4
+2026-10-19,Johor,spike,12,1.2925063,5
+2026-01-05,Kedah,first observation,220,1.2912055,2
+2026-01-12,Kedah,above peers,85,1.0932393,6
+2026-01-12,Kedah,first observation,13,1.2969117,2
+2026-01-12,Kedah,pack/unit mismatch?,4,2.250208,3
+2026-01-12,Kedah,persistent premium,104,1.3959537,4
+2026-01-12,Kedah,spike,14,1.2706829,5
+2026-01-19,Kedah,above peers,91,1.1256424,6
+2026-01-19,Kedah,first observation,7,1.1996421,2
+2026-01-19,Kedah,pack/unit mismatch?,4,1.979408,3
+2026-01-19,Kedah,persistent premium,109,1.474873,4
+2026-01-19,Kedah,spike,9,1.3166761,5
+2026-01-26,Kedah,above peers,85,1.1328896,6
+2026-01-26,Kedah,first observation,9,1.487061,2
+2026-01-26,Kedah,pack/unit mismatch?,4,1.9487782,3
+2026-01-26,Kedah,persistent premium,111,1.4038078,4
+2026-01-26,Kedah,spike,11,1.3945738,5
+2026-02-02,Kedah,above peers,63,1.1951632,6
+2026-02-02,Kedah,first observation,5,2.5451086,2
+2026-02-02,Kedah,pack/unit mismatch?,4,2.2980719,3
+2026-02-02,Kedah,persistent premium,131,1.482354,4
+2026-02-02,Kedah,spike,17,1.2993898,5
+2026-02-09,Kedah,above peers,89,1.1193175,6
+2026-02-09,Kedah,first observation,11,1.4036487,2
+2026-02-09,Kedah,pack/unit mismatch?,6,2.151798,3
+2026-02-09,Kedah,persistent premium,112,1.5079447,4
+2026-02-09,Kedah,spike,2,1.2095909,5
+2026-02-23,Kedah,above peers,67,1.113938,6
+2026-02-23,Kedah,first observation,36,1.2649394,2
+2026-02-23,Kedah,pack/unit mismatch?,9,2.3280938,3
+2026-02-23,Kedah,persistent premium,97,1.4544898,4
+2026-02-23,Kedah,spike,11,1.4112747,5
+2026-03-02,Kedah,above peers,98,1.1486841,6
+2026-03-02,Kedah,first observation,7,1.3772024,2
+2026-03-02,Kedah,pack/unit mismatch?,8,2.1238794,3
+2026-03-02,Kedah,persistent premium,99,1.5329517,4
+2026-03-02,Kedah,spike,8,1.3809456,5
+2026-03-09,Kedah,above peers,95,1.1497244,6
+2026-03-09,Kedah,first observation,9,1.3052236,2
+2026-03-09,Kedah,pack/unit mismatch?,8,1.9703779,3
+2026-03-09,Kedah,persistent premium,101,1.5172628,4
+2026-03-09,Kedah,spike,7,1.236627,5
+2026-03-16,Kedah,above peers,109,1.1654526,6
+2026-03-16,Kedah,first observation,6,1.2020513,2
+2026-03-16,Kedah,pack/unit mismatch?,8,2.1195345,3
+2026-03-16,Kedah,persistent premium,86,1.4770038,4
+2026-03-16,Kedah,spike,11,1.3411196,5
+2026-03-23,Kedah,above peers,76,1.2133898,6
+2026-03-23,Kedah,first observation,5,1.4424044,2
+2026-03-23,Kedah,pack/unit mismatch?,4,1.9990301,3
+2026-03-23,Kedah,persistent premium,102,1.4822208,4
+2026-03-23,Kedah,spike,33,1.2906692,5
+2026-03-30,Kedah,above peers,72,1.1479762,6
+2026-03-30,Kedah,first observation,25,1.273232,2
+2026-03-30,Kedah,pack/unit mismatch?,7,1.9947393,3
+2026-03-30,Kedah,persistent premium,106,1.4825691,4
+2026-03-30,Kedah,spike,10,1.2643899,5
+2026-04-06,Kedah,above peers,91,1.1535963,6
+2026-04-06,Kedah,first observation,2,1.2294862,2
+2026-04-06,Kedah,pack/unit mismatch?,5,2.1905441,3
+2026-04-06,Kedah,persistent premium,104,1.4641601,4
+2026-04-06,Kedah,spike,18,1.2689924,5
+2026-04-13,Kedah,above peers,89,1.1237422,6
+2026-04-13,Kedah,first observation,9,1.1554683,2
+2026-04-13,Kedah,pack/unit mismatch?,4,2.2474933,3
+2026-04-13,Kedah,persistent premium,113,1.433617,4
+2026-04-13,Kedah,spike,5,1.3476963,5
+2026-04-20,Kedah,above peers,83,1.1384193,6
+2026-04-20,Kedah,decimal slip?,1,10.000001,1
+2026-04-20,Kedah,first observation,8,1.6477771,2
+2026-04-20,Kedah,pack/unit mismatch?,3,1.9947381,3
+2026-04-20,Kedah,persistent premium,111,1.4168704,4
+2026-04-20,Kedah,spike,14,1.3603154,5
+2026-04-27,Kedah,above peers,84,1.1489855,6
+2026-04-27,Kedah,first observation,27,1.258016,2
+2026-04-27,Kedah,pack/unit mismatch?,7,1.9890301,3
+2026-04-27,Kedah,persistent premium,88,1.3835522,4
+2026-04-27,Kedah,spike,14,1.2986078,5
+2026-05-04,Kedah,above peers,90,1.1271033,6
+2026-05-04,Kedah,first observation,7,1.3706379,2
+2026-05-04,Kedah,pack/unit mismatch?,7,2.0121908,3
+2026-05-04,Kedah,persistent premium,98,1.4072651,4
+2026-05-04,Kedah,spike,18,1.5104427,5
+2026-05-11,Kedah,above peers,99,1.1355878,6
+2026-05-11,Kedah,first observation,9,1.2970531,2
+2026-05-11,Kedah,pack/unit mismatch?,11,2.0961893,3
+2026-05-11,Kedah,persistent premium,95,1.4054497,4
+2026-05-11,Kedah,spike,6,1.2522753,5
+2026-05-18,Kedah,above peers,98,1.1156226,6
+2026-05-18,Kedah,first observation,2,1.6540316,2
+2026-05-18,Kedah,pack/unit mismatch?,3,2.0390766,3
+2026-05-18,Kedah,persistent premium,110,1.4037007,4
+2026-05-18,Kedah,spike,7,1.2692595,5
+2026-05-25,Kedah,above peers,85,1.143452,6
+2026-05-25,Kedah,first observation,29,1.208669,2
+2026-05-25,Kedah,pack/unit mismatch?,5,2.024716,3
+2026-05-25,Kedah,persistent premium,96,1.3793043,4
+2026-05-25,Kedah,spike,5,1.2508756,5
+2026-06-01,Kedah,above peers,87,1.1220993,6
+2026-06-01,Kedah,first observation,6,1.6158695,2
+2026-06-01,Kedah,pack/unit mismatch?,8,2.0105681,3
+2026-06-01,Kedah,persistent premium,107,1.5155994,4
+2026-06-01,Kedah,spike,12,1.39858,5
+2026-06-08,Kedah,above peers,96,1.1521362,6
+2026-06-08,Kedah,first observation,5,1.2104684,2
+2026-06-08,Kedah,pack/unit mismatch?,8,2.2808104,3
+2026-06-08,Kedah,persistent premium,107,1.498935,4
+2026-06-08,Kedah,spike,4,1.3997092,5
+2026-06-15,Kedah,above peers,93,1.1279182,6
+2026-06-15,Kedah,first observation,2,1.0642858,2
+2026-06-15,Kedah,pack/unit mismatch?,7,2.3147995,3
+2026-06-15,Kedah,persistent premium,111,1.5388691,4
+2026-06-15,Kedah,spike,7,1.3544528,5
+2026-06-22,Kedah,above peers,99,1.1441743,6
+2026-06-22,Kedah,first observation,4,1.4758669,2
+2026-06-22,Kedah,pack/unit mismatch?,8,2.411291,3
+2026-06-22,Kedah,persistent premium,103,1.5346962,4
+2026-06-22,Kedah,spike,6,1.264984,5
+2026-06-29,Kedah,above peers,81,1.134625,6
+2026-06-29,Kedah,first observation,33,1.2560772,2
+2026-06-29,Kedah,pack/unit mismatch?,6,2.0135515,3
+2026-06-29,Kedah,persistent premium,94,1.5791144,4
+2026-06-29,Kedah,spike,6,1.231809,5
+2026-07-06,Kedah,above peers,100,1.127183,6
+2026-07-06,Kedah,first observation,7,1.4272512,2
+2026-07-06,Kedah,pack/unit mismatch?,7,2.1050904,3
+2026-07-06,Kedah,persistent premium,93,1.5153053,4
+2026-07-06,Kedah,spike,13,1.4089705,5
+2026-07-13,Kedah,above peers,88,1.1331724,6
+2026-07-13,Kedah,first observation,3,1.1601877,2
+2026-07-13,Kedah,pack/unit mismatch?,4,1.9825745,3
+2026-07-13,Kedah,persistent premium,111,1.461991,4
+2026-07-13,Kedah,spike,14,1.2772473,5
+2026-07-20,Kedah,above peers,99,1.1226269,6
+2026-07-20,Kedah,first observation,5,1.3009338,2
+2026-07-20,Kedah,pack/unit mismatch?,12,2.020323,3
+2026-07-20,Kedah,persistent premium,99,1.47072,4
+2026-07-20,Kedah,spike,5,1.5354335,5
+2026-07-27,Kedah,above peers,84,1.1427623,6
+2026-07-27,Kedah,first observation,33,1.2043993,2
+2026-07-27,Kedah,pack/unit mismatch?,3,2.0029786,3
+2026-07-27,Kedah,persistent premium,87,1.4537935,4
+2026-07-27,Kedah,spike,13,1.4706713,5
+2026-08-03,Kedah,above peers,98,1.1507972,6
+2026-08-03,Kedah,first observation,6,1.1607053,2
+2026-08-03,Kedah,pack/unit mismatch?,5,2.0052497,3
+2026-08-03,Kedah,persistent premium,102,1.4821268,4
+2026-08-03,Kedah,spike,9,1.291942,5
+2026-08-10,Kedah,above peers,97,1.1380562,6
+2026-08-10,Kedah,first observation,5,1.2326669,2
+2026-08-10,Kedah,pack/unit mismatch?,4,2.020166,3
+2026-08-10,Kedah,persistent premium,102,1.4872223,4
+2026-08-10,Kedah,spike,12,1.3066603,5
+2026-08-17,Kedah,above peers,105,1.1498698,6
+2026-08-17,Kedah,first observation,4,1.302638,2
+2026-08-17,Kedah,pack/unit mismatch?,6,2.1749606,3
+2026-08-17,Kedah,persistent premium,95,1.4762523,4
+2026-08-17,Kedah,spike,10,1.3197433,5
+2026-08-24,Kedah,above peers,95,1.1465777,6
+2026-08-24,Kedah,first observation,33,1.2784405,2
+2026-08-24,Kedah,pack/unit mismatch?,6,2.0174894,3
+2026-08-24,Kedah,persistent premium,81,1.5422595,4
+2026-08-24,Kedah,spike,5,1.297566,5
+2026-08-31,Kedah,above peers,60,1.1349304,6
+2026-08-31,Kedah,first observation,3,3.582903,2
+2026-08-31,Kedah,pack/unit mismatch?,7,1.964104,3
+2026-08-31,Kedah,persistent premium,127,1.4579445,4
+2026-08-31,Kedah,spike,23,1.2806367,5
+2026-09-07,Kedah,above peers,104,1.1310174,6
+2026-09-07,Kedah,decimal slip?,1,8.474576,1
+2026-09-07,Kedah,first observation,2,1.2801696,2
+2026-09-07,Kedah,pack/unit mismatch?,5,1.9864922,3
+2026-09-07,Kedah,persistent premium,96,1.514845,4
+2026-09-07,Kedah,spike,12,1.3218964,5
+2026-09-14,Kedah,above peers,94,1.1443974,6
+2026-09-14,Kedah,first observation,8,1.3795463,2
+2026-09-14,Kedah,pack/unit mismatch?,7,2.1137753,3
+2026-09-14,Kedah,persistent premium,104,1.5035985,4
+2026-09-14,Kedah,spike,7,1.2136716,5
+2026-09-21,Kedah,above peers,81,1.1567892,6
+2026-09-21,Kedah,first observation,37,1.236782,2
+2026-09-21,Kedah,pack/unit mismatch?,7,2.0219615,3
+2026-09-21,Kedah,persistent premium,87,1.489658,4
+2026-09-21,Kedah,spike,8,1.3062112,5
+2026-09-28,Kedah,above peers,98,1.1551731,6
+2026-09-28,Kedah,decimal slip?,1,13.944984,1
+2026-09-28,Kedah,first observation,8,1.3544283,2
+2026-09-28,Kedah,pack/unit mismatch?,7,2.162587,3
+2026-09-28,Kedah,persistent premium,100,1.5468242,4
+2026-09-28,Kedah,spike,6,1.2421355,5
+2026-10-12,Kedah,above peers,103,1.1277237,6
+2026-10-12,Kedah,first observation,10,1.4471538,2
+2026-10-12,Kedah,pack/unit mismatch?,6,2.0037854,3
+2026-10-12,Kedah,persistent premium,90,1.4299611,4
+2026-10-12,Kedah,spike,11,1.3900651,5
+2026-10-19,Kedah,above peers,110,1.1420219,6
+2026-10-19,Kedah,first observation,9,1.4228067,2
+2026-10-19,Kedah,pack/unit mismatch?,6,1.9733876,3
+2026-10-19,Kedah,persistent premium,88,1.4631004,4
+2026-10-19,Kedah,spike,7,1.2479509,5
+2026-01-05,Kelantan,first observation,220,1.3010583,2
+2026-01-12,Kelantan,above peers,86,1.1649163,6
+2026-01-12,Kelantan,first observation,34,1.2480316,2
+2026-01-12,Kelantan,pack/unit mismatch?,2,2.5293515,3
+2026-01-12,Kelantan,persistent premium,80,1.3741641,4
+2026-01-12,Kelantan,spike,18,1.2386795,5
+2026-01-19,Kelantan,above peers,82,1.1278507,6
+2026-01-19,Kelantan,first observation,9,1.3280783,2
+2026-01-19,Kelantan,pack/unit mismatch?,2,2.4439507,3
+2026-01-19,Kelantan,persistent premium,112,1.3612036,4
+2026-01-19,Kelantan,spike,15,1.2739043,5
+2026-01-26,Kelantan,above peers,93,1.2091687,6
+2026-01-26,Kelantan,first observation,10,1.4477465,2
+2026-01-26,Kelantan,pack/unit mismatch?,3,1.9837593,3
+2026-01-26,Kelantan,persistent premium,96,1.3731594,4
+2026-01-26,Kelantan,spike,18,1.2801107,5
+2026-02-02,Kelantan,above peers,53,1.2335504,6
+2026-02-02,Kelantan,first observation,9,1.6574464,2
+2026-02-02,Kelantan,pack/unit mismatch?,5,2.14972,3
+2026-02-02,Kelantan,persistent premium,96,1.4150733,4
+2026-02-02,Kelantan,spike,17,1.2955775,5
+2026-02-09,Kelantan,above peers,106,1.1921618,6
+2026-02-09,Kelantan,decimal slip?,1,10.741936,1
+2026-02-09,Kelantan,first observation,14,1.5679426,2
+2026-02-09,Kelantan,pack/unit mismatch?,3,1.9439312,3
+2026-02-09,Kelantan,persistent premium,88,1.3334413,4
+2026-02-09,Kelantan,spike,8,1.3201432,5
+2026-02-23,Kelantan,above peers,78,1.156645,6
+2026-02-23,Kelantan,first observation,30,1.3238521,2
+2026-02-23,Kelantan,pack/unit mismatch?,1,2.051282,3
+2026-02-23,Kelantan,persistent premium,82,1.4531654,4
+2026-02-23,Kelantan,spike,29,1.3768301,5
+2026-03-02,Kelantan,above peers,99,1.1603259,6
+2026-03-02,Kelantan,first observation,6,1.7256866,2
+2026-03-02,Kelantan,pack/unit mismatch?,2,2.4761207,3
+2026-03-02,Kelantan,persistent premium,81,1.357029,4
+2026-03-02,Kelantan,spike,32,1.366682,5
+2026-03-09,Kelantan,above peers,104,1.1790553,6
+2026-03-09,Kelantan,decimal slip?,1,9.808824,1
+2026-03-09,Kelantan,first observation,10,1.7050464,2
+2026-03-09,Kelantan,pack/unit mismatch?,2,2.509183,3
+2026-03-09,Kelantan,persistent premium,92,1.4524968,4
+2026-03-09,Kelantan,spike,11,1.425744,5
+2026-03-16,Kelantan,above peers,106,1.1833986,6
+2026-03-16,Kelantan,first observation,13,1.1636289,2
+2026-03-16,Kelantan,pack/unit mismatch?,2,1.9918301,3
+2026-03-16,Kelantan,persistent premium,86,1.4959565,4
+2026-03-16,Kelantan,spike,13,1.2385134,5
+2026-03-23,Kelantan,above peers,59,1.2319702,6
+2026-03-23,Kelantan,first observation,4,1.6099961,2
+2026-03-23,Kelantan,pack/unit mismatch?,9,2.08844,3
+2026-03-23,Kelantan,persistent premium,73,1.4914416,4
+2026-03-23,Kelantan,spike,35,1.2908884,5
+2026-03-30,Kelantan,above peers,65,1.1652354,6
+2026-03-30,Kelantan,first observation,34,1.2485554,2
+2026-03-30,Kelantan,pack/unit mismatch?,2,1.9521217,3
+2026-03-30,Kelantan,persistent premium,75,1.3271056,4
+2026-03-30,Kelantan,spike,44,1.3168647,5
+2026-04-06,Kelantan,above peers,92,1.1650932,6
+2026-04-06,Kelantan,first observation,12,1.383892,2
+2026-04-06,Kelantan,pack/unit mismatch?,2,2.4874609,3
+2026-04-06,Kelantan,persistent premium,86,1.3780609,4
+2026-04-06,Kelantan,spike,28,1.2715229,5
+2026-04-13,Kelantan,above peers,103,1.1724913,6
+2026-04-13,Kelantan,first observation,7,1.2772343,2
+2026-04-13,Kelantan,pack/unit mismatch?,3,2.3234577,3
+2026-04-13,Kelantan,persistent premium,80,1.4024477,4
+2026-04-13,Kelantan,spike,27,1.2862192,5
+2026-04-20,Kelantan,above peers,115,1.1601989,6
+2026-04-20,Kelantan,decimal slip?,1,8.920189,1
+2026-04-20,Kelantan,first observation,8,1.9182374,2
+2026-04-20,Kelantan,pack/unit mismatch?,3,3.3498008,3
+2026-04-20,Kelantan,persistent premium,71,1.4149595,4
+2026-04-20,Kelantan,spike,22,1.2826194,5
+2026-04-27,Kelantan,above peers,82,1.161005,6
+2026-04-27,Kelantan,first observation,50,1.3255088,2
+2026-04-27,Kelantan,pack/unit mismatch?,2,3.4487588,3
+2026-04-27,Kelantan,persistent premium,71,1.3276585,4
+2026-04-27,Kelantan,spike,15,1.261789,5
+2026-05-04,Kelantan,above peers,96,1.1653125,6
+2026-05-04,Kelantan,first observation,14,1.3479563,2
+2026-05-04,Kelantan,pack/unit mismatch?,1,1.9720118,3
+2026-05-04,Kelantan,persistent premium,74,1.3472849,4
+2026-05-04,Kelantan,spike,35,1.2606691,5
+2026-05-11,Kelantan,above peers,110,1.1760623,6
+2026-05-11,Kelantan,first observation,6,1.5372978,2
+2026-05-11,Kelantan,pack/unit mismatch?,1,1.90099,3
+2026-05-11,Kelantan,persistent premium,82,1.354754,4
+2026-05-11,Kelantan,spike,21,1.2455486,5
+2026-05-18,Kelantan,above peers,108,1.1767019,6
+2026-05-18,Kelantan,first observation,5,1.3119273,2
+2026-05-18,Kelantan,pack/unit mismatch?,5,2.360579,3
+2026-05-18,Kelantan,persistent premium,82,1.3303245,4
+2026-05-18,Kelantan,spike,20,1.4183004,5
+2026-05-25,Kelantan,above peers,79,1.1810914,6
+2026-05-25,Kelantan,first observation,40,1.2154763,2
+2026-05-25,Kelantan,pack/unit mismatch?,1,2.0,3
+2026-05-25,Kelantan,persistent premium,84,1.3764863,4
+2026-05-25,Kelantan,spike,16,1.3788129,5
+2026-06-01,Kelantan,above peers,92,1.1525488,6
+2026-06-01,Kelantan,first observation,8,1.4711633,2
+2026-06-01,Kelantan,pack/unit mismatch?,2,2.46,3
+2026-06-01,Kelantan,persistent premium,100,1.4235381,4
+2026-06-01,Kelantan,spike,18,1.2819142,5
+2026-06-08,Kelantan,above peers,113,1.173747,6
+2026-06-08,Kelantan,decimal slip?,2,9.622917,1
+2026-06-08,Kelantan,first observation,5,1.8500569,2
+2026-06-08,Kelantan,pack/unit mismatch?,6,2.1944,3
+2026-06-08,Kelantan,persistent premium,76,1.3758968,4
+2026-06-08,Kelantan,spike,18,1.2080092,5
+2026-06-15,Kelantan,above peers,102,1.1809473,6
+2026-06-15,Kelantan,first observation,8,1.6578937,2
+2026-06-15,Kelantan,pack/unit mismatch?,4,2.4609048,3
+2026-06-15,Kelantan,persistent premium,90,1.381206,4
+2026-06-15,Kelantan,spike,16,1.2233932,5
+2026-06-22,Kelantan,above peers,101,1.163878,6
+2026-06-22,Kelantan,first observation,7,1.2885629,2
+2026-06-22,Kelantan,pack/unit mismatch?,3,2.0091734,3
+2026-06-22,Kelantan,persistent premium,95,1.4219244,4
+2026-06-22,Kelantan,spike,14,1.3136053,5
+2026-06-29,Kelantan,above peers,87,1.1946453,6
+2026-06-29,Kelantan,first observation,28,1.2936971,2
+2026-06-29,Kelantan,persistent premium,89,1.4455473,4
+2026-06-29,Kelantan,spike,16,1.2519348,5
+2026-07-06,Kelantan,above peers,95,1.1556026,6
+2026-07-06,Kelantan,first observation,8,1.4228386,2
+2026-07-06,Kelantan,pack/unit mismatch?,1,1.9841269,3
+2026-07-06,Kelantan,persistent premium,91,1.4526116,4
+2026-07-06,Kelantan,spike,25,1.2791998,5
+2026-07-13,Kelantan,above peers,100,1.151059,6
+2026-07-13,Kelantan,first observation,5,1.3368059,2
+2026-07-13,Kelantan,pack/unit mismatch?,3,2.2819173,3
+2026-07-13,Kelantan,persistent premium,95,1.4328234,4
+2026-07-13,Kelantan,spike,17,1.296001,5
+2026-07-20,Kelantan,above peers,103,1.1570349,6
+2026-07-20,Kelantan,first observation,8,1.5110446,2
+2026-07-20,Kelantan,pack/unit mismatch?,2,2.5026221,3
+2026-07-20,Kelantan,persistent premium,93,1.4430538,4
+2026-07-20,Kelantan,spike,14,1.3200026,5
+2026-07-27,Kelantan,above peers,84,1.1722544,6
+2026-07-27,Kelantan,first observation,41,1.415765,2
+2026-07-27,Kelantan,pack/unit mismatch?,3,1.9893719,3
+2026-07-27,Kelantan,persistent premium,82,1.4807178,4
+2026-07-27,Kelantan,spike,10,1.2595445,5
+2026-08-03,Kelantan,above peers,87,1.1390215,6
+2026-08-03,Kelantan,decimal slip?,1,24.0,1
+2026-08-03,Kelantan,first observation,9,1.283508,2
+2026-08-03,Kelantan,pack/unit mismatch?,3,2.4090443,3
+2026-08-03,Kelantan,persistent premium,87,1.4246085,4
+2026-08-03,Kelantan,spike,33,1.3018702,5
+2026-08-10,Kelantan,above peers,98,1.1585201,6
+2026-08-10,Kelantan,first observation,6,1.1800959,2
+2026-08-10,Kelantan,pack/unit mismatch?,2,2.533338,3
+2026-08-10,Kelantan,persistent premium,87,1.4440705,4
+2026-08-10,Kelantan,spike,27,1.266465,5
+2026-08-17,Kelantan,above peers,95,1.1430987,6
+2026-08-17,Kelantan,first observation,8,1.4523919,2
+2026-08-17,Kelantan,pack/unit mismatch?,7,2.1418152,3
+2026-08-17,Kelantan,persistent premium,92,1.4217482,4
+2026-08-17,Kelantan,spike,18,1.2518731,5
+2026-08-24,Kelantan,above peers,77,1.1578648,6
+2026-08-24,Kelantan,first observation,37,1.2916882,2
+2026-08-24,Kelantan,pack/unit mismatch?,8,2.6405635,3
+2026-08-24,Kelantan,persistent premium,84,1.3722304,4
+2026-08-24,Kelantan,spike,14,1.51068,5
+2026-08-31,Kelantan,above peers,57,1.2744514,6
+2026-08-31,Kelantan,first observation,1,1.1438849,2
+2026-08-31,Kelantan,pack/unit mismatch?,5,3.01643,3
+2026-08-31,Kelantan,persistent premium,84,1.4563507,4
+2026-08-31,Kelantan,spike,33,1.2916712,5
+2026-09-07,Kelantan,above peers,86,1.174268,6
+2026-09-07,Kelantan,first observation,10,1.2709032,2
+2026-09-07,Kelantan,pack/unit mismatch?,3,2.0116746,3
+2026-09-07,Kelantan,persistent premium,96,1.4342333,4
+2026-09-07,Kelantan,spike,25,1.2707866,5
+2026-09-14,Kelantan,above peers,109,1.1648291,6
+2026-09-14,Kelantan,first observation,8,1.4610877,2
+2026-09-14,Kelantan,pack/unit mismatch?,3,1.9699163,3
+2026-09-14,Kelantan,persistent premium,82,1.3886715,4
+2026-09-14,Kelantan,spike,18,1.2226796,5
+2026-09-21,Kelantan,above peers,80,1.19759,6
+2026-09-21,Kelantan,first observation,29,1.2868001,2
+2026-09-21,Kelantan,pack/unit mismatch?,2,1.9548995,3
+2026-09-21,Kelantan,persistent premium,85,1.3759158,4
+2026-09-21,Kelantan,spike,24,1.290356,5
+2026-09-28,Kelantan,above peers,101,1.1542968,6
+2026-09-28,Kelantan,first observation,7,1.3194865,2
+2026-09-28,Kelantan,pack/unit mismatch?,1,1.9052658,3
+2026-09-28,Kelantan,persistent premium,101,1.3991084,4
+2026-09-28,Kelantan,spike,10,1.2625034,5
+2026-10-12,Kelantan,above peers,76,1.1374646,6
+2026-10-12,Kelantan,first observation,21,1.3873967,2
+2026-10-12,Kelantan,pack/unit mismatch?,1,2.0050251,3
+2026-10-12,Kelantan,persistent premium,92,1.3742306,4
+2026-10-12,Kelantan,spike,30,1.3006403,5
+2026-10-19,Kelantan,above peers,103,1.170378,6
+2026-10-19,Kelantan,first observation,9,1.5825547,2
+2026-10-19,Kelantan,pack/unit mismatch?,3,1.9847044,3
+2026-10-19,Kelantan,persistent premium,95,1.357543,4
+2026-10-19,Kelantan,spike,10,1.2157243,5
+2026-01-05,Melaka,first observation,60,1.4631255,2
+2026-01-12,Melaka,above peers,19,1.1719007,6
+2026-01-12,Melaka,first observation,3,1.338233,2
+2026-01-12,Melaka,pack/unit mismatch?,1,3.0,3
+2026-01-12,Melaka,persistent premium,35,1.4643351,4
+2026-01-12,Melaka,spike,2,1.4525253,5
+2026-01-19,Melaka,above peers,14,1.140941,6
+2026-01-19,Melaka,pack/unit mismatch?,1,3.0,3
+2026-01-19,Melaka,persistent premium,43,1.4628412,4
+2026-01-19,Melaka,spike,2,1.3714646,5
+2026-01-26,Melaka,above peers,15,1.2141484,6
+2026-01-26,Melaka,pack/unit mismatch?,1,3.0,3
+2026-01-26,Melaka,persistent premium,43,1.434766,4
+2026-01-26,Melaka,spike,1,1.2030076,5
+2026-02-02,Melaka,above peers,21,1.2050511,6
+2026-02-02,Melaka,pack/unit mismatch?,1,2.03343,3
+2026-02-02,Melaka,persistent premium,35,1.5443558,4
+2026-02-02,Melaka,spike,3,1.1588235,5
+2026-02-09,Melaka,above peers,13,1.1682801,6
+2026-02-09,Melaka,first observation,3,1.346012,2
+2026-02-09,Melaka,pack/unit mismatch?,1,3.0,3
+2026-02-09,Melaka,persistent premium,40,1.4748785,4
+2026-02-09,Melaka,spike,3,1.3118545,5
+2026-02-23,Melaka,above peers,15,1.2038763,6
+2026-02-23,Melaka,first observation,7,1.5836266,2
+2026-02-23,Melaka,pack/unit mismatch?,3,2.3675582,3
+2026-02-23,Melaka,persistent premium,32,1.4600203,4
+2026-02-23,Melaka,spike,3,1.3206998,5
+2026-03-02,Melaka,above peers,16,1.1526927,6
+2026-03-02,Melaka,decimal slip?,1,106.25391,1
+2026-03-02,Melaka,first observation,2,1.5840292,2
+2026-03-02,Melaka,pack/unit mismatch?,2,2.002684,3
+2026-03-02,Melaka,persistent premium,38,1.4626806,4
+2026-03-02,Melaka,spike,1,1.1947368,5
+2026-03-09,Melaka,above peers,23,1.1710582,6
+2026-03-09,Melaka,first observation,4,1.6890898,2
+2026-03-09,Melaka,pack/unit mismatch?,1,2.0289855,3
+2026-03-09,Melaka,persistent premium,32,1.4193445,4
+2026-03-16,Melaka,above peers,23,1.2315571,6
+2026-03-16,Melaka,first observation,2,1.4153737,2
+2026-03-16,Melaka,pack/unit mismatch?,1,2.0289855,3
+2026-03-16,Melaka,persistent premium,30,1.3704646,4
+2026-03-16,Melaka,spike,4,1.2713783,5
+2026-03-23,Melaka,above peers,22,1.2807132,6
+2026-03-23,Melaka,pack/unit mismatch?,3,1.998693,3
+2026-03-23,Melaka,persistent premium,31,1.601928,4
+2026-03-23,Melaka,spike,4,1.5050758,5
+2026-03-30,Melaka,above peers,12,1.1908779,6
+2026-03-30,Melaka,first observation,7,1.3401228,2
+2026-03-30,Melaka,pack/unit mismatch?,3,1.9954953,3
+2026-03-30,Melaka,persistent premium,30,1.4690124,4
+2026-03-30,Melaka,spike,8,1.3568891,5
+2026-04-06,Melaka,above peers,21,1.268234,6
+2026-04-06,Melaka,first observation,2,1.8000002,2
+2026-04-06,Melaka,pack/unit mismatch?,1,2.0289855,3
+2026-04-06,Melaka,persistent premium,32,1.4837953,4
+2026-04-06,Melaka,spike,4,2.4338253,5
+2026-04-13,Melaka,above peers,17,1.1868693,6
+2026-04-13,Melaka,first observation,4,1.2617974,2
+2026-04-13,Melaka,pack/unit mismatch?,2,2.0005803,3
+2026-04-13,Melaka,persistent premium,35,1.5808277,4
+2026-04-13,Melaka,spike,2,1.1566159,5
+2026-04-20,Melaka,above peers,20,1.2185496,6
+2026-04-20,Melaka,first observation,4,1.6888351,2
+2026-04-20,Melaka,pack/unit mismatch?,2,2.0005803,3
+2026-04-20,Melaka,persistent premium,33,1.5754656,4
+2026-04-20,Melaka,spike,1,1.3229046,5
+2026-04-27,Melaka,above peers,20,1.2055919,6
+2026-04-27,Melaka,first observation,4,1.2139525,2
+2026-04-27,Melaka,pack/unit mismatch?,3,2.3049612,3
+2026-04-27,Melaka,persistent premium,31,1.442227,4
+2026-04-27,Melaka,spike,2,1.347826,5
+2026-05-04,Melaka,above peers,17,1.168727,6
+2026-05-04,Melaka,first observation,1,1.2976191,2
+2026-05-04,Melaka,persistent premium,36,1.4258268,4
+2026-05-04,Melaka,spike,6,1.2398397,5
+2026-05-11,Melaka,above peers,17,1.1868821,6
+2026-05-11,Melaka,first observation,1,1.9130435,2
+2026-05-11,Melaka,pack/unit mismatch?,1,2.0289855,3
+2026-05-11,Melaka,persistent premium,39,1.519958,4
+2026-05-11,Melaka,spike,2,1.1592932,5
+2026-05-18,Melaka,above peers,20,1.1817125,6
+2026-05-18,Melaka,first observation,2,1.1638298,2
+2026-05-18,Melaka,pack/unit mismatch?,2,1.9287121,3
+2026-05-18,Melaka,persistent premium,31,1.4837267,4
+2026-05-18,Melaka,spike,5,1.2508404,5
+2026-05-25,Melaka,above peers,21,1.1595179,6
+2026-05-25,Melaka,first observation,4,1.2550974,2
+2026-05-25,Melaka,pack/unit mismatch?,5,2.185471,3
+2026-05-25,Melaka,persistent premium,30,1.421076,4
+2026-06-01,Melaka,above peers,17,1.1629951,6
+2026-06-01,Melaka,first observation,4,1.4224888,2
+2026-06-01,Melaka,pack/unit mismatch?,1,1.9047618,3
+2026-06-01,Melaka,persistent premium,34,1.4576883,4
+2026-06-01,Melaka,spike,4,1.3904887,5
+2026-06-08,Melaka,above peers,17,1.173323,6
+2026-06-08,Melaka,first observation,2,1.2187848,2
+2026-06-08,Melaka,pack/unit mismatch?,2,1.971316,3
+2026-06-08,Melaka,persistent premium,35,1.4557062,4
+2026-06-08,Melaka,spike,4,1.2496051,5
+2026-06-15,Melaka,above peers,15,1.2074543,6
+2026-06-15,Melaka,first observation,4,2.0828705,2
+2026-06-15,Melaka,pack/unit mismatch?,3,2.0316677,3
+2026-06-15,Melaka,persistent premium,34,1.5032097,4
+2026-06-15,Melaka,spike,4,1.2762833,5
+2026-06-22,Melaka,above peers,23,1.1360623,6
+2026-06-22,Melaka,pack/unit mismatch?,2,2.0420616,3
+2026-06-22,Melaka,persistent premium,34,1.4705447,4
+2026-06-22,Melaka,spike,1,1.4049295,5
+2026-06-29,Melaka,above peers,16,1.1338996,6
+2026-06-29,Melaka,first observation,8,1.3488724,2
+2026-06-29,Melaka,pack/unit mismatch?,2,2.492447,3
+2026-06-29,Melaka,persistent premium,33,1.5109603,4
+2026-06-29,Melaka,spike,1,1.346154,5
+2026-07-06,Melaka,above peers,23,1.1852928,6
+2026-07-06,Melaka,first observation,2,1.5371292,2
+2026-07-06,Melaka,persistent premium,34,1.4975214,4
+2026-07-06,Melaka,spike,1,1.2583357,5
+2026-07-13,Melaka,above peers,20,1.1960216,6
+2026-07-13,Melaka,first observation,1,2.541806,2
+2026-07-13,Melaka,pack/unit mismatch?,2,2.53825,3
+2026-07-13,Melaka,persistent premium,35,1.3769627,4
+2026-07-13,Melaka,spike,2,1.3484962,5
+2026-07-20,Melaka,above peers,21,1.1378697,6
+2026-07-20,Melaka,first observation,2,1.1702129,2
+2026-07-20,Melaka,pack/unit mismatch?,4,2.266326,3
+2026-07-20,Melaka,persistent premium,31,1.5122977,4
+2026-07-20,Melaka,spike,2,1.3213859,5
+2026-07-27,Melaka,above peers,17,1.122153,6
+2026-07-27,Melaka,first observation,16,1.2396294,2
+2026-07-27,Melaka,persistent premium,24,1.4769368,4
+2026-07-27,Melaka,spike,3,1.1808572,5
+2026-08-03,Melaka,above peers,19,1.1342083,6
+2026-08-03,Melaka,first observation,4,1.6751865,2
+2026-08-03,Melaka,persistent premium,34,1.5415373,4
+2026-08-03,Melaka,spike,3,1.2258536,5
+2026-08-10,Melaka,above peers,28,1.162577,6
+2026-08-10,Melaka,first observation,1,1.673077,2
+2026-08-10,Melaka,persistent premium,31,1.5244597,4
+2026-08-17,Melaka,above peers,11,1.2467006,6
+2026-08-17,Melaka,first observation,7,1.245547,2
+2026-08-17,Melaka,pack/unit mismatch?,4,1.986618,3
+2026-08-17,Melaka,persistent premium,32,1.4401029,4
+2026-08-17,Melaka,spike,6,1.289697,5
+2026-08-24,Melaka,above peers,21,1.1651335,6
+2026-08-24,Melaka,first observation,2,1.3135484,2
+2026-08-24,Melaka,pack/unit mismatch?,3,2.0140536,3
+2026-08-24,Melaka,persistent premium,32,1.4872842,4
+2026-08-24,Melaka,spike,2,1.2938962,5
+2026-08-31,Melaka,above peers,17,1.1691084,6
+2026-08-31,Melaka,first observation,2,1.1113176,2
+2026-08-31,Melaka,pack/unit mismatch?,2,1.9262538,3
+2026-08-31,Melaka,persistent premium,34,1.5645231,4
+2026-08-31,Melaka,spike,5,1.5323508,5
+2026-09-07,Melaka,above peers,22,1.1392633,6
+2026-09-07,Melaka,first observation,1,1.3050108,2
+2026-09-07,Melaka,pack/unit mismatch?,2,2.0200794,3
+2026-09-07,Melaka,persistent premium,31,1.4476712,4
+2026-09-07,Melaka,spike,4,1.6341127,5
+2026-09-14,Melaka,above peers,23,1.1551915,6
+2026-09-14,Melaka,first observation,5,1.639638,2
+2026-09-14,Melaka,pack/unit mismatch?,3,1.9999924,3
+2026-09-14,Melaka,persistent premium,29,1.459332,4
+2026-09-21,Melaka,above peers,12,1.2078943,6
+2026-09-21,Melaka,first observation,15,1.4286349,2
+2026-09-21,Melaka,pack/unit mismatch?,4,1.9622211,3
+2026-09-21,Melaka,persistent premium,27,1.5316279,4
+2026-09-21,Melaka,spike,2,1.309087,5
+2026-09-28,Melaka,above peers,20,1.1645321,6
+2026-09-28,Melaka,first observation,1,1.2807692,2
+2026-09-28,Melaka,pack/unit mismatch?,3,1.9479532,3
+2026-09-28,Melaka,persistent premium,33,1.5250064,4
+2026-09-28,Melaka,spike,3,1.2422389,5
+2026-10-12,Melaka,above peers,19,1.1876584,6
+2026-10-12,Melaka,first observation,4,1.3678393,2
+2026-10-12,Melaka,pack/unit mismatch?,2,1.9668736,3
+2026-10-12,Melaka,persistent premium,30,1.4657073,4
+2026-10-12,Melaka,spike,5,1.2222736,5
+2026-10-19,Melaka,above peers,22,1.1955265,6
+2026-10-19,Melaka,first observation,1,1.2587414,2
+2026-10-19,Melaka,pack/unit mismatch?,2,1.9668736,3
+2026-10-19,Melaka,persistent premium,35,1.4871048,4
+2026-01-05,Negeri Sembilan,first observation,160,1.3015983,2
+2026-01-12,Negeri Sembilan,above peers,75,1.1042317,6
+2026-01-12,Negeri Sembilan,first observation,16,1.2464468,2
+2026-01-12,Negeri Sembilan,pack/unit mismatch?,2,2.5,3
+2026-01-12,Negeri Sembilan,persistent premium,60,1.4522027,4
+2026-01-12,Negeri Sembilan,spike,7,1.2561476,5
+2026-01-19,Negeri Sembilan,above peers,77,1.1096005,6
+2026-01-19,Negeri Sembilan,first observation,6,1.4666353,2
+2026-01-19,Negeri Sembilan,pack/unit mismatch?,1,3.0612245,3
+2026-01-19,Negeri Sembilan,persistent premium,63,1.4527888,4
+2026-01-19,Negeri Sembilan,spike,13,1.2072355,5
+2026-01-26,Negeri Sembilan,above peers,84,1.1146758,6
+2026-01-26,Negeri Sembilan,first observation,5,1.1663395,2
+2026-01-26,Negeri Sembilan,pack/unit mismatch?,3,2.3251436,3
+2026-01-26,Negeri Sembilan,persistent premium,64,1.4422592,4
+2026-01-26,Negeri Sembilan,spike,4,1.3900833,5
+2026-02-02,Negeri Sembilan,above peers,47,1.2875125,6
+2026-02-02,Negeri Sembilan,first observation,14,1.5296508,2
+2026-02-02,Negeri Sembilan,pack/unit mismatch?,2,2.0331304,3
+2026-02-02,Negeri Sembilan,persistent premium,59,1.4257641,4
+2026-02-02,Negeri Sembilan,spike,18,1.209523,5
+2026-02-09,Negeri Sembilan,above peers,84,1.1245255,6
+2026-02-09,Negeri Sembilan,decimal slip?,1,51.02604,1
+2026-02-09,Negeri Sembilan,first observation,6,1.2467767,2
+2026-02-09,Negeri Sembilan,pack/unit mismatch?,3,1.9978558,3
+2026-02-09,Negeri Sembilan,persistent premium,56,1.5249473,4
+2026-02-09,Negeri Sembilan,spike,10,1.3258195,5
+2026-02-23,Negeri Sembilan,above peers,67,1.1766042,6
+2026-02-23,Negeri Sembilan,first observation,39,1.3782812,2
+2026-02-23,Negeri Sembilan,pack/unit mismatch?,1,3.0303028,3
+2026-02-23,Negeri Sembilan,persistent premium,42,1.4218657,4
+2026-02-23,Negeri Sembilan,spike,11,1.3052362,5
+2026-03-02,Negeri Sembilan,above peers,64,1.1519421,6
+2026-03-02,Negeri Sembilan,first observation,38,1.2379326,2
+2026-03-02,Negeri Sembilan,pack/unit mismatch?,5,2.6185296,3
+2026-03-02,Negeri Sembilan,persistent premium,47,1.3309159,4
+2026-03-02,Negeri Sembilan,spike,6,1.27836,5
+2026-03-09,Negeri Sembilan,above peers,80,1.1614252,6
+2026-03-09,Negeri Sembilan,decimal slip?,1,8.760952,1
+2026-03-09,Negeri Sembilan,first observation,12,1.2952739,2
+2026-03-09,Negeri Sembilan,pack/unit mismatch?,1,2.0,3
+2026-03-09,Negeri Sembilan,persistent premium,48,1.3796519,4
+2026-03-09,Negeri Sembilan,spike,18,1.3487464,5
+2026-03-16,Negeri Sembilan,above peers,102,1.1421567,6
+2026-03-16,Negeri Sembilan,first observation,6,1.3772286,2
+2026-03-16,Negeri Sembilan,persistent premium,47,1.3629267,4
+2026-03-16,Negeri Sembilan,spike,5,1.3716896,5
+2026-03-23,Negeri Sembilan,above peers,51,1.1586453,6
+2026-03-23,Negeri Sembilan,first observation,2,1.3741379,2
+2026-03-23,Negeri Sembilan,pack/unit mismatch?,3,2.0042765,3
+2026-03-23,Negeri Sembilan,persistent premium,68,1.4480677,4
+2026-03-23,Negeri Sembilan,spike,16,1.3232726,5
+2026-03-30,Negeri Sembilan,above peers,58,1.17929,6
+2026-03-30,Negeri Sembilan,first observation,20,1.350769,2
+2026-03-30,Negeri Sembilan,pack/unit mismatch?,3,2.3722112,3
+2026-03-30,Negeri Sembilan,persistent premium,51,1.5110153,4
+2026-03-30,Negeri Sembilan,spike,28,1.2895645,5
+2026-04-06,Negeri Sembilan,above peers,83,1.1618768,6
+2026-04-06,Negeri Sembilan,first observation,5,1.4308077,2
+2026-04-06,Negeri Sembilan,pack/unit mismatch?,3,2.3706293,3
+2026-04-06,Negeri Sembilan,persistent premium,57,1.464944,4
+2026-04-06,Negeri Sembilan,spike,12,1.3744016,5
+2026-04-13,Negeri Sembilan,above peers,65,1.1717386,6
+2026-04-13,Negeri Sembilan,first observation,7,1.1706163,2
+2026-04-13,Negeri Sembilan,pack/unit mismatch?,3,2.003218,3
+2026-04-13,Negeri Sembilan,persistent premium,77,1.4587919,4
+2026-04-13,Negeri Sembilan,spike,8,1.2703198,5
+2026-04-20,Negeri Sembilan,above peers,76,1.1622291,6
+2026-04-20,Negeri Sembilan,first observation,3,1.3679686,2
+2026-04-20,Negeri Sembilan,pack/unit mismatch?,2,3.0012002,3
+2026-04-20,Negeri Sembilan,persistent premium,65,1.4024282,4
+2026-04-20,Negeri Sembilan,spike,14,1.2732548,5
+2026-04-27,Negeri Sembilan,above peers,71,1.1335192,6
+2026-04-27,Negeri Sembilan,decimal slip?,1,101.4097,1
+2026-04-27,Negeri Sembilan,first observation,16,1.2539932,2
+2026-04-27,Negeri Sembilan,pack/unit mismatch?,2,2.0204082,3
+2026-04-27,Negeri Sembilan,persistent premium,65,1.4602165,4
+2026-04-27,Negeri Sembilan,spike,5,1.3302642,5
+2026-05-04,Negeri Sembilan,above peers,73,1.1390772,6
+2026-05-04,Negeri Sembilan,first observation,3,1.0744064,2
+2026-05-04,Negeri Sembilan,pack/unit mismatch?,3,2.6645944,3
+2026-05-04,Negeri Sembilan,persistent premium,67,1.4650801,4
+2026-05-04,Negeri Sembilan,spike,14,1.3009403,5
+2026-05-11,Negeri Sembilan,above peers,76,1.1348438,6
+2026-05-11,Negeri Sembilan,first observation,2,1.7061896,2
+2026-05-11,Negeri Sembilan,pack/unit mismatch?,1,3.0612245,3
+2026-05-11,Negeri Sembilan,persistent premium,70,1.469089,4
+2026-05-11,Negeri Sembilan,spike,11,1.2825415,5
+2026-05-18,Negeri Sembilan,above peers,65,1.1326244,6
+2026-05-18,Negeri Sembilan,first observation,6,1.3115766,2
+2026-05-18,Negeri Sembilan,pack/unit mismatch?,2,3.0503693,3
+2026-05-18,Negeri Sembilan,persistent premium,72,1.4369318,4
+2026-05-18,Negeri Sembilan,spike,15,1.3121965,5
+2026-05-25,Negeri Sembilan,above peers,65,1.1354283,6
+2026-05-25,Negeri Sembilan,first observation,21,1.2658019,2
+2026-05-25,Negeri Sembilan,pack/unit mismatch?,3,2.301122,3
+2026-05-25,Negeri Sembilan,persistent premium,56,1.5198408,4
+2026-05-25,Negeri Sembilan,spike,15,1.340975,5
+2026-06-01,Negeri Sembilan,above peers,76,1.141014,6
+2026-06-01,Negeri Sembilan,first observation,3,1.5434052,2
+2026-06-01,Negeri Sembilan,pack/unit mismatch?,3,2.3498547,3
+2026-06-01,Negeri Sembilan,persistent premium,67,1.4594369,4
+2026-06-01,Negeri Sembilan,spike,11,1.3763937,5
+2026-06-08,Negeri Sembilan,above peers,70,1.1435772,6
+2026-06-08,Negeri Sembilan,first observation,4,1.3609931,2
+2026-06-08,Negeri Sembilan,pack/unit mismatch?,1,2.0,3
+2026-06-08,Negeri Sembilan,persistent premium,75,1.388086,4
+2026-06-08,Negeri Sembilan,spike,10,1.2469195,5
+2026-06-15,Negeri Sembilan,above peers,89,1.1349164,6
+2026-06-15,Negeri Sembilan,decimal slip?,1,9.642858,1
+2026-06-15,Negeri Sembilan,first observation,1,1.053215,2
+2026-06-15,Negeri Sembilan,pack/unit mismatch?,1,2.0,3
+2026-06-15,Negeri Sembilan,persistent premium,60,1.386781,4
+2026-06-15,Negeri Sembilan,spike,8,1.395871,5
+2026-06-22,Negeri Sembilan,above peers,87,1.1394749,6
+2026-06-22,Negeri Sembilan,first observation,3,1.3002636,2
+2026-06-22,Negeri Sembilan,pack/unit mismatch?,2,2.0,3
+2026-06-22,Negeri Sembilan,persistent premium,63,1.4131477,4
+2026-06-22,Negeri Sembilan,spike,5,1.2294738,5
+2026-06-29,Negeri Sembilan,above peers,72,1.1247823,6
+2026-06-29,Negeri Sembilan,first observation,22,1.2882032,2
+2026-06-29,Negeri Sembilan,pack/unit mismatch?,2,2.0020041,3
+2026-06-29,Negeri Sembilan,persistent premium,55,1.4643571,4
+2026-06-29,Negeri Sembilan,spike,9,1.3389955,5
+2026-07-06,Negeri Sembilan,above peers,87,1.1627597,6
+2026-07-06,Negeri Sembilan,first observation,1,1.1764706,2
+2026-07-06,Negeri Sembilan,pack/unit mismatch?,3,2.0136054,3
+2026-07-06,Negeri Sembilan,persistent premium,55,1.3933425,4
+2026-07-06,Negeri Sembilan,spike,14,1.3104743,5
+2026-07-13,Negeri Sembilan,above peers,91,1.1446829,6
+2026-07-13,Negeri Sembilan,first observation,4,1.2989327,2
+2026-07-13,Negeri Sembilan,pack/unit mismatch?,3,1.942295,3
+2026-07-13,Negeri Sembilan,persistent premium,57,1.38469,4
+2026-07-13,Negeri Sembilan,spike,5,1.2784661,5
+2026-07-20,Negeri Sembilan,above peers,77,1.1266817,6
+2026-07-20,Negeri Sembilan,first observation,11,1.2954297,2
+2026-07-20,Negeri Sembilan,pack/unit mismatch?,6,2.007058,3
+2026-07-20,Negeri Sembilan,persistent premium,59,1.4020125,4
+2026-07-20,Negeri Sembilan,spike,7,1.2822485,5
+2026-07-27,Negeri Sembilan,above peers,68,1.1360185,6
+2026-07-27,Negeri Sembilan,first observation,21,1.2274727,2
+2026-07-27,Negeri Sembilan,pack/unit mismatch?,4,1.956954,3
+2026-07-27,Negeri Sembilan,persistent premium,56,1.4132726,4
+2026-07-27,Negeri Sembilan,spike,11,1.2524498,5
+2026-08-03,Negeri Sembilan,above peers,71,1.1216189,6
+2026-08-03,Negeri Sembilan,first observation,4,1.5192875,2
+2026-08-03,Negeri Sembilan,pack/unit mismatch?,3,3.3129017,3
+2026-08-03,Negeri Sembilan,persistent premium,67,1.4295727,4
+2026-08-03,Negeri Sembilan,spike,15,1.3732482,5
+2026-08-10,Negeri Sembilan,above peers,67,1.124674,6
+2026-08-10,Negeri Sembilan,first observation,3,1.2578981,2
+2026-08-10,Negeri Sembilan,pack/unit mismatch?,4,2.266308,3
+2026-08-10,Negeri Sembilan,persistent premium,77,1.387195,4
+2026-08-10,Negeri Sembilan,spike,9,1.2583154,5
+2026-08-17,Negeri Sembilan,above peers,80,1.1307672,6
+2026-08-17,Negeri Sembilan,decimal slip?,1,8.207886,1
+2026-08-17,Negeri Sembilan,first observation,1,1.6456141,2
+2026-08-17,Negeri Sembilan,pack/unit mismatch?,2,2.0020041,3
+2026-08-17,Negeri Sembilan,persistent premium,62,1.3952447,4
+2026-08-17,Negeri Sembilan,spike,14,1.3171065,5
+2026-08-24,Negeri Sembilan,above peers,71,1.1412778,6
+2026-08-24,Negeri Sembilan,first observation,20,1.2535169,2
+2026-08-24,Negeri Sembilan,pack/unit mismatch?,4,2.0146694,3
+2026-08-24,Negeri Sembilan,persistent premium,60,1.3299193,4
+2026-08-24,Negeri Sembilan,spike,5,1.4727232,5
+2026-08-31,Negeri Sembilan,above peers,49,1.1645715,6
+2026-08-31,Negeri Sembilan,pack/unit mismatch?,1,2.0,3
+2026-08-31,Negeri Sembilan,persistent premium,74,1.4139729,4
+2026-08-31,Negeri Sembilan,spike,16,1.215296,5
+2026-09-07,Negeri Sembilan,above peers,86,1.147543,6
+2026-09-07,Negeri Sembilan,decimal slip?,3,41.039917,1
+2026-09-07,Negeri Sembilan,first observation,5,1.4699138,2
+2026-09-07,Negeri Sembilan,pack/unit mismatch?,2,2.005874,3
+2026-09-07,Negeri Sembilan,persistent premium,61,1.3916234,4
+2026-09-07,Negeri Sembilan,spike,3,1.3211051,5
+2026-09-14,Negeri Sembilan,above peers,80,1.1541901,6
+2026-09-14,Negeri Sembilan,first observation,5,1.2488616,2
+2026-09-14,Negeri Sembilan,pack/unit mismatch?,3,2.0045834,3
+2026-09-14,Negeri Sembilan,persistent premium,67,1.3697734,4
+2026-09-14,Negeri Sembilan,spike,5,1.2117568,5
+2026-09-21,Negeri Sembilan,above peers,72,1.1427729,6
+2026-09-21,Negeri Sembilan,first observation,17,1.1794176,2
+2026-09-21,Negeri Sembilan,pack/unit mismatch?,3,1.9965143,3
+2026-09-21,Negeri Sembilan,persistent premium,59,1.3136134,4
+2026-09-21,Negeri Sembilan,spike,9,1.3005967,5
+2026-09-28,Negeri Sembilan,above peers,88,1.1457651,6
+2026-09-28,Negeri Sembilan,first observation,4,1.4509724,2
+2026-09-28,Negeri Sembilan,pack/unit mismatch?,1,1.9933279,3
+2026-09-28,Negeri Sembilan,persistent premium,57,1.3554122,4
+2026-09-28,Negeri Sembilan,spike,10,1.2652868,5
+2026-10-12,Negeri Sembilan,above peers,80,1.1324015,6
+2026-10-12,Negeri Sembilan,first observation,8,1.2469842,2
+2026-10-12,Negeri Sembilan,pack/unit mismatch?,2,2.5118153,3
+2026-10-12,Negeri Sembilan,persistent premium,60,1.3742598,4
+2026-10-12,Negeri Sembilan,spike,10,1.265011,5
+2026-10-19,Negeri Sembilan,above peers,79,1.1455013,6
+2026-10-19,Negeri Sembilan,first observation,4,1.1468257,2
+2026-10-19,Negeri Sembilan,pack/unit mismatch?,2,2.0403323,3
+2026-10-19,Negeri Sembilan,persistent premium,68,1.3651472,4
+2026-10-19,Negeri Sembilan,spike,7,1.3884203,5
+2026-01-05,Pahang,first observation,200,1.2973793,2
+2026-01-12,Pahang,above peers,60,1.1947091,6
+2026-01-12,Pahang,first observation,8,1.2995992,2
+2026-01-12,Pahang,pack/unit mismatch?,3,2.0180588,3
+2026-01-12,Pahang,persistent premium,122,1.3344452,4
+2026-01-12,Pahang,spike,7,1.4519501,5
+2026-01-19,Pahang,above peers,54,1.208056,6
+2026-01-19,Pahang,first observation,8,1.3030734,2
+2026-01-19,Pahang,pack/unit mismatch?,3,2.0243683,3
+2026-01-19,Pahang,persistent premium,128,1.3821048,4
+2026-01-19,Pahang,spike,7,1.290837,5
+2026-01-26,Pahang,above peers,61,1.232294,6
+2026-01-26,Pahang,first observation,6,1.6164207,2
+2026-01-26,Pahang,pack/unit mismatch?,3,1.9948293,3
+2026-01-26,Pahang,persistent premium,124,1.3722475,4
+2026-01-26,Pahang,spike,6,1.222657,5
+2026-02-02,Pahang,above peers,83,1.2364596,6
+2026-02-02,Pahang,first observation,1,1.4705882,2
+2026-02-02,Pahang,pack/unit mismatch?,5,2.000436,3
+2026-02-02,Pahang,persistent premium,99,1.4580351,4
+2026-02-02,Pahang,spike,12,1.3184632,5
+2026-02-09,Pahang,above peers,66,1.1952881,6
+2026-02-09,Pahang,first observation,3,1.2039965,2
+2026-02-09,Pahang,pack/unit mismatch?,3,1.984087,3
+2026-02-09,Pahang,persistent premium,114,1.350891,4
+2026-02-09,Pahang,spike,14,1.2698765,5
+2026-02-23,Pahang,above peers,45,1.2054721,6
+2026-02-23,Pahang,first observation,68,1.3796471,2
+2026-02-23,Pahang,pack/unit mismatch?,3,1.9747328,3
+2026-02-23,Pahang,persistent premium,75,1.3590513,4
+2026-02-23,Pahang,spike,9,1.1832347,5
+2026-03-02,Pahang,above peers,62,1.1946719,6
+2026-03-02,Pahang,first observation,6,1.3061029,2
+2026-03-02,Pahang,pack/unit mismatch?,6,1.9961257,3
+2026-03-02,Pahang,persistent premium,107,1.3839934,4
+2026-03-02,Pahang,spike,19,1.2723277,5
+2026-03-09,Pahang,above peers,74,1.2481267,6
+2026-03-09,Pahang,first observation,9,1.2888327,2
+2026-03-09,Pahang,pack/unit mismatch?,3,1.970799,3
+2026-03-09,Pahang,persistent premium,110,1.3846705,4
+2026-03-09,Pahang,spike,4,1.1944518,5
+2026-03-16,Pahang,above peers,85,1.2045422,6
+2026-03-16,Pahang,first observation,7,1.3205198,2
+2026-03-16,Pahang,persistent premium,105,1.3510727,4
+2026-03-16,Pahang,spike,3,1.2412537,5
+2026-03-23,Pahang,above peers,84,1.2972598,6
+2026-03-23,Pahang,first observation,3,1.271463,2
+2026-03-23,Pahang,pack/unit mismatch?,5,1.9922152,3
+2026-03-23,Pahang,persistent premium,87,1.4237716,4
+2026-03-23,Pahang,spike,21,1.289033,5
+2026-03-30,Pahang,above peers,39,1.2349197,6
+2026-03-30,Pahang,first observation,59,1.3377918,2
+2026-03-30,Pahang,pack/unit mismatch?,4,1.9289291,3
+2026-03-30,Pahang,persistent premium,81,1.4102342,4
+2026-03-30,Pahang,spike,17,1.3431655,5
+2026-04-06,Pahang,above peers,65,1.2035377,6
+2026-04-06,Pahang,first observation,2,1.6145277,2
+2026-04-06,Pahang,pack/unit mismatch?,2,2.0403225,3
+2026-04-06,Pahang,persistent premium,115,1.3253167,4
+2026-04-06,Pahang,spike,16,1.2817922,5
+2026-04-13,Pahang,above peers,71,1.2442938,6
+2026-04-13,Pahang,first observation,5,1.5088518,2
+2026-04-13,Pahang,pack/unit mismatch?,5,1.9657412,3
+2026-04-13,Pahang,persistent premium,111,1.4704827,4
+2026-04-13,Pahang,spike,8,1.411661,5
+2026-04-20,Pahang,above peers,66,1.215853,6
+2026-04-20,Pahang,first observation,5,1.1913943,2
+2026-04-20,Pahang,pack/unit mismatch?,6,1.9782537,3
+2026-04-20,Pahang,persistent premium,109,1.4878697,4
+2026-04-20,Pahang,spike,14,1.2550043,5
+2026-04-27,Pahang,above peers,53,1.2428756,6
+2026-04-27,Pahang,first observation,48,1.3451953,2
+2026-04-27,Pahang,pack/unit mismatch?,2,2.0344827,3
+2026-04-27,Pahang,persistent premium,88,1.4599571,4
+2026-04-27,Pahang,spike,9,1.270129,5
+2026-05-04,Pahang,above peers,62,1.2091029,6
+2026-05-04,Pahang,first observation,5,1.6029224,2
+2026-05-04,Pahang,pack/unit mismatch?,2,2.0344827,3
+2026-05-04,Pahang,persistent premium,111,1.4106469,4
+2026-05-04,Pahang,spike,20,1.2291217,5
+2026-05-11,Pahang,above peers,68,1.1843996,6
+2026-05-11,Pahang,first observation,4,1.2764221,2
+2026-05-11,Pahang,pack/unit mismatch?,1,2.0,3
+2026-05-11,Pahang,persistent premium,118,1.3944825,4
+2026-05-11,Pahang,spike,9,1.2640188,5
+2026-05-18,Pahang,above peers,75,1.1842498,6
+2026-05-18,Pahang,first observation,2,1.7050092,2
+2026-05-18,Pahang,pack/unit mismatch?,1,2.0,3
+2026-05-18,Pahang,persistent premium,112,1.3656065,4
+2026-05-18,Pahang,spike,10,1.3119234,5
+2026-05-25,Pahang,above peers,42,1.2126608,6
+2026-05-25,Pahang,first observation,59,1.2865384,2
+2026-05-25,Pahang,pack/unit mismatch?,1,2.0,3
+2026-05-25,Pahang,persistent premium,91,1.4300792,4
+2026-05-25,Pahang,spike,7,1.1731871,5
+2026-06-01,Pahang,above peers,59,1.213508,6
+2026-06-01,Pahang,first observation,5,1.234528,2
+2026-06-01,Pahang,persistent premium,122,1.3754051,4
+2026-06-01,Pahang,spike,14,1.3329452,5
+2026-06-08,Pahang,above peers,65,1.2260149,6
+2026-06-08,Pahang,first observation,4,1.3217118,2
+2026-06-08,Pahang,persistent premium,122,1.3663903,4
+2026-06-08,Pahang,spike,9,1.2847649,5
+2026-06-15,Pahang,above peers,60,1.2156755,6
+2026-06-15,Pahang,first observation,4,1.3229463,2
+2026-06-15,Pahang,persistent premium,133,1.4741112,4
+2026-06-15,Pahang,spike,3,1.3264993,5
+2026-06-22,Pahang,above peers,58,1.2336072,6
+2026-06-22,Pahang,first observation,12,1.3651271,2
+2026-06-22,Pahang,pack/unit mismatch?,1,2.0014307,3
+2026-06-22,Pahang,persistent premium,121,1.3701477,4
+2026-06-22,Pahang,spike,8,1.2083638,5
+2026-06-29,Pahang,above peers,41,1.2153972,6
+2026-06-29,Pahang,first observation,56,1.3164179,2
+2026-06-29,Pahang,pack/unit mismatch?,1,2.0014307,3
+2026-06-29,Pahang,persistent premium,94,1.3770199,4
+2026-06-29,Pahang,spike,8,1.2594212,5
+2026-07-06,Pahang,above peers,63,1.1664729,6
+2026-07-06,Pahang,first observation,6,1.3615876,2
+2026-07-06,Pahang,pack/unit mismatch?,2,1.9738698,3
+2026-07-06,Pahang,persistent premium,117,1.325727,4
+2026-07-06,Pahang,spike,12,1.2728838,5
+2026-07-13,Pahang,above peers,67,1.1841453,6
+2026-07-13,Pahang,first observation,3,1.482984,2
+2026-07-13,Pahang,persistent premium,123,1.315332,4
+2026-07-13,Pahang,spike,7,1.3185302,5
+2026-07-20,Pahang,above peers,58,1.1799817,6
+2026-07-20,Pahang,first observation,3,1.5250026,2
+2026-07-20,Pahang,pack/unit mismatch?,4,2.9661689,3
+2026-07-20,Pahang,persistent premium,127,1.3410729,4
+2026-07-20,Pahang,spike,8,1.3132242,5
+2026-07-27,Pahang,above peers,41,1.2240747,6
+2026-07-27,Pahang,decimal slip?,1,107.76944,1
+2026-07-27,Pahang,first observation,59,1.3051239,2
+2026-07-27,Pahang,pack/unit mismatch?,1,3.0066884,3
+2026-07-27,Pahang,persistent premium,90,1.3540885,4
+2026-07-27,Pahang,spike,8,1.3462969,5
+2026-08-03,Pahang,above peers,49,1.1643732,6
+2026-08-03,Pahang,first observation,8,1.2400265,2
+2026-08-03,Pahang,pack/unit mismatch?,1,3.0066884,3
+2026-08-03,Pahang,persistent premium,125,1.3046099,4
+2026-08-03,Pahang,spike,17,1.246905,5
+2026-08-10,Pahang,above peers,73,1.1752112,6
+2026-08-10,Pahang,first observation,7,1.2061131,2
+2026-08-10,Pahang,persistent premium,117,1.332124,4
+2026-08-10,Pahang,spike,3,1.2846193,5
+2026-08-17,Pahang,above peers,86,1.220884,6
+2026-08-17,Pahang,decimal slip?,1,9.472314,1
+2026-08-17,Pahang,first observation,3,1.2236252,2
+2026-08-17,Pahang,pack/unit mismatch?,2,3.0273092,3
+2026-08-17,Pahang,persistent premium,102,1.3297952,4
+2026-08-17,Pahang,spike,6,1.1965023,5
+2026-08-24,Pahang,above peers,57,1.1884235,6
+2026-08-24,Pahang,first observation,63,1.3579282,2
+2026-08-24,Pahang,persistent premium,77,1.3692824,4
+2026-08-24,Pahang,spike,3,1.3219321,5
+2026-08-31,Pahang,above peers,77,1.2312361,6
+2026-08-31,Pahang,first observation,2,1.184638,2
+2026-08-31,Pahang,pack/unit mismatch?,6,2.0048559,3
+2026-08-31,Pahang,persistent premium,90,1.4251857,4
+2026-08-31,Pahang,spike,25,1.2836648,5
+2026-09-07,Pahang,above peers,72,1.1746114,6
+2026-09-07,Pahang,first observation,7,1.2345778,2
+2026-09-07,Pahang,persistent premium,110,1.3573684,4
+2026-09-07,Pahang,spike,11,1.2670971,5
+2026-09-14,Pahang,above peers,72,1.2186487,6
+2026-09-14,Pahang,first observation,3,1.1522311,2
+2026-09-14,Pahang,pack/unit mismatch?,2,1.9532666,3
+2026-09-14,Pahang,persistent premium,114,1.3586195,4
+2026-09-14,Pahang,spike,9,1.4784026,5
+2026-09-21,Pahang,above peers,48,1.2342528,6
+2026-09-21,Pahang,first observation,59,1.2800167,2
+2026-09-21,Pahang,persistent premium,85,1.3399187,4
+2026-09-21,Pahang,spike,8,1.2670813,5
+2026-09-28,Pahang,above peers,72,1.229549,6
+2026-09-28,Pahang,first observation,4,1.323382,2
+2026-09-28,Pahang,persistent premium,120,1.3658458,4
+2026-09-28,Pahang,spike,4,1.1777668,5
+2026-10-12,Pahang,above peers,52,1.207089,6
+2026-10-12,Pahang,first observation,7,1.403465,2
+2026-10-12,Pahang,pack/unit mismatch?,1,1.9095477,3
+2026-10-12,Pahang,persistent premium,116,1.3864285,4
+2026-10-12,Pahang,spike,24,1.2689899,5
+2026-10-19,Pahang,above peers,69,1.2263652,6
+2026-10-19,Pahang,first observation,7,1.3464231,2
+2026-10-19,Pahang,pack/unit mismatch?,2,1.9642857,3
+2026-10-19,Pahang,persistent premium,113,1.4480832,4
+2026-10-19,Pahang,spike,9,1.2945256,5
+2026-01-05,Perak,decimal slip?,1,10.61875,1
+2026-01-05,Perak,first observation,219,1.4756244,2
+2026-01-12,Perak,above peers,43,1.1890736,6
+2026-01-12,Perak,first observation,15,1.4424465,2
+2026-01-12,Perak,pack/unit mismatch?,5,2.193486,3
+2026-01-12,Perak,persistent premium,148,1.5120381,4
+2026-01-12,Perak,spike,9,1.4379591,5
+2026-01-19,Perak,above peers,57,1.1853528,6
+2026-01-19,Perak,first observation,12,1.5766314,2
+2026-01-19,Perak,pack/unit mismatch?,5,1.9839103,3
+2026-01-19,Perak,persistent premium,132,1.5080636,4
+2026-01-19,Perak,spike,14,1.3927928,5
+2026-01-26,Perak,above peers,50,1.2180275,6
+2026-01-26,Perak,first observation,8,1.6111027,2
+2026-01-26,Perak,pack/unit mismatch?,7,2.0286303,3
+2026-01-26,Perak,persistent premium,140,1.4400787,4
+2026-01-26,Perak,spike,15,1.3171543,5
+2026-02-02,Perak,above peers,58,1.2045777,6
+2026-02-02,Perak,first observation,6,1.5648326,2
+2026-02-02,Perak,pack/unit mismatch?,16,2.320365,3
+2026-02-02,Perak,persistent premium,118,1.579089,4
+2026-02-02,Perak,spike,22,1.2757282,5
+2026-02-09,Perak,above peers,77,1.1832978,6
+2026-02-09,Perak,first observation,11,1.3571022,2
+2026-02-09,Perak,pack/unit mismatch?,9,2.9095201,3
+2026-02-09,Perak,persistent premium,108,1.4602405,4
+2026-02-09,Perak,spike,15,1.6030595,5
+2026-02-23,Perak,above peers,58,1.2337286,6
+2026-02-23,Perak,first observation,41,1.3159895,2
+2026-02-23,Perak,pack/unit mismatch?,6,1.9323244,3
+2026-02-23,Perak,persistent premium,95,1.4749585,4
+2026-02-23,Perak,spike,20,1.3566798,5
+2026-03-02,Perak,above peers,87,1.1947381,6
+2026-03-02,Perak,first observation,10,1.8295395,2
+2026-03-02,Perak,pack/unit mismatch?,5,2.121959,3
+2026-03-02,Perak,persistent premium,99,1.4681947,4
+2026-03-02,Perak,spike,19,1.439614,5
+2026-03-09,Perak,above peers,75,1.2021252,6
+2026-03-09,Perak,first observation,15,1.3350978,2
+2026-03-09,Perak,pack/unit mismatch?,4,1.9484428,3
+2026-03-09,Perak,persistent premium,117,1.4578174,4
+2026-03-09,Perak,spike,9,1.3414829,5
+2026-03-16,Perak,above peers,79,1.2679859,6
+2026-03-16,Perak,first observation,6,1.2721264,2
+2026-03-16,Perak,pack/unit mismatch?,10,2.0881422,3
+2026-03-16,Perak,persistent premium,117,1.5344696,4
+2026-03-16,Perak,spike,8,1.509958,5
+2026-03-23,Perak,above peers,88,1.2284129,6
+2026-03-23,Perak,first observation,10,1.4505675,2
+2026-03-23,Perak,pack/unit mismatch?,5,1.9951779,3
+2026-03-23,Perak,persistent premium,98,1.5478753,4
+2026-03-23,Perak,spike,19,1.2272149,5
+2026-03-30,Perak,above peers,54,1.3000548,6
+2026-03-30,Perak,first observation,48,1.3557764,2
+2026-03-30,Perak,pack/unit mismatch?,13,2.1263518,3
+2026-03-30,Perak,persistent premium,86,1.5379181,4
+2026-03-30,Perak,spike,19,1.3469889,5
+2026-04-06,Perak,above peers,84,1.2143413,6
+2026-04-06,Perak,first observation,13,1.6550119,2
+2026-04-06,Perak,pack/unit mismatch?,6,2.138064,3
+2026-04-06,Perak,persistent premium,103,1.4971431,4
+2026-04-06,Perak,spike,14,1.2811269,5
+2026-04-13,Perak,above peers,78,1.2187895,6
+2026-04-13,Perak,first observation,9,1.4819993,2
+2026-04-13,Perak,pack/unit mismatch?,5,2.1428018,3
+2026-04-13,Perak,persistent premium,112,1.5251235,4
+2026-04-13,Perak,spike,16,1.6166933,5
+2026-04-20,Perak,above peers,78,1.2228612,6
+2026-04-20,Perak,first observation,2,1.6666667,2
+2026-04-20,Perak,pack/unit mismatch?,11,2.151297,3
+2026-04-20,Perak,persistent premium,112,1.450848,4
+2026-04-20,Perak,spike,17,1.2888122,5
+2026-04-27,Perak,above peers,59,1.204556,6
+2026-04-27,Perak,first observation,36,1.3943175,2
+2026-04-27,Perak,pack/unit mismatch?,12,2.0150096,3
+2026-04-27,Perak,persistent premium,101,1.5086682,4
+2026-04-27,Perak,spike,12,1.3034467,5
+2026-05-04,Perak,above peers,69,1.1859887,6
+2026-05-04,Perak,first observation,12,1.4734849,2
+2026-05-04,Perak,pack/unit mismatch?,18,1.9638686,3
+2026-05-04,Perak,persistent premium,112,1.5331398,4
+2026-05-04,Perak,spike,9,1.3483224,5
+2026-05-11,Perak,above peers,70,1.2180645,6
+2026-05-11,Perak,first observation,5,1.5648504,2
+2026-05-11,Perak,pack/unit mismatch?,9,1.974724,3
+2026-05-11,Perak,persistent premium,120,1.5713946,4
+2026-05-11,Perak,spike,16,1.3777523,5
+2026-05-18,Perak,above peers,76,1.2103068,6
+2026-05-18,Perak,first observation,1,1.3337779,2
+2026-05-18,Perak,pack/unit mismatch?,10,2.2765908,3
+2026-05-18,Perak,persistent premium,122,1.5550914,4
+2026-05-18,Perak,spike,11,1.2798216,5
+2026-05-25,Perak,above peers,52,1.2041013,6
+2026-05-25,Perak,decimal slip?,1,100.0,1
+2026-05-25,Perak,first observation,41,1.248529,2
+2026-05-25,Perak,pack/unit mismatch?,7,2.2557385,3
+2026-05-25,Perak,persistent premium,106,1.5827018,4
+2026-05-25,Perak,spike,13,1.4168948,5
+2026-06-01,Perak,above peers,62,1.1788409,6
+2026-06-01,Perak,first observation,7,1.9048707,2
+2026-06-01,Perak,pack/unit mismatch?,10,2.247427,3
+2026-06-01,Perak,persistent premium,124,1.6203561,4
+2026-06-01,Perak,spike,17,1.3258932,5
+2026-06-08,Perak,above peers,69,1.2082328,6
+2026-06-08,Perak,first observation,2,1.9395869,2
+2026-06-08,Perak,pack/unit mismatch?,17,2.339557,3
+2026-06-08,Perak,persistent premium,118,1.5416803,4
+2026-06-08,Perak,spike,14,1.3581183,5
+2026-06-15,Perak,above peers,84,1.1986029,6
+2026-06-15,Perak,first observation,4,1.6700568,2
+2026-06-15,Perak,pack/unit mismatch?,17,2.2566335,3
+2026-06-15,Perak,persistent premium,107,1.5882931,4
+2026-06-15,Perak,spike,8,1.3827703,5
+2026-06-22,Perak,above peers,81,1.2175997,6
+2026-06-22,Perak,first observation,8,1.8301508,2
+2026-06-22,Perak,pack/unit mismatch?,15,2.186692,3
+2026-06-22,Perak,persistent premium,101,1.5965682,4
+2026-06-22,Perak,spike,15,1.3059971,5
+2026-06-29,Perak,above peers,48,1.2312543,6
+2026-06-29,Perak,first observation,35,1.345517,2
+2026-06-29,Perak,pack/unit mismatch?,11,2.4160936,3
+2026-06-29,Perak,persistent premium,114,1.6014038,4
+2026-06-29,Perak,spike,12,1.629979,5
+2026-07-06,Perak,above peers,63,1.1681457,6
+2026-07-06,Perak,first observation,3,1.4350386,2
+2026-07-06,Perak,pack/unit mismatch?,11,1.970867,3
+2026-07-06,Perak,persistent premium,123,1.5440431,4
+2026-07-06,Perak,spike,20,1.2993765,5
+2026-07-13,Perak,above peers,63,1.243523,6
+2026-07-13,Perak,first observation,9,1.8321351,2
+2026-07-13,Perak,pack/unit mismatch?,9,2.198063,3
+2026-07-13,Perak,persistent premium,130,1.588811,4
+2026-07-13,Perak,spike,9,1.2252424,5
+2026-07-20,Perak,above peers,61,1.2505448,6
+2026-07-20,Perak,first observation,3,1.1689141,2
+2026-07-20,Perak,pack/unit mismatch?,7,1.9974995,3
+2026-07-20,Perak,persistent premium,139,1.5724043,4
+2026-07-20,Perak,spike,10,1.3252013,5
+2026-07-27,Perak,above peers,40,1.2124207,6
+2026-07-27,Perak,first observation,41,1.361989,2
+2026-07-27,Perak,pack/unit mismatch?,8,1.9799935,3
+2026-07-27,Perak,persistent premium,123,1.6139429,4
+2026-07-27,Perak,spike,8,1.7541013,5
+2026-08-03,Perak,above peers,61,1.1713743,6
+2026-08-03,Perak,first observation,10,1.4782612,2
+2026-08-03,Perak,pack/unit mismatch?,8,1.9936283,3
+2026-08-03,Perak,persistent premium,129,1.5639117,4
+2026-08-03,Perak,spike,12,1.4610618,5
+2026-08-10,Perak,above peers,71,1.2458286,6
+2026-08-10,Perak,first observation,9,1.6239718,2
+2026-08-10,Perak,pack/unit mismatch?,13,2.1181865,3
+2026-08-10,Perak,persistent premium,113,1.555143,4
+2026-08-10,Perak,spike,14,1.2942936,5
+2026-08-17,Perak,above peers,71,1.1739364,6
+2026-08-17,Perak,first observation,3,1.4390007,2
+2026-08-17,Perak,pack/unit mismatch?,17,2.1025562,3
+2026-08-17,Perak,persistent premium,116,1.4885974,4
+2026-08-17,Perak,spike,13,1.3773315,5
+2026-08-24,Perak,above peers,55,1.2180763,6
+2026-08-24,Perak,first observation,53,1.3202673,2
+2026-08-24,Perak,pack/unit mismatch?,12,2.3097432,3
+2026-08-24,Perak,persistent premium,90,1.5101079,4
+2026-08-24,Perak,spike,10,1.2775488,5
+2026-08-31,Perak,above peers,54,1.2208848,6
+2026-08-31,Perak,pack/unit mismatch?,13,2.1146677,3
+2026-08-31,Perak,persistent premium,130,1.5017892,4
+2026-08-31,Perak,spike,23,1.2764872,5
+2026-09-07,Perak,above peers,79,1.2284824,6
+2026-09-07,Perak,first observation,8,1.3123579,2
+2026-09-07,Perak,pack/unit mismatch?,10,2.077947,3
+2026-09-07,Perak,persistent premium,103,1.4751564,4
+2026-09-07,Perak,spike,20,1.3143647,5
+2026-09-14,Perak,above peers,93,1.2206635,6
+2026-09-14,Perak,first observation,7,1.5083042,2
+2026-09-14,Perak,pack/unit mismatch?,11,2.3261938,3
+2026-09-14,Perak,persistent premium,100,1.4744858,4
+2026-09-14,Perak,spike,9,1.3643417,5
+2026-09-21,Perak,above peers,58,1.2154219,6
+2026-09-21,Perak,first observation,44,1.4607066,2
+2026-09-21,Perak,pack/unit mismatch?,7,1.9827567,3
+2026-09-21,Perak,persistent premium,97,1.5720352,4
+2026-09-21,Perak,spike,14,1.3570892,5
+2026-09-28,Perak,above peers,74,1.1823026,6
+2026-09-28,Perak,first observation,9,1.7793852,2
+2026-09-28,Perak,pack/unit mismatch?,8,2.2082388,3
+2026-09-28,Perak,persistent premium,115,1.6222298,4
+2026-09-28,Perak,spike,14,1.372624,5
+2026-10-12,Perak,above peers,68,1.1823707,6
+2026-10-12,Perak,first observation,8,1.5682033,2
+2026-10-12,Perak,pack/unit mismatch?,13,2.122517,3
+2026-10-12,Perak,persistent premium,113,1.5260315,4
+2026-10-12,Perak,spike,18,1.3461287,5
+2026-10-19,Perak,above peers,79,1.2001848,6
+2026-10-19,Perak,first observation,7,1.63317,2
+2026-10-19,Perak,pack/unit mismatch?,9,2.0307086,3
+2026-10-19,Perak,persistent premium,116,1.4707398,4
+2026-10-19,Perak,spike,9,1.231012,5
+2026-01-05,Perlis,first observation,60,1.2723334,2
+2026-01-12,Perlis,above peers,20,1.1104058,6
+2026-01-12,Perlis,first observation,4,1.53331,2
+2026-01-12,Perlis,pack/unit mismatch?,1,2.0183487,3
+2026-01-12,Perlis,persistent premium,30,1.459256,4
+2026-01-12,Perlis,spike,5,1.3029497,5
+2026-01-19,Perlis,above peers,27,1.1409428,6
+2026-01-19,Perlis,first observation,3,1.3046609,2
+2026-01-19,Perlis,pack/unit mismatch?,1,2.982456,3
+2026-01-19,Perlis,persistent premium,29,1.4997859,4
+2026-01-26,Perlis,above peers,32,1.1336627,6
+2026-01-26,Perlis,first observation,4,1.1677692,2
+2026-01-26,Perlis,persistent premium,23,1.7437218,4
+2026-01-26,Perlis,spike,1,1.1944445,5
+2026-02-02,Perlis,above peers,25,1.1904575,6
+2026-02-02,Perlis,first observation,2,1.5610337,2
+2026-02-02,Perlis,pack/unit mismatch?,3,3.3174436,3
+2026-02-02,Perlis,persistent premium,27,1.8479377,4
+2026-02-02,Perlis,spike,3,1.3187994,5
+2026-02-09,Perlis,above peers,31,1.1381975,6
+2026-02-09,Perlis,first observation,2,1.8500001,2
+2026-02-09,Perlis,pack/unit mismatch?,2,4.0000167,3
+2026-02-09,Perlis,persistent premium,19,1.6028316,4
+2026-02-09,Perlis,spike,6,1.3554434,5
+2026-02-23,Perlis,above peers,18,1.1746024,6
+2026-02-23,Perlis,first observation,11,1.3159447,2
+2026-02-23,Perlis,pack/unit mismatch?,1,3.0150752,3
+2026-02-23,Perlis,persistent premium,25,1.6155939,4
+2026-02-23,Perlis,spike,5,1.1795286,5
+2026-03-02,Perlis,above peers,27,1.1423328,6
+2026-03-02,Perlis,first observation,5,1.5248972,2
+2026-03-02,Perlis,pack/unit mismatch?,1,2.096584,3
+2026-03-02,Perlis,persistent premium,19,1.6103859,4
+2026-03-02,Perlis,spike,8,1.3488767,5
+2026-03-09,Perlis,above peers,24,1.2317458,6
+2026-03-09,Perlis,first observation,3,1.6758455,2
+2026-03-09,Perlis,pack/unit mismatch?,1,2.926829,3
+2026-03-09,Perlis,persistent premium,30,1.6129049,4
+2026-03-09,Perlis,spike,2,1.3082635,5
+2026-03-16,Perlis,above peers,29,1.1352347,6
+2026-03-16,Perlis,first observation,3,1.0774733,2
+2026-03-16,Perlis,pack/unit mismatch?,1,3.0379744,3
+2026-03-16,Perlis,persistent premium,23,1.5222617,4
+2026-03-16,Perlis,spike,4,1.3015689,5
+2026-03-23,Perlis,above peers,17,1.1352806,6
+2026-03-23,Perlis,first observation,2,1.239155,2
+2026-03-23,Perlis,pack/unit mismatch?,2,2.020202,3
+2026-03-23,Perlis,persistent premium,26,1.5219165,4
+2026-03-23,Perlis,spike,13,1.211437,5
+2026-03-30,Perlis,above peers,23,1.1454647,6
+2026-03-30,Perlis,first observation,14,1.195071,2
+2026-03-30,Perlis,pack/unit mismatch?,2,2.4988866,3
+2026-03-30,Perlis,persistent premium,14,1.6605341,4
+2026-03-30,Perlis,spike,7,1.2305042,5
+2026-04-06,Perlis,above peers,31,1.1463176,6
+2026-04-06,Perlis,first observation,6,1.3281914,2
+2026-04-06,Perlis,pack/unit mismatch?,4,1.9954897,3
+2026-04-06,Perlis,persistent premium,18,1.791263,4
+2026-04-06,Perlis,spike,1,1.1999999,5
+2026-04-13,Perlis,above peers,22,1.1253568,6
+2026-04-13,Perlis,first observation,6,1.7935438,2
+2026-04-13,Perlis,pack/unit mismatch?,1,2.0526316,3
+2026-04-13,Perlis,persistent premium,24,1.5535339,4
+2026-04-13,Perlis,spike,7,1.2943586,5
+2026-04-20,Perlis,above peers,24,1.1902405,6
+2026-04-20,Perlis,first observation,4,1.3856293,2
+2026-04-20,Perlis,pack/unit mismatch?,3,2.3714635,3
+2026-04-20,Perlis,persistent premium,27,1.6612154,4
+2026-04-20,Perlis,spike,2,1.5375,5
+2026-04-27,Perlis,above peers,20,1.185374,6
+2026-04-27,Perlis,first observation,13,1.2520509,2
+2026-04-27,Perlis,pack/unit mismatch?,1,2.097561,3
+2026-04-27,Perlis,persistent premium,24,1.5909628,4
+2026-04-27,Perlis,spike,2,1.1965455,5
+2026-05-04,Perlis,above peers,27,1.1402221,6
+2026-05-04,Perlis,first observation,1,1.0714287,2
+2026-05-04,Perlis,persistent premium,28,1.4255714,4
+2026-05-04,Perlis,spike,4,1.2259691,5
+2026-05-11,Perlis,above peers,24,1.137423,6
+2026-05-11,Perlis,first observation,2,1.0817598,2
+2026-05-11,Perlis,pack/unit mismatch?,2,1.9920382,3
+2026-05-11,Perlis,persistent premium,23,1.4177513,4
+2026-05-11,Perlis,spike,9,1.231413,5
+2026-05-18,Perlis,above peers,21,1.204842,6
+2026-05-18,Perlis,persistent premium,35,1.5525862,4
+2026-05-18,Perlis,spike,4,1.4902341,5
+2026-05-25,Perlis,above peers,24,1.2148986,6
+2026-05-25,Perlis,first observation,11,1.227779,2
+2026-05-25,Perlis,persistent premium,24,1.3529539,4
+2026-05-25,Perlis,spike,1,1.3431371,5
+2026-06-01,Perlis,above peers,22,1.1605784,6
+2026-06-01,Perlis,first observation,3,2.0362418,2
+2026-06-01,Perlis,pack/unit mismatch?,2,2.0663157,3
+2026-06-01,Perlis,persistent premium,30,1.3611604,4
+2026-06-01,Perlis,spike,3,1.1370184,5
+2026-06-08,Perlis,above peers,25,1.1535816,6
+2026-06-08,Perlis,pack/unit mismatch?,1,2.003643,3
+2026-06-08,Perlis,persistent premium,31,1.416886,4
+2026-06-08,Perlis,spike,3,1.3011488,5
+2026-06-15,Perlis,above peers,28,1.1971226,6
+2026-06-15,Perlis,first observation,3,1.5920979,2
+2026-06-15,Perlis,persistent premium,28,1.5025901,4
+2026-06-15,Perlis,spike,1,1.5873016,5
+2026-06-22,Perlis,above peers,31,1.1341441,6
+2026-06-22,Perlis,pack/unit mismatch?,2,2.0131745,3
+2026-06-22,Perlis,persistent premium,24,1.4257364,4
+2026-06-22,Perlis,spike,3,1.1944445,5
+2026-06-29,Perlis,above peers,17,1.1829921,6
+2026-06-29,Perlis,first observation,8,1.2069323,2
+2026-06-29,Perlis,pack/unit mismatch?,3,1.9425751,3
+2026-06-29,Perlis,persistent premium,27,1.4322954,4
+2026-06-29,Perlis,spike,5,1.3369994,5
+2026-07-06,Perlis,above peers,21,1.1944743,6
+2026-07-06,Perlis,pack/unit mismatch?,3,2.0081382,3
+2026-07-06,Perlis,persistent premium,32,1.4501948,4
+2026-07-06,Perlis,spike,4,1.242301,5
+2026-07-13,Perlis,above peers,24,1.1675695,6
+2026-07-13,Perlis,first observation,3,1.3749427,2
+2026-07-13,Perlis,pack/unit mismatch?,1,2.0,3
+2026-07-13,Perlis,persistent premium,32,1.447562,4
+2026-07-20,Perlis,above peers,22,1.2078811,6
+2026-07-20,Perlis,first observation,4,1.704512,2
+2026-07-20,Perlis,persistent premium,28,1.4861095,4
+2026-07-20,Perlis,spike,6,1.2160763,5
+2026-07-27,Perlis,above peers,19,1.1835697,6
+2026-07-27,Perlis,first observation,7,1.1792861,2
+2026-07-27,Perlis,pack/unit mismatch?,1,2.0833333,3
+2026-07-27,Perlis,persistent premium,32,1.5669267,4
+2026-07-27,Perlis,spike,1,1.7293234,5
+2026-08-03,Perlis,above peers,20,1.1980518,6
+2026-08-03,Perlis,first observation,4,1.5589254,2
+2026-08-03,Perlis,persistent premium,30,1.5102249,4
+2026-08-03,Perlis,spike,6,1.258896,5
+2026-08-10,Perlis,above peers,23,1.1447638,6
+2026-08-10,Perlis,first observation,1,1.3636365,2
+2026-08-10,Perlis,persistent premium,31,1.4716029,4
+2026-08-10,Perlis,spike,5,1.2265664,5
+2026-08-17,Perlis,above peers,20,1.1555506,6
+2026-08-17,Perlis,first observation,3,1.1444443,2
+2026-08-17,Perlis,pack/unit mismatch?,3,1.9692698,3
+2026-08-17,Perlis,persistent premium,30,1.4922625,4
+2026-08-17,Perlis,spike,4,1.2238796,5
+2026-08-24,Perlis,above peers,18,1.1507509,6
+2026-08-24,Perlis,first observation,9,1.411424,2
+2026-08-24,Perlis,pack/unit mismatch?,3,1.999803,3
+2026-08-24,Perlis,persistent premium,30,1.6023682,4
+2026-08-31,Perlis,above peers,22,1.2106934,6
+2026-08-31,Perlis,first observation,1,1.8036072,2
+2026-08-31,Perlis,pack/unit mismatch?,3,1.9665726,3
+2026-08-31,Perlis,persistent premium,26,1.5540788,4
+2026-08-31,Perlis,spike,8,1.1973896,5
+2026-09-07,Perlis,above peers,22,1.1350199,6
+2026-09-07,Perlis,first observation,1,1.2910113,2
+2026-09-07,Perlis,pack/unit mismatch?,2,2.0035872,3
+2026-09-07,Perlis,persistent premium,31,1.5332663,4
+2026-09-07,Perlis,spike,4,1.214572,5
+2026-09-14,Perlis,above peers,28,1.1291414,6
+2026-09-14,Perlis,first observation,2,1.2009599,2
+2026-09-14,Perlis,pack/unit mismatch?,2,2.065999,3
+2026-09-14,Perlis,persistent premium,28,1.5288563,4
+2026-09-21,Perlis,above peers,18,1.1703229,6
+2026-09-21,Perlis,first observation,9,1.5477157,2
+2026-09-21,Perlis,pack/unit mismatch?,1,2.094647,3
+2026-09-21,Perlis,persistent premium,30,1.5139948,4
+2026-09-21,Perlis,spike,2,1.1928573,5
+2026-09-28,Perlis,above peers,27,1.1321647,6
+2026-09-28,Perlis,first observation,1,2.3749998,2
+2026-09-28,Perlis,pack/unit mismatch?,1,2.094647,3
+2026-09-28,Perlis,persistent premium,30,1.4973829,4
+2026-09-28,Perlis,spike,1,1.1557788,5
+2026-10-12,Perlis,above peers,17,1.1122023,6
+2026-10-12,Perlis,first observation,2,1.1188658,2
+2026-10-12,Perlis,pack/unit mismatch?,2,2.4893618,3
+2026-10-12,Perlis,persistent premium,31,1.4963591,4
+2026-10-12,Perlis,spike,8,1.4095266,5
+2026-10-19,Perlis,above peers,27,1.1770909,6
+2026-10-19,Perlis,first observation,1,1.5590202,2
+2026-10-19,Perlis,persistent premium,29,1.5009513,4
+2026-10-19,Perlis,spike,3,1.226159,5
+2026-01-05,Pulau Pinang,first observation,100,1.4040483,2
+2026-01-12,Pulau Pinang,above peers,19,1.1899927,6
+2026-01-12,Pulau Pinang,first observation,6,1.7799679,2
+2026-01-12,Pulau Pinang,pack/unit mismatch?,3,1.9602839,3
+2026-01-12,Pulau Pinang,persistent premium,64,1.3808177,4
+2026-01-12,Pulau Pinang,spike,8,1.2978853,5
+2026-01-19,Pulau Pinang,above peers,18,1.2371181,6
+2026-01-19,Pulau Pinang,first observation,3,1.940482,2
+2026-01-19,Pulau Pinang,pack/unit mismatch?,6,1.9932934,3
+2026-01-19,Pulau Pinang,persistent premium,70,1.4425131,4
+2026-01-19,Pulau Pinang,spike,3,1.3739463,5
+2026-01-26,Pulau Pinang,above peers,19,1.2644179,6
+2026-01-26,Pulau Pinang,first observation,3,1.386211,2
+2026-01-26,Pulau Pinang,pack/unit mismatch?,3,1.9797474,3
+2026-01-26,Pulau Pinang,persistent premium,73,1.371653,4
+2026-01-26,Pulau Pinang,spike,2,1.3420138,5
+2026-02-02,Pulau Pinang,above peers,27,1.2216651,6
+2026-02-02,Pulau Pinang,first observation,1,1.2087913,2
+2026-02-02,Pulau Pinang,pack/unit mismatch?,1,2.074392,3
+2026-02-02,Pulau Pinang,persistent premium,51,1.3885076,4
+2026-02-02,Pulau Pinang,spike,20,1.2861375,5
+2026-02-09,Pulau Pinang,above peers,20,1.2469759,6
+2026-02-09,Pulau Pinang,first observation,2,1.7155778,2
+2026-02-09,Pulau Pinang,pack/unit mismatch?,3,2.016792,3
+2026-02-09,Pulau Pinang,persistent premium,58,1.3655658,4
+2026-02-09,Pulau Pinang,spike,17,1.4308461,5
+2026-02-23,Pulau Pinang,above peers,19,1.3822081,6
+2026-02-23,Pulau Pinang,first observation,19,1.3391119,2
+2026-02-23,Pulau Pinang,pack/unit mismatch?,1,1.9879919,3
+2026-02-23,Pulau Pinang,persistent premium,52,1.5469468,4
+2026-02-23,Pulau Pinang,spike,9,1.4884045,5
+2026-03-02,Pulau Pinang,above peers,30,1.2736657,6
+2026-03-02,Pulau Pinang,decimal slip?,1,12.777779,1
+2026-03-02,Pulau Pinang,first observation,1,1.1875,2
+2026-03-02,Pulau Pinang,persistent premium,62,1.3919622,4
+2026-03-02,Pulau Pinang,spike,6,1.3657564,5
+2026-03-09,Pulau Pinang,above peers,37,1.2678292,6
+2026-03-09,Pulau Pinang,pack/unit mismatch?,2,2.0276296,3
+2026-03-09,Pulau Pinang,persistent premium,53,1.4316099,4
+2026-03-09,Pulau Pinang,spike,8,1.3846469,5
+2026-03-16,Pulau Pinang,above peers,35,1.3448734,6
+2026-03-16,Pulau Pinang,pack/unit mismatch?,3,2.344566,3
+2026-03-16,Pulau Pinang,persistent premium,53,1.4483663,4
+2026-03-16,Pulau Pinang,spike,9,1.3175551,5
+2026-03-23,Pulau Pinang,above peers,35,1.2173166,6
+2026-03-23,Pulau Pinang,first observation,3,1.7591015,2
+2026-03-23,Pulau Pinang,pack/unit mismatch?,2,1.994,3
+2026-03-23,Pulau Pinang,persistent premium,44,1.3215848,4
+2026-03-23,Pulau Pinang,spike,16,1.2822533,5
+2026-03-30,Pulau Pinang,above peers,9,1.5044074,6
+2026-03-30,Pulau Pinang,decimal slip?,1,100.0,1
+2026-03-30,Pulau Pinang,first observation,21,1.5102044,2
+2026-03-30,Pulau Pinang,pack/unit mismatch?,4,2.249406,3
+2026-03-30,Pulau Pinang,persistent premium,49,1.4965487,4
+2026-03-30,Pulau Pinang,spike,16,1.4348445,5
+2026-04-06,Pulau Pinang,above peers,28,1.3255879,6
+2026-04-06,Pulau Pinang,first observation,4,2.1603932,2
+2026-04-06,Pulau Pinang,pack/unit mismatch?,1,1.952462,3
+2026-04-06,Pulau Pinang,persistent premium,53,1.4781157,4
+2026-04-06,Pulau Pinang,spike,14,1.3449463,5
+2026-04-13,Pulau Pinang,above peers,22,1.2665756,6
+2026-04-13,Pulau Pinang,first observation,2,1.6125,2
+2026-04-13,Pulau Pinang,pack/unit mismatch?,2,1.9045227,3
+2026-04-13,Pulau Pinang,persistent premium,63,1.5183803,4
+2026-04-13,Pulau Pinang,spike,11,1.4096875,5
+2026-04-20,Pulau Pinang,above peers,21,1.2738137,6
+2026-04-20,Pulau Pinang,first observation,1,1.2499999,2
+2026-04-20,Pulau Pinang,pack/unit mismatch?,3,2.3145955,3
+2026-04-20,Pulau Pinang,persistent premium,63,1.501957,4
+2026-04-20,Pulau Pinang,spike,12,1.4665442,5
+2026-04-27,Pulau Pinang,above peers,20,1.3252823,6
+2026-04-27,Pulau Pinang,first observation,13,1.3890678,2
+2026-04-27,Pulau Pinang,pack/unit mismatch?,1,1.9732441,3
+2026-04-27,Pulau Pinang,persistent premium,61,1.4563202,4
+2026-04-27,Pulau Pinang,spike,5,1.360814,5
+2026-05-04,Pulau Pinang,above peers,24,1.3568343,6
+2026-05-04,Pulau Pinang,first observation,3,1.6669995,2
+2026-05-04,Pulau Pinang,persistent premium,57,1.4292551,4
+2026-05-04,Pulau Pinang,spike,16,1.4053136,5
+2026-05-11,Pulau Pinang,above peers,23,1.331779,6
+2026-05-11,Pulau Pinang,first observation,3,1.5570021,2
+2026-05-11,Pulau Pinang,pack/unit mismatch?,6,1.9872168,3
+2026-05-11,Pulau Pinang,persistent premium,63,1.4009044,4
+2026-05-11,Pulau Pinang,spike,5,1.3180829,5
+2026-05-18,Pulau Pinang,above peers,16,1.356278,6
+2026-05-18,Pulau Pinang,first observation,4,2.1608632,2
+2026-05-18,Pulau Pinang,pack/unit mismatch?,5,2.1904178,3
+2026-05-18,Pulau Pinang,persistent premium,65,1.4639424,4
+2026-05-18,Pulau Pinang,spike,10,1.4643768,5
+2026-05-25,Pulau Pinang,above peers,10,1.2910616,6
+2026-05-25,Pulau Pinang,first observation,12,1.4036126,2
+2026-05-25,Pulau Pinang,pack/unit mismatch?,2,2.4886696,3
+2026-05-25,Pulau Pinang,persistent premium,72,1.4782444,4
+2026-05-25,Pulau Pinang,spike,4,1.3004172,5
+2026-06-01,Pulau Pinang,above peers,21,1.2656039,6
+2026-06-01,Pulau Pinang,first observation,7,1.6385202,2
+2026-06-01,Pulau Pinang,pack/unit mismatch?,2,1.9828042,3
+2026-06-01,Pulau Pinang,persistent premium,57,1.4794227,4
+2026-06-01,Pulau Pinang,spike,13,1.4180379,5
+2026-06-08,Pulau Pinang,above peers,35,1.3159127,6
+2026-06-08,Pulau Pinang,decimal slip?,1,8.494623,1
+2026-06-08,Pulau Pinang,first observation,3,1.3069367,2
+2026-06-08,Pulau Pinang,pack/unit mismatch?,1,1.9622641,3
+2026-06-08,Pulau Pinang,persistent premium,55,1.4352516,4
+2026-06-08,Pulau Pinang,spike,5,1.4049574,5
+2026-06-15,Pulau Pinang,above peers,34,1.3045604,6
+2026-06-15,Pulau Pinang,first observation,1,1.2499999,2
+2026-06-15,Pulau Pinang,pack/unit mismatch?,2,1.9467603,3
+2026-06-15,Pulau Pinang,persistent premium,55,1.4233805,4
+2026-06-15,Pulau Pinang,spike,8,1.4779453,5
+2026-06-22,Pulau Pinang,above peers,26,1.2858398,6
+2026-06-22,Pulau Pinang,first observation,3,1.5108792,2
+2026-06-22,Pulau Pinang,pack/unit mismatch?,2,2.0347433,3
+2026-06-22,Pulau Pinang,persistent premium,63,1.4414678,4
+2026-06-22,Pulau Pinang,spike,6,1.2913266,5
+2026-06-29,Pulau Pinang,above peers,15,1.3219259,6
+2026-06-29,Pulau Pinang,first observation,9,1.412606,2
+2026-06-29,Pulau Pinang,pack/unit mismatch?,1,1.9809523,3
+2026-06-29,Pulau Pinang,persistent premium,70,1.4264811,4
+2026-06-29,Pulau Pinang,spike,5,1.4305832,5
+2026-07-06,Pulau Pinang,above peers,11,1.2482924,6
+2026-07-06,Pulau Pinang,first observation,4,1.2118609,2
+2026-07-06,Pulau Pinang,persistent premium,74,1.3835069,4
+2026-07-06,Pulau Pinang,spike,11,1.3091245,5
+2026-07-13,Pulau Pinang,above peers,25,1.331456,6
+2026-07-13,Pulau Pinang,first observation,1,1.2096775,2
+2026-07-13,Pulau Pinang,pack/unit mismatch?,3,2.0296786,3
+2026-07-13,Pulau Pinang,persistent premium,67,1.4505843,4
+2026-07-13,Pulau Pinang,spike,4,1.3253132,5
+2026-07-20,Pulau Pinang,above peers,33,1.2561082,6
+2026-07-20,Pulau Pinang,first observation,2,1.4312108,2
+2026-07-20,Pulau Pinang,pack/unit mismatch?,1,2.0033443,3
+2026-07-20,Pulau Pinang,persistent premium,56,1.3890895,4
+2026-07-20,Pulau Pinang,spike,8,1.4574561,5
+2026-07-27,Pulau Pinang,above peers,10,1.3102534,6
+2026-07-27,Pulau Pinang,decimal slip?,1,99.982124,1
+2026-07-27,Pulau Pinang,first observation,12,1.4301682,2
+2026-07-27,Pulau Pinang,pack/unit mismatch?,2,2.036946,3
+2026-07-27,Pulau Pinang,persistent premium,69,1.4445769,4
+2026-07-27,Pulau Pinang,spike,6,1.365891,5
+2026-08-03,Pulau Pinang,above peers,18,1.2232072,6
+2026-08-03,Pulau Pinang,first observation,2,1.3913262,2
+2026-08-03,Pulau Pinang,pack/unit mismatch?,1,2.074392,3
+2026-08-03,Pulau Pinang,persistent premium,68,1.4281739,4
+2026-08-03,Pulau Pinang,spike,11,1.3744488,5
+2026-08-10,Pulau Pinang,above peers,15,1.3296604,6
+2026-08-10,Pulau Pinang,first observation,2,1.2436869,2
+2026-08-10,Pulau Pinang,pack/unit mismatch?,2,2.0371962,3
+2026-08-10,Pulau Pinang,persistent premium,71,1.4245843,4
+2026-08-10,Pulau Pinang,spike,10,1.2690927,5
+2026-08-17,Pulau Pinang,above peers,21,1.3159873,6
+2026-08-17,Pulau Pinang,first observation,3,1.6268578,2
+2026-08-17,Pulau Pinang,pack/unit mismatch?,2,2.0371962,3
+2026-08-17,Pulau Pinang,persistent premium,69,1.4467258,4
+2026-08-17,Pulau Pinang,spike,5,1.3832291,5
+2026-08-24,Pulau Pinang,above peers,18,1.3349671,6
+2026-08-24,Pulau Pinang,first observation,12,1.4222903,2
+2026-08-24,Pulau Pinang,persistent premium,66,1.473817,4
+2026-08-24,Pulau Pinang,spike,4,1.4313104,5
+2026-08-31,Pulau Pinang,above peers,29,1.281619,6
+2026-08-31,Pulau Pinang,pack/unit mismatch?,3,1.9363756,3
+2026-08-31,Pulau Pinang,persistent premium,44,1.5122643,4
+2026-08-31,Pulau Pinang,spike,24,1.3261734,5
+2026-09-07,Pulau Pinang,above peers,18,1.3459488,6
+2026-09-07,Pulau Pinang,decimal slip?,1,9.473685,1
+2026-09-07,Pulau Pinang,first observation,4,1.3740804,2
+2026-09-07,Pulau Pinang,pack/unit mismatch?,1,1.9285713,3
+2026-09-07,Pulau Pinang,persistent premium,67,1.5243406,4
+2026-09-07,Pulau Pinang,spike,9,1.3809727,5
+2026-09-14,Pulau Pinang,above peers,23,1.3199006,6
+2026-09-14,Pulau Pinang,first observation,1,2.1270905,2
+2026-09-14,Pulau Pinang,pack/unit mismatch?,2,1.9341853,3
+2026-09-14,Pulau Pinang,persistent premium,68,1.5925885,4
+2026-09-14,Pulau Pinang,spike,6,1.2932513,5
+2026-09-21,Pulau Pinang,above peers,16,1.3749353,6
+2026-09-21,Pulau Pinang,first observation,14,1.4823239,2
+2026-09-21,Pulau Pinang,pack/unit mismatch?,3,1.9899284,3
+2026-09-21,Pulau Pinang,persistent premium,60,1.6068261,4
+2026-09-21,Pulau Pinang,spike,7,1.3724695,5
+2026-09-28,Pulau Pinang,above peers,20,1.3879713,6
+2026-09-28,Pulau Pinang,first observation,2,1.5676967,2
+2026-09-28,Pulau Pinang,pack/unit mismatch?,4,1.9812015,3
+2026-09-28,Pulau Pinang,persistent premium,69,1.6253419,4
+2026-09-28,Pulau Pinang,spike,5,1.5215054,5
+2026-10-12,Pulau Pinang,above peers,14,1.3676004,6
+2026-10-12,Pulau Pinang,pack/unit mismatch?,2,1.9288143,3
+2026-10-12,Pulau Pinang,persistent premium,61,1.4902166,4
+2026-10-12,Pulau Pinang,spike,23,1.342306,5
+2026-10-19,Pulau Pinang,above peers,16,1.2813623,6
+2026-10-19,Pulau Pinang,first observation,4,1.4922495,2
+2026-10-19,Pulau Pinang,pack/unit mismatch?,2,1.9653692,3
+2026-10-19,Pulau Pinang,persistent premium,69,1.493675,4
+2026-10-19,Pulau Pinang,spike,9,1.3730185,5
+2026-01-05,Sabah,first observation,510,1.2265896,2
+2026-01-12,Sabah,above peers,218,1.1008036,6
+2026-01-12,Sabah,decimal slip?,1,10.228347,1
+2026-01-12,Sabah,first observation,106,1.2619616,2
+2026-01-12,Sabah,pack/unit mismatch?,3,1.966967,3
+2026-01-12,Sabah,persistent premium,169,1.395211,4
+2026-01-12,Sabah,spike,15,1.308445,5
+2026-01-19,Sabah,above peers,268,1.0960226,6
+2026-01-19,Sabah,decimal slip?,1,9.992307,1
+2026-01-19,Sabah,first observation,45,1.2026576,2
+2026-01-19,Sabah,pack/unit mismatch?,4,1.9809071,3
+2026-01-19,Sabah,persistent premium,191,1.4026916,4
+2026-01-19,Sabah,spike,17,1.298784,5
+2026-01-26,Sabah,above peers,238,1.0986079,6
+2026-01-26,Sabah,first observation,57,1.1975992,2
+2026-01-26,Sabah,pack/unit mismatch?,11,1.989761,3
+2026-01-26,Sabah,persistent premium,196,1.3730412,4
+2026-01-26,Sabah,spike,34,1.302315,5
+2026-02-02,Sabah,above peers,127,1.1561782,6
+2026-02-02,Sabah,first observation,17,1.4011133,2
+2026-02-02,Sabah,pack/unit mismatch?,6,1.9688334,3
+2026-02-02,Sabah,persistent premium,196,1.4191314,4
+2026-02-02,Sabah,spike,51,1.2853693,5
+2026-02-09,Sabah,above peers,254,1.1139188,6
+2026-02-09,Sabah,first observation,55,1.276742,2
+2026-02-09,Sabah,pack/unit mismatch?,3,1.998742,3
+2026-02-09,Sabah,persistent premium,194,1.3805926,4
+2026-02-09,Sabah,spike,20,1.4044629,5
+2026-02-23,Sabah,above peers,247,1.1236664,6
+2026-02-23,Sabah,first observation,103,1.1907352,2
+2026-02-23,Sabah,pack/unit mismatch?,8,1.9840522,3
+2026-02-23,Sabah,persistent premium,150,1.3875606,4
+2026-02-23,Sabah,spike,24,1.314926,5
+2026-03-02,Sabah,above peers,282,1.1111785,6
+2026-03-02,Sabah,first observation,30,1.3752393,2
+2026-03-02,Sabah,pack/unit mismatch?,4,1.9845223,3
+2026-03-02,Sabah,persistent premium,190,1.3949927,4
+2026-03-02,Sabah,spike,22,1.4878364,5
+2026-03-09,Sabah,above peers,275,1.113281,6
+2026-03-09,Sabah,first observation,43,1.2121125,2
+2026-03-09,Sabah,pack/unit mismatch?,5,1.991286,3
+2026-03-09,Sabah,persistent premium,186,1.3828775,4
+2026-03-09,Sabah,spike,17,1.4011993,5
+2026-03-16,Sabah,above peers,319,1.1656262,6
+2026-03-16,Sabah,first observation,29,1.2210735,2
+2026-03-16,Sabah,pack/unit mismatch?,3,2.0416024,3
+2026-03-16,Sabah,persistent premium,147,1.3538254,4
+2026-03-16,Sabah,spike,18,1.3096037,5
+2026-03-23,Sabah,above peers,267,1.1329076,6
+2026-03-23,Sabah,first observation,95,1.1863229,2
+2026-03-23,Sabah,pack/unit mismatch?,7,2.1147876,3
+2026-03-23,Sabah,persistent premium,138,1.3661377,4
+2026-03-23,Sabah,spike,20,1.297694,5
+2026-03-30,Sabah,above peers,102,1.1672856,6
+2026-03-30,Sabah,first observation,15,1.3523052,2
+2026-03-30,Sabah,pack/unit mismatch?,10,2.0069618,3
+2026-03-30,Sabah,persistent premium,133,1.470694,4
+2026-03-30,Sabah,spike,107,1.3063728,5
+2026-04-06,Sabah,above peers,235,1.1149175,6
+2026-04-06,Sabah,decimal slip?,1,112.11112,1
+2026-04-06,Sabah,first observation,62,1.3238521,2
+2026-04-06,Sabah,pack/unit mismatch?,2,1.9751773,3
+2026-04-06,Sabah,persistent premium,159,1.387827,4
+2026-04-06,Sabah,spike,69,1.2521394,5
+2026-04-13,Sabah,above peers,301,1.1329973,6
+2026-04-13,Sabah,decimal slip?,2,9.225456,1
+2026-04-13,Sabah,first observation,36,1.3389521,2
+2026-04-13,Sabah,pack/unit mismatch?,3,1.9962837,3
+2026-04-13,Sabah,persistent premium,159,1.3817863,4
+2026-04-13,Sabah,spike,29,1.354126,5
+2026-04-20,Sabah,above peers,300,1.1295063,6
+2026-04-20,Sabah,first observation,51,1.4501659,2
+2026-04-20,Sabah,pack/unit mismatch?,5,1.975198,3
+2026-04-20,Sabah,persistent premium,143,1.4004976,4
+2026-04-20,Sabah,spike,28,1.4947263,5
+2026-04-27,Sabah,above peers,256,1.1317956,6
+2026-04-27,Sabah,first observation,95,1.214704,2
+2026-04-27,Sabah,pack/unit mismatch?,6,2.0002174,3
+2026-04-27,Sabah,persistent premium,155,1.3833121,4
+2026-04-27,Sabah,spike,16,1.2694609,5
+2026-05-04,Sabah,above peers,285,1.1315496,6
+2026-05-04,Sabah,decimal slip?,1,8.465608,1
+2026-05-04,Sabah,first observation,35,1.274196,2
+2026-05-04,Sabah,pack/unit mismatch?,6,1.9503685,3
+2026-05-04,Sabah,persistent premium,184,1.4179319,4
+2026-05-04,Sabah,spike,22,1.3813205,5
+2026-05-11,Sabah,above peers,289,1.1246357,6
+2026-05-11,Sabah,first observation,31,1.3721721,2
+2026-05-11,Sabah,pack/unit mismatch?,9,1.9938902,3
+2026-05-11,Sabah,persistent premium,186,1.4173688,4
+2026-05-11,Sabah,spike,14,1.3653965,5
+2026-05-18,Sabah,above peers,294,1.1277591,6
+2026-05-18,Sabah,first observation,31,1.4229593,2
+2026-05-18,Sabah,pack/unit mismatch?,9,1.9706516,3
+2026-05-18,Sabah,persistent premium,180,1.3967639,4
+2026-05-18,Sabah,spike,18,1.4007988,5
+2026-05-25,Sabah,above peers,239,1.1225079,6
+2026-05-25,Sabah,first observation,87,1.2090018,2
+2026-05-25,Sabah,pack/unit mismatch?,15,2.0306358,3
+2026-05-25,Sabah,persistent premium,186,1.3720919,4
+2026-05-25,Sabah,spike,9,1.2912786,5
+2026-06-01,Sabah,above peers,122,1.1641423,6
+2026-06-01,Sabah,first observation,13,1.4036477,2
+2026-06-01,Sabah,pack/unit mismatch?,9,1.9908091,3
+2026-06-01,Sabah,persistent premium,160,1.4508245,4
+2026-06-01,Sabah,spike,66,1.3580307,5
+2026-06-08,Sabah,above peers,256,1.1160913,6
+2026-06-08,Sabah,first observation,35,1.3285607,2
+2026-06-08,Sabah,pack/unit mismatch?,7,2.0032938,3
+2026-06-08,Sabah,persistent premium,198,1.3889159,4
+2026-06-08,Sabah,spike,31,1.3452804,5
+2026-06-15,Sabah,above peers,281,1.1201973,6
+2026-06-15,Sabah,decimal slip?,1,10.000001,1
+2026-06-15,Sabah,first observation,35,1.3220315,2
+2026-06-15,Sabah,pack/unit mismatch?,11,2.1800318,3
+2026-06-15,Sabah,persistent premium,173,1.3859491,4
+2026-06-15,Sabah,spike,25,1.4147055,5
+2026-06-22,Sabah,above peers,270,1.1122919,6
+2026-06-22,Sabah,decimal slip?,1,10.003,1
+2026-06-22,Sabah,first observation,50,1.3413118,2
+2026-06-22,Sabah,pack/unit mismatch?,9,1.9894079,3
+2026-06-22,Sabah,persistent premium,173,1.392578,4
+2026-06-22,Sabah,spike,27,1.3626422,5
+2026-06-29,Sabah,above peers,241,1.1256723,6
+2026-06-29,Sabah,first observation,90,1.2379209,2
+2026-06-29,Sabah,pack/unit mismatch?,15,1.9894321,3
+2026-06-29,Sabah,persistent premium,166,1.4090829,4
+2026-06-29,Sabah,spike,21,1.3111187,5
+2026-07-06,Sabah,above peers,261,1.1127489,6
+2026-07-06,Sabah,first observation,33,1.4086422,2
+2026-07-06,Sabah,pack/unit mismatch?,9,1.9744792,3
+2026-07-06,Sabah,persistent premium,187,1.4079485,4
+2026-07-06,Sabah,spike,34,1.4112084,5
+2026-07-13,Sabah,above peers,292,1.1233606,6
+2026-07-13,Sabah,first observation,41,1.277649,2
+2026-07-13,Sabah,pack/unit mismatch?,6,1.9812603,3
+2026-07-13,Sabah,persistent premium,166,1.3911781,4
+2026-07-13,Sabah,spike,27,1.4105287,5
+2026-07-20,Sabah,above peers,250,1.1244669,6
+2026-07-20,Sabah,first observation,46,1.3494209,2
+2026-07-20,Sabah,pack/unit mismatch?,8,1.9929283,3
+2026-07-20,Sabah,persistent premium,187,1.3762026,4
+2026-07-20,Sabah,spike,30,1.3622872,5
+2026-07-27,Sabah,above peers,251,1.1413819,6
+2026-07-27,Sabah,first observation,84,1.186273,2
+2026-07-27,Sabah,pack/unit mismatch?,9,1.9867183,3
+2026-07-27,Sabah,persistent premium,173,1.38755,4
+2026-07-27,Sabah,spike,18,1.2931404,5
+2026-08-03,Sabah,above peers,269,1.1412423,6
+2026-08-03,Sabah,first observation,33,1.453312,2
+2026-08-03,Sabah,pack/unit mismatch?,11,1.974546,3
+2026-08-03,Sabah,persistent premium,188,1.3999858,4
+2026-08-03,Sabah,spike,29,1.3369282,5
+2026-08-10,Sabah,above peers,267,1.1276895,6
+2026-08-10,Sabah,first observation,31,1.2807927,2
+2026-08-10,Sabah,pack/unit mismatch?,6,1.9876298,3
+2026-08-10,Sabah,persistent premium,183,1.3965172,4
+2026-08-10,Sabah,spike,39,1.2900105,5
+2026-08-17,Sabah,above peers,286,1.1297042,6
+2026-08-17,Sabah,first observation,36,1.4468892,2
+2026-08-17,Sabah,pack/unit mismatch?,8,1.9949943,3
+2026-08-17,Sabah,persistent premium,179,1.4142694,4
+2026-08-17,Sabah,spike,20,1.4660989,5
+2026-08-24,Sabah,above peers,224,1.1443075,6
+2026-08-24,Sabah,first observation,119,1.2554079,2
+2026-08-24,Sabah,pack/unit mismatch?,6,1.9824877,3
+2026-08-24,Sabah,persistent premium,177,1.4099283,4
+2026-08-24,Sabah,spike,11,1.6084251,5
+2026-08-31,Sabah,above peers,131,1.2087569,6
+2026-08-31,Sabah,first observation,10,1.3570894,2
+2026-08-31,Sabah,pack/unit mismatch?,15,2.0482163,3
+2026-08-31,Sabah,persistent premium,169,1.396058,4
+2026-08-31,Sabah,spike,40,1.4086058,5
+2026-09-07,Sabah,above peers,273,1.124851,6
+2026-09-07,Sabah,first observation,33,1.2800932,2
+2026-09-07,Sabah,pack/unit mismatch?,10,2.0695338,3
+2026-09-07,Sabah,persistent premium,195,1.3891102,4
+2026-09-07,Sabah,spike,23,1.2505785,5
+2026-09-14,Sabah,above peers,283,1.1329114,6
+2026-09-14,Sabah,first observation,28,1.4092023,2
+2026-09-14,Sabah,pack/unit mismatch?,5,1.9755436,3
+2026-09-14,Sabah,persistent premium,192,1.3978215,4
+2026-09-14,Sabah,spike,23,1.6489384,5
+2026-09-21,Sabah,above peers,238,1.130259,6
+2026-09-21,Sabah,first observation,105,1.1896287,2
+2026-09-21,Sabah,pack/unit mismatch?,5,1.9694395,3
+2026-09-21,Sabah,persistent premium,173,1.3739307,4
+2026-09-21,Sabah,spike,15,1.3933932,5
+2026-09-28,Sabah,above peers,276,1.122902,6
+2026-09-28,Sabah,first observation,33,1.2361467,2
+2026-09-28,Sabah,pack/unit mismatch?,9,1.9858823,3
+2026-09-28,Sabah,persistent premium,198,1.3434162,4
+2026-09-28,Sabah,spike,11,1.3771892,5
+2026-10-12,Sabah,above peers,245,1.1184357,6
+2026-10-12,Sabah,decimal slip?,1,9.31677,1
+2026-10-12,Sabah,first observation,80,1.3536665,2
+2026-10-12,Sabah,pack/unit mismatch?,8,1.9853213,3
+2026-10-12,Sabah,persistent premium,170,1.3521774,4
+2026-10-12,Sabah,spike,22,1.3278596,5
+2026-10-19,Sabah,above peers,266,1.1231186,6
+2026-10-19,Sabah,first observation,38,1.4907857,2
+2026-10-19,Sabah,pack/unit mismatch?,10,2.1958258,3
+2026-10-19,Sabah,persistent premium,199,1.3746157,4
+2026-10-19,Sabah,spike,12,1.7660929,5
+2026-01-05,Sarawak,first observation,660,1.2220507,2
+2026-01-12,Sarawak,above peers,332,1.0956119,6
+2026-01-12,Sarawak,first observation,61,1.285769,2
+2026-01-12,Sarawak,pack/unit mismatch?,7,1.9977216,3
+2026-01-12,Sarawak,persistent premium,227,1.3805885,4
+2026-01-12,Sarawak,spike,13,1.4056423,5
+2026-01-19,Sarawak,above peers,353,1.0930187,6
+2026-01-19,Sarawak,first observation,31,1.2815586,2
+2026-01-19,Sarawak,pack/unit mismatch?,6,1.9734764,3
+2026-01-19,Sarawak,persistent premium,250,1.3696179,4
+2026-01-19,Sarawak,spike,20,1.2979536,5
+2026-01-26,Sarawak,above peers,325,1.1054678,6
+2026-01-26,Sarawak,first observation,48,1.2195798,2
+2026-01-26,Sarawak,pack/unit mismatch?,2,1.9938374,3
+2026-01-26,Sarawak,persistent premium,266,1.3702126,4
+2026-01-26,Sarawak,spike,19,1.2652597,5
+2026-02-02,Sarawak,above peers,118,1.161888,6
+2026-02-02,Sarawak,first observation,21,1.3564994,2
+2026-02-02,Sarawak,pack/unit mismatch?,7,1.9970227,3
+2026-02-02,Sarawak,persistent premium,249,1.4320519,4
+2026-02-02,Sarawak,spike,26,1.3520508,5
+2026-02-09,Sarawak,above peers,340,1.0947819,6
+2026-02-09,Sarawak,first observation,51,1.4175695,2
+2026-02-09,Sarawak,pack/unit mismatch?,5,2.2032042,3
+2026-02-09,Sarawak,persistent premium,248,1.3943937,4
+2026-02-09,Sarawak,spike,16,1.2526261,5
+2026-02-23,Sarawak,above peers,274,1.0937159,6
+2026-02-23,Sarawak,first observation,118,1.2039735,2
+2026-02-23,Sarawak,pack/unit mismatch?,3,2.025497,3
+2026-02-23,Sarawak,persistent premium,249,1.3728243,4
+2026-02-23,Sarawak,spike,16,1.2851495,5
+2026-03-02,Sarawak,above peers,344,1.1010993,6
+2026-03-02,Sarawak,first observation,33,1.2458866,2
+2026-03-02,Sarawak,pack/unit mismatch?,7,1.959802,3
+2026-03-02,Sarawak,persistent premium,256,1.3900034,4
+2026-03-02,Sarawak,spike,20,1.5645038,5
+2026-03-09,Sarawak,above peers,346,1.1117855,6
+2026-03-09,Sarawak,first observation,39,1.3414241,2
+2026-03-09,Sarawak,pack/unit mismatch?,9,1.9761012,3
+2026-03-09,Sarawak,persistent premium,253,1.3908333,4
+2026-03-09,Sarawak,spike,13,1.3255975,5
+2026-03-16,Sarawak,above peers,391,1.1164206,6
+2026-03-16,Sarawak,decimal slip?,1,9.359624,1
+2026-03-16,Sarawak,first observation,31,1.3292708,2
+2026-03-16,Sarawak,pack/unit mismatch?,4,1.9802504,3
+2026-03-16,Sarawak,persistent premium,212,1.3368468,4
+2026-03-16,Sarawak,spike,12,1.3561301,5
+2026-03-23,Sarawak,above peers,158,1.1943752,6
+2026-03-23,Sarawak,first observation,25,1.292983,2
+2026-03-23,Sarawak,pack/unit mismatch?,5,1.9877392,3
+2026-03-23,Sarawak,persistent premium,195,1.4126498,4
+2026-03-23,Sarawak,spike,37,1.2859659,5
+2026-03-30,Sarawak,above peers,230,1.0976871,6
+2026-03-30,Sarawak,first observation,123,1.2392106,2
+2026-03-30,Sarawak,pack/unit mismatch?,8,2.01694,3
+2026-03-30,Sarawak,persistent premium,211,1.4355716,4
+2026-03-30,Sarawak,spike,68,1.2768557,5
+2026-04-06,Sarawak,above peers,350,1.1177098,6
+2026-04-06,Sarawak,first observation,33,1.2719549,2
+2026-04-06,Sarawak,pack/unit mismatch?,5,2.1706355,3
+2026-04-06,Sarawak,persistent premium,251,1.4110658,4
+2026-04-06,Sarawak,spike,21,1.385622,5
+2026-04-13,Sarawak,above peers,322,1.1167812,6
+2026-04-13,Sarawak,first observation,50,1.346294,2
+2026-04-13,Sarawak,pack/unit mismatch?,6,2.1253679,3
+2026-04-13,Sarawak,persistent premium,262,1.4037677,4
+2026-04-13,Sarawak,spike,20,1.3703035,5
+2026-04-20,Sarawak,above peers,348,1.111185,6
+2026-04-20,Sarawak,decimal slip?,1,13.0529375,1
+2026-04-20,Sarawak,first observation,33,1.3701168,2
+2026-04-20,Sarawak,pack/unit mismatch?,12,2.1706066,3
+2026-04-20,Sarawak,persistent premium,243,1.4101642,4
+2026-04-20,Sarawak,spike,23,1.3325614,5
+2026-04-27,Sarawak,above peers,303,1.1105738,6
+2026-04-27,Sarawak,first observation,111,1.2143996,2
+2026-04-27,Sarawak,pack/unit mismatch?,11,2.1908553,3
+2026-04-27,Sarawak,persistent premium,225,1.3969194,4
+2026-04-27,Sarawak,spike,10,1.2586515,5
+2026-05-04,Sarawak,above peers,348,1.102553,6
+2026-05-04,Sarawak,first observation,23,1.4365135,2
+2026-05-04,Sarawak,pack/unit mismatch?,11,2.0964165,3
+2026-05-04,Sarawak,persistent premium,262,1.4163318,4
+2026-05-04,Sarawak,spike,16,1.3018559,5
+2026-05-11,Sarawak,above peers,340,1.113622,6
+2026-05-11,Sarawak,first observation,25,1.3047295,2
+2026-05-11,Sarawak,pack/unit mismatch?,21,2.143496,3
+2026-05-11,Sarawak,persistent premium,258,1.4340245,4
+2026-05-11,Sarawak,spike,16,1.3990718,5
+2026-05-18,Sarawak,above peers,345,1.105923,6
+2026-05-18,Sarawak,first observation,26,1.2933568,2
+2026-05-18,Sarawak,pack/unit mismatch?,20,2.1404412,3
+2026-05-18,Sarawak,persistent premium,257,1.4375148,4
+2026-05-18,Sarawak,spike,12,1.310139,5
+2026-05-25,Sarawak,above peers,279,1.1128634,6
+2026-05-25,Sarawak,first observation,114,1.2327446,2
+2026-05-25,Sarawak,pack/unit mismatch?,14,2.2814968,3
+2026-05-25,Sarawak,persistent premium,236,1.4074917,4
+2026-05-25,Sarawak,spike,17,1.2817671,5
+2026-06-01,Sarawak,above peers,115,1.2119538,6
+2026-06-01,Sarawak,first observation,9,1.4307332,2
+2026-06-01,Sarawak,pack/unit mismatch?,5,2.394649,3
+2026-06-01,Sarawak,persistent premium,177,1.4962382,4
+2026-06-01,Sarawak,spike,58,1.3450485,5
+2026-06-08,Sarawak,above peers,331,1.1034226,6
+2026-06-08,Sarawak,decimal slip?,1,100.0,1
+2026-06-08,Sarawak,first observation,40,1.354793,2
+2026-06-08,Sarawak,pack/unit mismatch?,11,2.0794108,3
+2026-06-08,Sarawak,persistent premium,245,1.3910536,4
+2026-06-08,Sarawak,spike,32,1.3330711,5
+2026-06-15,Sarawak,above peers,341,1.1117636,6
+2026-06-15,Sarawak,first observation,32,1.3860788,2
+2026-06-15,Sarawak,pack/unit mismatch?,12,2.0831475,3
+2026-06-15,Sarawak,persistent premium,256,1.4114896,4
+2026-06-15,Sarawak,spike,19,1.3003598,5
+2026-06-22,Sarawak,above peers,347,1.1146251,6
+2026-06-22,Sarawak,decimal slip?,1,98.60915,1
+2026-06-22,Sarawak,first observation,51,1.2607166,2
+2026-06-22,Sarawak,pack/unit mismatch?,12,2.0438068,3
+2026-06-22,Sarawak,persistent premium,236,1.3961229,4
+2026-06-22,Sarawak,spike,13,1.3578968,5
+2026-06-29,Sarawak,above peers,309,1.1129614,6
+2026-06-29,Sarawak,first observation,111,1.1941346,2
+2026-06-29,Sarawak,pack/unit mismatch?,8,1.994553,3
+2026-06-29,Sarawak,persistent premium,216,1.4042246,4
+2026-06-29,Sarawak,spike,9,1.4143307,5
+2026-07-06,Sarawak,above peers,342,1.1128229,6
+2026-07-06,Sarawak,first observation,47,1.2641382,2
+2026-07-06,Sarawak,pack/unit mismatch?,10,1.9858944,3
+2026-07-06,Sarawak,persistent premium,245,1.382339,4
+2026-07-06,Sarawak,spike,16,1.2312549,5
+2026-07-13,Sarawak,above peers,345,1.1038524,6
+2026-07-13,Sarawak,first observation,38,1.307562,2
+2026-07-13,Sarawak,pack/unit mismatch?,7,2.2512944,3
+2026-07-13,Sarawak,persistent premium,255,1.3995408,4
+2026-07-13,Sarawak,spike,15,1.3310645,5
+2026-07-20,Sarawak,above peers,358,1.1022031,6
+2026-07-20,Sarawak,first observation,32,1.3144037,2
+2026-07-20,Sarawak,pack/unit mismatch?,14,2.1287825,3
+2026-07-20,Sarawak,persistent premium,238,1.370795,4
+2026-07-20,Sarawak,spike,10,1.2452744,5
+2026-07-27,Sarawak,above peers,302,1.1091858,6
+2026-07-27,Sarawak,first observation,119,1.1794825,2
+2026-07-27,Sarawak,pack/unit mismatch?,13,2.070959,3
+2026-07-27,Sarawak,persistent premium,216,1.3705449,4
+2026-07-27,Sarawak,spike,10,1.2463946,5
+2026-08-03,Sarawak,above peers,362,1.1019809,6
+2026-08-03,Sarawak,first observation,29,1.2423046,2
+2026-08-03,Sarawak,pack/unit mismatch?,8,2.1084871,3
+2026-08-03,Sarawak,persistent premium,246,1.3782613,4
+2026-08-03,Sarawak,spike,15,1.2926323,5
+2026-08-10,Sarawak,above peers,375,1.10225,6
+2026-08-10,Sarawak,first observation,24,1.1958324,2
+2026-08-10,Sarawak,pack/unit mismatch?,11,2.0121076,3
+2026-08-10,Sarawak,persistent premium,230,1.3824217,4
+2026-08-10,Sarawak,spike,18,1.2688334,5
+2026-08-17,Sarawak,above peers,370,1.1089975,6
+2026-08-17,Sarawak,first observation,26,1.4274033,2
+2026-08-17,Sarawak,pack/unit mismatch?,11,2.0991704,3
+2026-08-17,Sarawak,persistent premium,234,1.3688504,4
+2026-08-17,Sarawak,spike,19,1.2365348,5
+2026-08-24,Sarawak,above peers,317,1.1105101,6
+2026-08-24,Sarawak,first observation,104,1.2142609,2
+2026-08-24,Sarawak,pack/unit mismatch?,11,1.9888991,3
+2026-08-24,Sarawak,persistent premium,220,1.3812287,4
+2026-08-24,Sarawak,spike,8,1.3226836,5
+2026-08-31,Sarawak,above peers,117,1.1720991,6
+2026-08-31,Sarawak,first observation,19,1.5028794,2
+2026-08-31,Sarawak,pack/unit mismatch?,8,2.0268333,3
+2026-08-31,Sarawak,persistent premium,218,1.4470907,4
+2026-08-31,Sarawak,spike,29,1.3020697,5
+2026-09-07,Sarawak,above peers,354,1.1098001,6
+2026-09-07,Sarawak,first observation,32,1.3281039,2
+2026-09-07,Sarawak,pack/unit mismatch?,9,2.1032946,3
+2026-09-07,Sarawak,persistent premium,247,1.3691747,4
+2026-09-07,Sarawak,spike,18,1.303268,5
+2026-09-14,Sarawak,above peers,356,1.1035936,6
+2026-09-14,Sarawak,first observation,29,1.2311758,2
+2026-09-14,Sarawak,pack/unit mismatch?,11,2.0941565,3
+2026-09-14,Sarawak,persistent premium,244,1.3828968,4
+2026-09-14,Sarawak,spike,20,1.3244277,5
+2026-09-21,Sarawak,above peers,313,1.1017056,6
+2026-09-21,Sarawak,first observation,100,1.1566297,2
+2026-09-21,Sarawak,pack/unit mismatch?,8,2.1179965,3
+2026-09-21,Sarawak,persistent premium,226,1.3759216,4
+2026-09-21,Sarawak,spike,13,1.2419322,5
+2026-09-28,Sarawak,above peers,360,1.1019415,6
+2026-09-28,Sarawak,first observation,24,1.3322881,2
+2026-09-28,Sarawak,pack/unit mismatch?,11,2.080134,3
+2026-09-28,Sarawak,persistent premium,236,1.3676401,4
+2026-09-28,Sarawak,spike,9,1.2641044,5
+2026-10-12,Sarawak,above peers,338,1.099474,6
+2026-10-12,Sarawak,first observation,51,1.2888117,2
+2026-10-12,Sarawak,pack/unit mismatch?,10,1.977622,3
+2026-10-12,Sarawak,persistent premium,215,1.3664161,4
+2026-10-12,Sarawak,spike,26,1.302821,5
+2026-10-19,Sarawak,above peers,359,1.1031368,6
+2026-10-19,Sarawak,first observation,22,1.4048262,2
+2026-10-19,Sarawak,pack/unit mismatch?,11,1.9868107,3
+2026-10-19,Sarawak,persistent premium,228,1.3827916,4
+2026-10-19,Sarawak,spike,20,1.3670936,5
+2026-01-05,Selangor,decimal slip?,1,92.994934,1
+2026-01-05,Selangor,first observation,199,1.2907733,2
+2026-01-12,Selangor,above peers,80,1.1320398,6
+2026-01-12,Selangor,first observation,13,1.3374679,2
+2026-01-12,Selangor,persistent premium,95,1.3945557,4
+2026-01-12,Selangor,spike,12,1.2522098,5
+2026-01-19,Selangor,above peers,80,1.1380512,6
+2026-01-19,Selangor,decimal slip?,1,10.000001,1
+2026-01-19,Selangor,first observation,4,1.6205382,2
+2026-01-19,Selangor,persistent premium,103,1.366247,4
+2026-01-19,Selangor,spike,12,1.2661874,5
+2026-01-26,Selangor,above peers,84,1.1474813,6
+2026-01-26,Selangor,first observation,12,1.4306135,2
+2026-01-26,Selangor,pack/unit mismatch?,1,2.0204082,3
+2026-01-26,Selangor,persistent premium,93,1.3534752,4
+2026-01-26,Selangor,spike,10,1.2925549,5
+2026-02-02,Selangor,above peers,64,1.1364095,6
+2026-02-02,Selangor,pack/unit mismatch?,6,1.9772435,3
+2026-02-02,Selangor,persistent premium,113,1.6588284,4
+2026-02-02,Selangor,spike,17,1.215503,5
+2026-02-09,Selangor,above peers,70,1.1359788,6
+2026-02-09,Selangor,first observation,9,1.9691747,2
+2026-02-09,Selangor,pack/unit mismatch?,5,3.1942954,3
+2026-02-09,Selangor,persistent premium,97,1.4148692,4
+2026-02-09,Selangor,spike,19,1.321335,5
+2026-02-23,Selangor,above peers,72,1.1661868,6
+2026-02-23,Selangor,first observation,32,1.270834,2
+2026-02-23,Selangor,pack/unit mismatch?,1,1.901384,3
+2026-02-23,Selangor,persistent premium,75,1.4027598,4
+2026-02-23,Selangor,spike,20,1.2789673,5
+2026-03-02,Selangor,above peers,87,1.1866742,6
+2026-03-02,Selangor,decimal slip?,1,12.013422,1
+2026-03-02,Selangor,first observation,11,1.516465,2
+2026-03-02,Selangor,pack/unit mismatch?,1,1.9313304,3
+2026-03-02,Selangor,persistent premium,74,1.3784494,4
+2026-03-02,Selangor,spike,26,1.3472197,5
+2026-03-09,Selangor,above peers,93,1.1907579,6
+2026-03-09,Selangor,first observation,10,1.2118568,2
+2026-03-09,Selangor,persistent premium,85,1.3763278,4
+2026-03-09,Selangor,spike,12,1.4319425,5
+2026-03-16,Selangor,above peers,86,1.1867251,6
+2026-03-16,Selangor,first observation,4,1.2631706,2
+2026-03-16,Selangor,pack/unit mismatch?,4,1.9706022,3
+2026-03-16,Selangor,persistent premium,94,1.3705974,4
+2026-03-16,Selangor,spike,12,1.6658577,5
+2026-03-23,Selangor,above peers,59,1.2036309,6
+2026-03-23,Selangor,first observation,4,1.1540723,2
+2026-03-23,Selangor,pack/unit mismatch?,4,1.9731108,3
+2026-03-23,Selangor,persistent premium,108,1.6330492,4
+2026-03-23,Selangor,spike,21,1.2852429,5
+2026-03-30,Selangor,above peers,63,1.1940122,6
+2026-03-30,Selangor,first observation,27,1.2596115,2
+2026-03-30,Selangor,pack/unit mismatch?,4,1.9609414,3
+2026-03-30,Selangor,persistent premium,87,1.4195917,4
+2026-03-30,Selangor,spike,19,1.3987491,5
+2026-04-06,Selangor,above peers,81,1.1548011,6
+2026-04-06,Selangor,decimal slip?,1,9.187499,1
+2026-04-06,Selangor,first observation,7,1.4381361,2
+2026-04-06,Selangor,pack/unit mismatch?,2,1.9868422,3
+2026-04-06,Selangor,persistent premium,85,1.4016625,4
+2026-04-06,Selangor,spike,24,1.2857753,5
+2026-04-13,Selangor,above peers,94,1.1594951,6
+2026-04-13,Selangor,first observation,7,1.4632018,2
+2026-04-13,Selangor,pack/unit mismatch?,3,2.3198843,3
+2026-04-13,Selangor,persistent premium,78,1.4888805,4
+2026-04-13,Selangor,spike,18,1.2978739,5
+2026-04-20,Selangor,above peers,89,1.1848243,6
+2026-04-20,Selangor,first observation,4,1.3337331,2
+2026-04-20,Selangor,pack/unit mismatch?,4,1.9416397,3
+2026-04-20,Selangor,persistent premium,92,1.4504143,4
+2026-04-20,Selangor,spike,11,1.2627677,5
+2026-04-27,Selangor,above peers,74,1.1586782,6
+2026-04-27,Selangor,first observation,27,1.3433709,2
+2026-04-27,Selangor,pack/unit mismatch?,4,1.9656646,3
+2026-04-27,Selangor,persistent premium,83,1.422635,4
+2026-04-27,Selangor,spike,12,1.2860708,5
+2026-05-04,Selangor,above peers,74,1.1515644,6
+2026-05-04,Selangor,first observation,16,1.3798287,2
+2026-05-04,Selangor,persistent premium,93,1.4077779,4
+2026-05-04,Selangor,spike,17,1.3174795,5
+2026-05-11,Selangor,above peers,97,1.1354117,6
+2026-05-11,Selangor,first observation,8,1.3900251,2
+2026-05-11,Selangor,pack/unit mismatch?,2,2.0,3
+2026-05-11,Selangor,persistent premium,78,1.4280758,4
+2026-05-11,Selangor,spike,15,1.2988724,5
+2026-05-18,Selangor,above peers,92,1.1354747,6
+2026-05-18,Selangor,first observation,6,1.4168411,2
+2026-05-18,Selangor,pack/unit mismatch?,1,1.9833333,3
+2026-05-18,Selangor,persistent premium,92,1.3855449,4
+2026-05-18,Selangor,spike,9,1.4156795,5
+2026-05-25,Selangor,above peers,84,1.1499615,6
+2026-05-25,Selangor,first observation,23,1.2607578,2
+2026-05-25,Selangor,persistent premium,79,1.4110167,4
+2026-05-25,Selangor,spike,14,1.2747337,5
+2026-06-01,Selangor,above peers,91,1.1461717,6
+2026-06-01,Selangor,first observation,7,1.411413,2
+2026-06-01,Selangor,pack/unit mismatch?,1,2.0014307,3
+2026-06-01,Selangor,persistent premium,82,1.4133254,4
+2026-06-01,Selangor,spike,19,1.2959574,5
+2026-06-08,Selangor,above peers,88,1.1469655,6
+2026-06-08,Selangor,first observation,8,1.6956933,2
+2026-06-08,Selangor,pack/unit mismatch?,3,1.9712301,3
+2026-06-08,Selangor,persistent premium,90,1.3859911,4
+2026-06-08,Selangor,spike,11,1.2534518,5
+2026-06-15,Selangor,above peers,92,1.1455501,6
+2026-06-15,Selangor,first observation,4,1.9677975,2
+2026-06-15,Selangor,pack/unit mismatch?,4,2.2294288,3
+2026-06-15,Selangor,persistent premium,89,1.3751261,4
+2026-06-15,Selangor,spike,11,1.2532684,5
+2026-06-22,Selangor,above peers,86,1.1696761,6
+2026-06-22,Selangor,first observation,2,1.7334512,2
+2026-06-22,Selangor,pack/unit mismatch?,2,1.9612532,3
+2026-06-22,Selangor,persistent premium,100,1.4172989,4
+2026-06-22,Selangor,spike,10,1.3037097,5
+2026-06-29,Selangor,above peers,82,1.1796753,6
+2026-06-29,Selangor,decimal slip?,2,11.527672,1
+2026-06-29,Selangor,first observation,19,1.2615894,2
+2026-06-29,Selangor,pack/unit mismatch?,1,1.9369507,3
+2026-06-29,Selangor,persistent premium,86,1.4083915,4
+2026-06-29,Selangor,spike,10,1.2702967,5
+2026-07-06,Selangor,above peers,83,1.1673237,6
+2026-07-06,Selangor,first observation,6,1.905804,2
+2026-07-06,Selangor,pack/unit mismatch?,4,2.0015464,3
+2026-07-06,Selangor,persistent premium,92,1.4322166,4
+2026-07-06,Selangor,spike,15,1.3717171,5
+2026-07-13,Selangor,above peers,85,1.1759691,6
+2026-07-13,Selangor,first observation,3,1.3666611,2
+2026-07-13,Selangor,pack/unit mismatch?,4,1.9723974,3
+2026-07-13,Selangor,persistent premium,106,1.4143752,4
+2026-07-13,Selangor,spike,2,1.2764946,5
+2026-07-20,Selangor,above peers,79,1.1411393,6
+2026-07-20,Selangor,first observation,1,1.0884956,2
+2026-07-20,Selangor,pack/unit mismatch?,3,2.0272572,3
+2026-07-20,Selangor,persistent premium,110,1.4127784,4
+2026-07-20,Selangor,spike,7,1.3039337,5
+2026-07-27,Selangor,above peers,71,1.1580099,6
+2026-07-27,Selangor,first observation,23,1.2670208,2
+2026-07-27,Selangor,pack/unit mismatch?,2,2.022811,3
+2026-07-27,Selangor,persistent premium,92,1.4034202,4
+2026-07-27,Selangor,spike,12,1.224326,5
+2026-08-03,Selangor,above peers,79,1.1232651,6
+2026-08-03,Selangor,first observation,1,1.5866667,2
+2026-08-03,Selangor,pack/unit mismatch?,2,2.0016246,3
+2026-08-03,Selangor,persistent premium,102,1.4195675,4
+2026-08-03,Selangor,spike,16,1.2715024,5
+2026-08-10,Selangor,above peers,82,1.129231,6
+2026-08-10,Selangor,first observation,3,1.2845658,2
+2026-08-10,Selangor,pack/unit mismatch?,2,2.040262,3
+2026-08-10,Selangor,persistent premium,101,1.3614854,4
+2026-08-10,Selangor,spike,12,1.2352662,5
+2026-08-17,Selangor,above peers,85,1.1464914,6
+2026-08-17,Selangor,first observation,2,1.4064178,2
+2026-08-17,Selangor,pack/unit mismatch?,3,2.03019,3
+2026-08-17,Selangor,persistent premium,93,1.3773324,4
+2026-08-17,Selangor,spike,17,1.2051432,5
+2026-08-24,Selangor,above peers,74,1.1521428,6
+2026-08-24,Selangor,first observation,34,1.310092,2
+2026-08-24,Selangor,persistent premium,83,1.3707948,4
+2026-08-24,Selangor,spike,9,1.3166277,5
+2026-08-31,Selangor,above peers,62,1.1844954,6
+2026-08-31,Selangor,pack/unit mismatch?,10,1.9862512,3
+2026-08-31,Selangor,persistent premium,97,1.608131,4
+2026-08-31,Selangor,spike,26,1.2421333,5
+2026-09-07,Selangor,above peers,74,1.1480656,6
+2026-09-07,Selangor,decimal slip?,1,97.76977,1
+2026-09-07,Selangor,first observation,5,1.5130639,2
+2026-09-07,Selangor,pack/unit mismatch?,3,2.040489,3
+2026-09-07,Selangor,persistent premium,99,1.3503362,4
+2026-09-07,Selangor,spike,18,1.2915817,5
+2026-09-14,Selangor,above peers,80,1.1618351,6
+2026-09-14,Selangor,decimal slip?,1,9.4871435,1
+2026-09-14,Selangor,first observation,5,1.3138062,2
+2026-09-14,Selangor,pack/unit mismatch?,3,1.9837747,3
+2026-09-14,Selangor,persistent premium,99,1.3770299,4
+2026-09-14,Selangor,spike,12,1.3288727,5
+2026-09-21,Selangor,above peers,69,1.1641433,6
+2026-09-21,Selangor,first observation,24,1.2916898,2
+2026-09-21,Selangor,pack/unit mismatch?,2,2.0071867,3
+2026-09-21,Selangor,persistent premium,91,1.4064478,4
+2026-09-21,Selangor,spike,14,1.3991824,5
+2026-09-28,Selangor,above peers,79,1.1549424,6
+2026-09-28,Selangor,first observation,10,1.4850729,2
+2026-09-28,Selangor,pack/unit mismatch?,6,2.1527343,3
+2026-09-28,Selangor,persistent premium,99,1.405025,4
+2026-09-28,Selangor,spike,6,1.3754009,5
+2026-10-12,Selangor,above peers,73,1.1796993,6
+2026-10-12,Selangor,first observation,8,1.5427744,2
+2026-10-12,Selangor,pack/unit mismatch?,4,1.9883975,3
+2026-10-12,Selangor,persistent premium,90,1.4095272,4
+2026-10-12,Selangor,spike,25,1.2899375,5
+2026-10-19,Selangor,above peers,56,1.2048358,6
+2026-10-19,Selangor,first observation,35,1.2863832,2
+2026-10-19,Selangor,pack/unit mismatch?,1,2.064715,3
+2026-10-19,Selangor,persistent premium,97,1.35925,4
+2026-10-19,Selangor,spike,11,1.2505889,5
+2026-01-05,Terengganu,decimal slip?,1,10.030101,1
+2026-01-05,Terengganu,first observation,159,1.3225064,2
+2026-01-12,Terengganu,above peers,59,1.1234806,6
+2026-01-12,Terengganu,first observation,3,1.1457874,2
+2026-01-12,Terengganu,pack/unit mismatch?,5,2.017447,3
+2026-01-12,Terengganu,persistent premium,86,1.4101403,4
+2026-01-12,Terengganu,spike,7,1.3240645,5
+2026-01-19,Terengganu,above peers,65,1.1219245,6
+2026-01-19,Terengganu,first observation,7,1.541622,2
+2026-01-19,Terengganu,pack/unit mismatch?,3,2.0527778,3
+2026-01-19,Terengganu,persistent premium,76,1.3794907,4
+2026-01-19,Terengganu,spike,9,1.3753486,5
+2026-01-26,Terengganu,above peers,65,1.1424679,6
+2026-01-26,Terengganu,first observation,4,2.1155126,2
+2026-01-26,Terengganu,pack/unit mismatch?,6,2.002298,3
+2026-01-26,Terengganu,persistent premium,78,1.4092503,4
+2026-01-26,Terengganu,spike,7,1.1882447,5
+2026-02-02,Terengganu,above peers,47,1.2105404,6
+2026-02-02,Terengganu,first observation,3,1.1904761,2
+2026-02-02,Terengganu,pack/unit mismatch?,7,1.99869,3
+2026-02-02,Terengganu,persistent premium,86,1.4569813,4
+2026-02-02,Terengganu,spike,17,1.2808269,5
+2026-02-09,Terengganu,above peers,77,1.162504,6
+2026-02-09,Terengganu,first observation,7,1.5770363,2
+2026-02-09,Terengganu,pack/unit mismatch?,3,2.0044832,3
+2026-02-09,Terengganu,persistent premium,56,1.3951622,4
+2026-02-09,Terengganu,spike,17,1.2609235,5
+2026-02-23,Terengganu,above peers,70,1.1568205,6
+2026-02-23,Terengganu,first observation,20,1.2877686,2
+2026-02-23,Terengganu,pack/unit mismatch?,3,2.0004172,3
+2026-02-23,Terengganu,persistent premium,47,1.5040773,4
+2026-02-23,Terengganu,spike,20,1.3016807,5
+2026-03-02,Terengganu,above peers,72,1.1843203,6
+2026-03-02,Terengganu,decimal slip?,1,10.000646,1
+2026-03-02,Terengganu,first observation,5,1.3895209,2
+2026-03-02,Terengganu,pack/unit mismatch?,5,2.0107455,3
+2026-03-02,Terengganu,persistent premium,63,1.464458,4
+2026-03-02,Terengganu,spike,14,1.2761365,5
+2026-03-09,Terengganu,above peers,81,1.1684631,6
+2026-03-09,Terengganu,first observation,1,1.19,2
+2026-03-09,Terengganu,pack/unit mismatch?,3,2.007874,3
+2026-03-09,Terengganu,persistent premium,61,1.473534,4
+2026-03-09,Terengganu,spike,14,1.3322775,5
+2026-03-16,Terengganu,above peers,84,1.1880648,6
+2026-03-16,Terengganu,first observation,9,1.305175,2
+2026-03-16,Terengganu,pack/unit mismatch?,5,1.949249,3
+2026-03-16,Terengganu,persistent premium,55,1.4181349,4
+2026-03-16,Terengganu,spike,7,1.2604187,5
+2026-03-23,Terengganu,above peers,67,1.2045842,6
+2026-03-23,Terengganu,first observation,3,1.3288889,2
+2026-03-23,Terengganu,pack/unit mismatch?,5,2.155098,3
+2026-03-23,Terengganu,persistent premium,60,1.4714833,4
+2026-03-23,Terengganu,spike,25,1.3204602,5
+2026-03-30,Terengganu,above peers,35,1.1814454,6
+2026-03-30,Terengganu,first observation,19,1.2395494,2
+2026-03-30,Terengganu,pack/unit mismatch?,5,1.9751463,3
+2026-03-30,Terengganu,persistent premium,63,1.3745387,4
+2026-03-30,Terengganu,spike,38,1.2688942,5
+2026-04-06,Terengganu,above peers,64,1.1740323,6
+2026-04-06,Terengganu,first observation,8,1.2774614,2
+2026-04-06,Terengganu,pack/unit mismatch?,6,2.1765232,3
+2026-04-06,Terengganu,persistent premium,62,1.372288,4
+2026-04-06,Terengganu,spike,20,1.2607219,5
+2026-04-13,Terengganu,above peers,72,1.1712435,6
+2026-04-13,Terengganu,first observation,2,1.125,2
+2026-04-13,Terengganu,pack/unit mismatch?,5,1.9557259,3
+2026-04-13,Terengganu,persistent premium,70,1.3951204,4
+2026-04-13,Terengganu,spike,11,1.3001516,5
+2026-04-20,Terengganu,above peers,74,1.2089939,6
+2026-04-20,Terengganu,first observation,4,1.3718283,2
+2026-04-20,Terengganu,pack/unit mismatch?,3,1.9692091,3
+2026-04-20,Terengganu,persistent premium,63,1.409678,4
+2026-04-20,Terengganu,spike,16,1.3564099,5
+2026-04-27,Terengganu,above peers,67,1.1648896,6
+2026-04-27,Terengganu,decimal slip?,1,9.677418,1
+2026-04-27,Terengganu,first observation,13,1.1831874,2
+2026-04-27,Terengganu,pack/unit mismatch?,1,2.0224721,3
+2026-04-27,Terengganu,persistent premium,68,1.4341332,4
+2026-04-27,Terengganu,spike,10,1.2819561,5
+2026-05-04,Terengganu,above peers,61,1.1521049,6
+2026-05-04,Terengganu,first observation,4,1.4251668,2
+2026-05-04,Terengganu,pack/unit mismatch?,4,2.0207667,3
+2026-05-04,Terengganu,persistent premium,74,1.4160479,4
+2026-05-04,Terengganu,spike,17,1.3014287,5
+2026-05-11,Terengganu,above peers,76,1.1642458,6
+2026-05-11,Terengganu,first observation,7,1.2120336,2
+2026-05-11,Terengganu,persistent premium,68,1.3633568,4
+2026-05-11,Terengganu,spike,9,1.5092559,5
+2026-05-18,Terengganu,above peers,73,1.1796427,6
+2026-05-18,Terengganu,first observation,7,1.2674391,2
+2026-05-18,Terengganu,pack/unit mismatch?,2,1.9754863,3
+2026-05-18,Terengganu,persistent premium,61,1.3943317,4
+2026-05-18,Terengganu,spike,17,1.236265,5
+2026-05-25,Terengganu,above peers,67,1.1566557,6
+2026-05-25,Terengganu,first observation,13,1.200841,2
+2026-05-25,Terengganu,persistent premium,65,1.4618933,4
+2026-05-25,Terengganu,spike,15,1.3152599,5
+2026-06-01,Terengganu,above peers,77,1.1629694,6
+2026-06-01,Terengganu,first observation,6,1.6097164,2
+2026-06-01,Terengganu,pack/unit mismatch?,2,1.9614824,3
+2026-06-01,Terengganu,persistent premium,66,1.4377525,4
+2026-06-01,Terengganu,spike,9,1.3766385,5
+2026-06-08,Terengganu,above peers,74,1.1588604,6
+2026-06-08,Terengganu,first observation,2,1.4545122,2
+2026-06-08,Terengganu,persistent premium,74,1.4606225,4
+2026-06-08,Terengganu,spike,10,1.2424663,5
+2026-06-15,Terengganu,above peers,77,1.1684986,6
+2026-06-15,Terengganu,first observation,2,1.2594633,2
+2026-06-15,Terengganu,pack/unit mismatch?,1,1.915,3
+2026-06-15,Terengganu,persistent premium,66,1.4426346,4
+2026-06-15,Terengganu,spike,14,1.2138065,5
+2026-06-22,Terengganu,above peers,72,1.1590436,6
+2026-06-22,Terengganu,first observation,4,1.3366556,2
+2026-06-22,Terengganu,pack/unit mismatch?,2,1.9174333,3
+2026-06-22,Terengganu,persistent premium,76,1.4004261,4
+2026-06-22,Terengganu,spike,6,1.213463,5
+2026-06-29,Terengganu,above peers,65,1.1692344,6
+2026-06-29,Terengganu,first observation,15,1.2760495,2
+2026-06-29,Terengganu,persistent premium,66,1.4957409,4
+2026-06-29,Terengganu,spike,14,1.2207458,5
+2026-07-06,Terengganu,above peers,63,1.1538501,6
+2026-07-06,Terengganu,pack/unit mismatch?,3,1.9923592,3
+2026-07-06,Terengganu,persistent premium,76,1.4598088,4
+2026-07-06,Terengganu,spike,18,1.2923523,5
+2026-07-13,Terengganu,above peers,71,1.1438968,6
+2026-07-13,Terengganu,first observation,3,1.1560336,2
+2026-07-13,Terengganu,pack/unit mismatch?,1,1.9047618,3
+2026-07-13,Terengganu,persistent premium,71,1.468077,4
+2026-07-13,Terengganu,spike,14,1.3220586,5
+2026-07-20,Terengganu,above peers,63,1.146672,6
+2026-07-20,Terengganu,first observation,1,1.1666666,2
+2026-07-20,Terengganu,pack/unit mismatch?,2,1.9505807,3
+2026-07-20,Terengganu,persistent premium,83,1.481442,4
+2026-07-20,Terengganu,spike,11,1.2662919,5
+2026-07-27,Terengganu,above peers,57,1.1443561,6
+2026-07-27,Terengganu,first observation,16,1.2382878,2
+2026-07-27,Terengganu,pack/unit mismatch?,2,2.0309525,3
+2026-07-27,Terengganu,persistent premium,78,1.4261742,4
+2026-07-27,Terengganu,spike,7,1.2932864,5
+2026-08-03,Terengganu,above peers,64,1.1698558,6
+2026-08-03,Terengganu,first observation,2,1.1948757,2
+2026-08-03,Terengganu,pack/unit mismatch?,5,1.9615227,3
+2026-08-03,Terengganu,persistent premium,72,1.4165211,4
+2026-08-03,Terengganu,spike,17,1.3072836,5
+2026-08-10,Terengganu,above peers,68,1.1648055,6
+2026-08-10,Terengganu,first observation,1,1.414634,2
+2026-08-10,Terengganu,pack/unit mismatch?,2,2.0112362,3
+2026-08-10,Terengganu,persistent premium,73,1.4353753,4
+2026-08-10,Terengganu,spike,16,1.6236777,5
+2026-08-17,Terengganu,above peers,72,1.1696454,6
+2026-08-17,Terengganu,first observation,1,1.4399999,2
+2026-08-17,Terengganu,pack/unit mismatch?,3,1.9836115,3
+2026-08-17,Terengganu,persistent premium,77,1.4096167,4
+2026-08-17,Terengganu,spike,7,1.3198694,5
+2026-08-24,Terengganu,above peers,57,1.1506598,6
+2026-08-24,Terengganu,first observation,12,1.2393596,2
+2026-08-24,Terengganu,pack/unit mismatch?,3,1.986866,3
+2026-08-24,Terengganu,persistent premium,77,1.4258205,4
+2026-08-24,Terengganu,spike,11,1.3650422,5
+2026-08-31,Terengganu,above peers,53,1.1976496,6
+2026-08-31,Terengganu,first observation,3,1.1863266,2
+2026-08-31,Terengganu,pack/unit mismatch?,6,1.9775825,3
+2026-08-31,Terengganu,persistent premium,86,1.4194579,4
+2026-08-31,Terengganu,spike,12,1.2318944,5
+2026-09-07,Terengganu,above peers,60,1.1783158,6
+2026-09-07,Terengganu,decimal slip?,1,97.65384,1
+2026-09-07,Terengganu,first observation,1,1.2127659,2
+2026-09-07,Terengganu,pack/unit mismatch?,2,2.0112362,3
+2026-09-07,Terengganu,persistent premium,81,1.3838292,4
+2026-09-07,Terengganu,spike,15,1.202196,5
+2026-09-14,Terengganu,above peers,57,1.1711262,6
+2026-09-14,Terengganu,first observation,3,1.2664142,2
+2026-09-14,Terengganu,pack/unit mismatch?,5,2.020653,3
+2026-09-14,Terengganu,persistent premium,89,1.3728408,4
+2026-09-14,Terengganu,spike,6,1.3802752,5
+2026-09-21,Terengganu,above peers,56,1.1599191,6
+2026-09-21,Terengganu,first observation,19,1.2878822,2
+2026-09-21,Terengganu,pack/unit mismatch?,6,1.9985543,3
+2026-09-21,Terengganu,persistent premium,71,1.3891997,4
+2026-09-21,Terengganu,spike,8,1.3765776,5
+2026-09-28,Terengganu,above peers,65,1.1592405,6
+2026-09-28,Terengganu,first observation,2,1.1215917,2
+2026-09-28,Terengganu,pack/unit mismatch?,4,1.9796982,3
+2026-09-28,Terengganu,persistent premium,76,1.397471,4
+2026-09-28,Terengganu,spike,13,1.200336,5
+2026-10-12,Terengganu,above peers,52,1.1328708,6
+2026-10-12,Terengganu,first observation,4,1.4711387,2
+2026-10-12,Terengganu,pack/unit mismatch?,2,2.0129082,3
+2026-10-12,Terengganu,persistent premium,74,1.4230312,4
+2026-10-12,Terengganu,spike,28,1.2948902,5
+2026-10-19,Terengganu,above peers,68,1.1948069,6
+2026-10-19,Terengganu,first observation,2,2.2983575,2
+2026-10-19,Terengganu,pack/unit mismatch?,2,2.025343,3
+2026-10-19,Terengganu,persistent premium,82,1.3753247,4
+2026-10-19,Terengganu,spike,6,1.2746792,5
+2026-01-05,W.P. Kuala Lumpur,first observation,220,1.316941,2
+2026-01-12,W.P. Kuala Lumpur,above peers,58,1.1652956,6
+2026-01-12,W.P. Kuala Lumpur,first observation,9,1.4648602,2
+2026-01-12,W.P. Kuala Lumpur,pack/unit mismatch?,2,1.9827273,3
+2026-01-12,W.P. Kuala Lumpur,persistent premium,141,1.3826725,4
+2026-01-12,W.P. Kuala Lumpur,spike,10,1.3372581,5
+2026-01-19,W.P. Kuala Lumpur,above peers,78,1.1580801,6
+2026-01-19,W.P. Kuala Lumpur,first observation,4,1.3376427,2
+2026-01-19,W.P. Kuala Lumpur,pack/unit mismatch?,5,1.9659287,3
+2026-01-19,W.P. Kuala Lumpur,persistent premium,125,1.3872837,4
+2026-01-19,W.P. Kuala Lumpur,spike,8,1.276674,5
+2026-01-26,W.P. Kuala Lumpur,above peers,62,1.1755251,6
+2026-01-26,W.P. Kuala Lumpur,decimal slip?,6,68.216545,1
+2026-01-26,W.P. Kuala Lumpur,first observation,7,1.3105572,2
+2026-01-26,W.P. Kuala Lumpur,pack/unit mismatch?,3,2.6617887,3
+2026-01-26,W.P. Kuala Lumpur,persistent premium,129,1.440207,4
+2026-01-26,W.P. Kuala Lumpur,spike,13,1.6266556,5
+2026-02-02,W.P. Kuala Lumpur,above peers,52,1.1944143,6
+2026-02-02,W.P. Kuala Lumpur,first observation,8,1.4433074,2
+2026-02-02,W.P. Kuala Lumpur,pack/unit mismatch?,12,2.1737037,3
+2026-02-02,W.P. Kuala Lumpur,persistent premium,139,1.6705936,4
+2026-02-02,W.P. Kuala Lumpur,spike,9,1.2888649,5
+2026-02-09,W.P. Kuala Lumpur,above peers,67,1.1710068,6
+2026-02-09,W.P. Kuala Lumpur,first observation,13,1.2985686,2
+2026-02-09,W.P. Kuala Lumpur,pack/unit mismatch?,4,2.0098236,3
+2026-02-09,W.P. Kuala Lumpur,persistent premium,114,1.389718,4
+2026-02-09,W.P. Kuala Lumpur,spike,22,1.3466061,5
+2026-02-23,W.P. Kuala Lumpur,above peers,65,1.3070556,6
+2026-02-23,W.P. Kuala Lumpur,first observation,31,1.3283274,2
+2026-02-23,W.P. Kuala Lumpur,pack/unit mismatch?,2,2.961613,3
+2026-02-23,W.P. Kuala Lumpur,persistent premium,114,1.4092067,4
+2026-02-23,W.P. Kuala Lumpur,spike,8,1.3161408,5
+2026-03-02,W.P. Kuala Lumpur,above peers,77,1.2063804,6
+2026-03-02,W.P. Kuala Lumpur,decimal slip?,1,100.0,1
+2026-03-02,W.P. Kuala Lumpur,first observation,8,1.4683954,2
+2026-03-02,W.P. Kuala Lumpur,pack/unit mismatch?,5,1.9931424,3
+2026-03-02,W.P. Kuala Lumpur,persistent premium,119,1.4494715,4
+2026-03-02,W.P. Kuala Lumpur,spike,10,1.3848951,5
+2026-03-09,W.P. Kuala Lumpur,above peers,87,1.2332637,6
+2026-03-09,W.P. Kuala Lumpur,decimal slip?,1,82.64463,1
+2026-03-09,W.P. Kuala Lumpur,first observation,8,1.286113,2
+2026-03-09,W.P. Kuala Lumpur,pack/unit mismatch?,7,2.2608526,3
+2026-03-09,W.P. Kuala Lumpur,persistent premium,112,1.469345,4
+2026-03-09,W.P. Kuala Lumpur,spike,5,1.4168336,5
+2026-03-16,W.P. Kuala Lumpur,above peers,95,1.2461753,6
+2026-03-16,W.P. Kuala Lumpur,first observation,2,1.1312847,2
+2026-03-16,W.P. Kuala Lumpur,pack/unit mismatch?,6,1.99961,3
+2026-03-16,W.P. Kuala Lumpur,persistent premium,112,1.4591981,4
+2026-03-16,W.P. Kuala Lumpur,spike,5,1.2710669,5
+2026-03-23,W.P. Kuala Lumpur,above peers,73,1.3030145,6
+2026-03-23,W.P. Kuala Lumpur,first observation,7,1.5810711,2
+2026-03-23,W.P. Kuala Lumpur,pack/unit mismatch?,17,2.0063365,3
+2026-03-23,W.P. Kuala Lumpur,persistent premium,115,1.6976018,4
+2026-03-23,W.P. Kuala Lumpur,spike,8,1.3394936,5
+2026-03-30,W.P. Kuala Lumpur,above peers,57,1.2670232,6
+2026-03-30,W.P. Kuala Lumpur,decimal slip?,1,169.65518,1
+2026-03-30,W.P. Kuala Lumpur,first observation,23,1.3161646,2
+2026-03-30,W.P. Kuala Lumpur,pack/unit mismatch?,5,1.9779094,3
+2026-03-30,W.P. Kuala Lumpur,persistent premium,115,1.454283,4
+2026-03-30,W.P. Kuala Lumpur,spike,19,1.3871044,5
+2026-04-06,W.P. Kuala Lumpur,above peers,68,1.1986128,6
+2026-04-06,W.P. Kuala Lumpur,first observation,5,1.2903516,2
+2026-04-06,W.P. Kuala Lumpur,pack/unit mismatch?,8,2.478374,3
+2026-04-06,W.P. Kuala Lumpur,persistent premium,128,1.4893061,4
+2026-04-06,W.P. Kuala Lumpur,spike,11,1.3684787,5
+2026-04-13,W.P. Kuala Lumpur,above peers,77,1.1852819,6
+2026-04-13,W.P. Kuala Lumpur,decimal slip?,1,17.733332,1
+2026-04-13,W.P. Kuala Lumpur,first observation,5,1.5748184,2
+2026-04-13,W.P. Kuala Lumpur,pack/unit mismatch?,11,2.0833776,3
+2026-04-13,W.P. Kuala Lumpur,persistent premium,116,1.5601054,4
+2026-04-13,W.P. Kuala Lumpur,spike,10,1.2740921,5
+2026-04-20,W.P. Kuala Lumpur,above peers,72,1.1638224,6
+2026-04-20,W.P. Kuala Lumpur,decimal slip?,1,17.792645,1
+2026-04-20,W.P. Kuala Lumpur,first observation,2,1.1929305,2
+2026-04-20,W.P. Kuala Lumpur,pack/unit mismatch?,5,2.1916456,3
+2026-04-20,W.P. Kuala Lumpur,persistent premium,131,1.5399574,4
+2026-04-20,W.P. Kuala Lumpur,spike,9,1.3083336,5
+2026-04-27,W.P. Kuala Lumpur,above peers,71,1.178681,6
+2026-04-27,W.P. Kuala Lumpur,decimal slip?,4,78.165634,1
+2026-04-27,W.P. Kuala Lumpur,first observation,19,1.3414563,2
+2026-04-27,W.P. Kuala Lumpur,pack/unit mismatch?,5,1.9988791,3
+2026-04-27,W.P. Kuala Lumpur,persistent premium,108,1.5028005,4
+2026-04-27,W.P. Kuala Lumpur,spike,13,1.3229034,5
+2026-05-04,W.P. Kuala Lumpur,above peers,74,1.1507416,6
+2026-05-04,W.P. Kuala Lumpur,first observation,12,1.788075,2
+2026-05-04,W.P. Kuala Lumpur,pack/unit mismatch?,4,1.9831933,3
+2026-05-04,W.P. Kuala Lumpur,persistent premium,113,1.4928799,4
+2026-05-04,W.P. Kuala Lumpur,spike,17,1.3810394,5
+2026-05-11,W.P. Kuala Lumpur,above peers,71,1.2018663,6
+2026-05-11,W.P. Kuala Lumpur,first observation,5,1.3290036,2
+2026-05-11,W.P. Kuala Lumpur,pack/unit mismatch?,2,1.9553074,3
+2026-05-11,W.P. Kuala Lumpur,persistent premium,127,1.4685297,4
+2026-05-11,W.P. Kuala Lumpur,spike,15,1.2820562,5
+2026-05-18,W.P. Kuala Lumpur,above peers,81,1.1810384,6
+2026-05-18,W.P. Kuala Lumpur,decimal slip?,1,102.75231,1
+2026-05-18,W.P. Kuala Lumpur,first observation,7,2.0236316,2
+2026-05-18,W.P. Kuala Lumpur,pack/unit mismatch?,7,1.9860704,3
+2026-05-18,W.P. Kuala Lumpur,persistent premium,110,1.4963182,4
+2026-05-18,W.P. Kuala Lumpur,spike,14,1.4169484,5
+2026-05-25,W.P. Kuala Lumpur,above peers,72,1.1868919,6
+2026-05-25,W.P. Kuala Lumpur,decimal slip?,1,100.74626,1
+2026-05-25,W.P. Kuala Lumpur,first observation,25,1.3201866,2
+2026-05-25,W.P. Kuala Lumpur,pack/unit mismatch?,6,2.203832,3
+2026-05-25,W.P. Kuala Lumpur,persistent premium,110,1.5215201,4
+2026-05-25,W.P. Kuala Lumpur,spike,6,1.3395475,5
+2026-06-01,W.P. Kuala Lumpur,above peers,84,1.1808417,6
+2026-06-01,W.P. Kuala Lumpur,decimal slip?,2,54.90566,1
+2026-06-01,W.P. Kuala Lumpur,first observation,13,1.508064,2
+2026-06-01,W.P. Kuala Lumpur,pack/unit mismatch?,5,1.9958944,3
+2026-06-01,W.P. Kuala Lumpur,persistent premium,94,1.4503828,4
+2026-06-01,W.P. Kuala Lumpur,spike,22,1.3783145,5
+2026-06-08,W.P. Kuala Lumpur,above peers,84,1.220376,6
+2026-06-08,W.P. Kuala Lumpur,first observation,10,1.6103315,2
+2026-06-08,W.P. Kuala Lumpur,pack/unit mismatch?,4,2.0108535,3
+2026-06-08,W.P. Kuala Lumpur,persistent premium,106,1.4477925,4
+2026-06-08,W.P. Kuala Lumpur,spike,16,1.3308308,5
+2026-06-15,W.P. Kuala Lumpur,above peers,86,1.2055095,6
+2026-06-15,W.P. Kuala Lumpur,first observation,2,1.2540627,2
+2026-06-15,W.P. Kuala Lumpur,pack/unit mismatch?,6,1.9646969,3
+2026-06-15,W.P. Kuala Lumpur,persistent premium,112,1.5495795,4
+2026-06-15,W.P. Kuala Lumpur,spike,14,1.2547541,5
+2026-06-22,W.P. Kuala Lumpur,above peers,84,1.1747434,6
+2026-06-22,W.P. Kuala Lumpur,first observation,2,1.3858807,2
+2026-06-22,W.P. Kuala Lumpur,pack/unit mismatch?,7,1.9855162,3
+2026-06-22,W.P. Kuala Lumpur,persistent premium,119,1.5553405,4
+2026-06-22,W.P. Kuala Lumpur,spike,8,1.2685826,5
+2026-06-29,W.P. Kuala Lumpur,above peers,54,1.2055497,6
+2026-06-29,W.P. Kuala Lumpur,first observation,36,1.2910335,2
+2026-06-29,W.P. Kuala Lumpur,pack/unit mismatch?,6,2.207792,3
+2026-06-29,W.P. Kuala Lumpur,persistent premium,113,1.5003717,4
+2026-06-29,W.P. Kuala Lumpur,spike,11,1.3019439,5
+2026-07-06,W.P. Kuala Lumpur,above peers,78,1.2240134,6
+2026-07-06,W.P. Kuala Lumpur,decimal slip?,2,100.3251,1
+2026-07-06,W.P. Kuala Lumpur,first observation,8,1.3735752,2
+2026-07-06,W.P. Kuala Lumpur,pack/unit mismatch?,2,1.9110203,3
+2026-07-06,W.P. Kuala Lumpur,persistent premium,115,1.5004511,4
+2026-07-06,W.P. Kuala Lumpur,spike,15,1.2547576,5
+2026-07-13,W.P. Kuala Lumpur,above peers,59,1.2034496,6
+2026-07-13,W.P. Kuala Lumpur,decimal slip?,1,9.781022,1
+2026-07-13,W.P. Kuala Lumpur,first observation,6,1.3891681,2
+2026-07-13,W.P. Kuala Lumpur,pack/unit mismatch?,2,1.9943714,3
+2026-07-13,W.P. Kuala Lumpur,persistent premium,139,1.5090083,4
+2026-07-13,W.P. Kuala Lumpur,spike,13,1.2405419,5
+2026-07-20,W.P. Kuala Lumpur,above peers,66,1.2087849,6
+2026-07-20,W.P. Kuala Lumpur,first observation,5,1.9295759,2
+2026-07-20,W.P. Kuala Lumpur,pack/unit mismatch?,3,1.9726925,3
+2026-07-20,W.P. Kuala Lumpur,persistent premium,137,1.4698316,4
+2026-07-20,W.P. Kuala Lumpur,spike,9,1.2488974,5
+2026-07-27,W.P. Kuala Lumpur,above peers,65,1.2155272,6
+2026-07-27,W.P. Kuala Lumpur,first observation,23,1.2988639,2
+2026-07-27,W.P. Kuala Lumpur,pack/unit mismatch?,6,2.1713576,3
+2026-07-27,W.P. Kuala Lumpur,persistent premium,120,1.4637178,4
+2026-07-27,W.P. Kuala Lumpur,spike,6,1.2184137,5
+2026-08-03,W.P. Kuala Lumpur,above peers,72,1.1966435,6
+2026-08-03,W.P. Kuala Lumpur,decimal slip?,3,41.477345,1
+2026-08-03,W.P. Kuala Lumpur,first observation,4,1.2425414,2
+2026-08-03,W.P. Kuala Lumpur,pack/unit mismatch?,6,2.1585226,3
+2026-08-03,W.P. Kuala Lumpur,persistent premium,110,1.4398525,4
+2026-08-03,W.P. Kuala Lumpur,spike,25,1.4051129,5
+2026-08-10,W.P. Kuala Lumpur,above peers,72,1.1992548,6
+2026-08-10,W.P. Kuala Lumpur,decimal slip?,2,53.164955,1
+2026-08-10,W.P. Kuala Lumpur,first observation,7,1.3839236,2
+2026-08-10,W.P. Kuala Lumpur,pack/unit mismatch?,6,2.1670778,3
+2026-08-10,W.P. Kuala Lumpur,persistent premium,116,1.4622395,4
+2026-08-10,W.P. Kuala Lumpur,spike,17,1.2553686,5
+2026-08-17,W.P. Kuala Lumpur,above peers,75,1.185611,6
+2026-08-17,W.P. Kuala Lumpur,decimal slip?,2,10.434242,1
+2026-08-17,W.P. Kuala Lumpur,first observation,5,1.3394735,2
+2026-08-17,W.P. Kuala Lumpur,pack/unit mismatch?,4,1.988945,3
+2026-08-17,W.P. Kuala Lumpur,persistent premium,131,1.4494687,4
+2026-08-17,W.P. Kuala Lumpur,spike,3,1.223014,5
+2026-08-24,W.P. Kuala Lumpur,above peers,63,1.2102741,6
+2026-08-24,W.P. Kuala Lumpur,decimal slip?,1,85.53523,1
+2026-08-24,W.P. Kuala Lumpur,first observation,36,1.2583022,2
+2026-08-24,W.P. Kuala Lumpur,pack/unit mismatch?,3,1.9484711,3
+2026-08-24,W.P. Kuala Lumpur,persistent premium,109,1.4497683,4
+2026-08-24,W.P. Kuala Lumpur,spike,8,1.7871062,5
+2026-08-31,W.P. Kuala Lumpur,above peers,52,1.1442823,6
+2026-08-31,W.P. Kuala Lumpur,first observation,2,1.5594974,2
+2026-08-31,W.P. Kuala Lumpur,pack/unit mismatch?,17,1.9813827,3
+2026-08-31,W.P. Kuala Lumpur,persistent premium,136,1.6601492,4
+2026-08-31,W.P. Kuala Lumpur,spike,13,1.2756728,5
+2026-09-07,W.P. Kuala Lumpur,above peers,73,1.1501069,6
+2026-09-07,W.P. Kuala Lumpur,decimal slip?,1,10.000001,1
+2026-09-07,W.P. Kuala Lumpur,first observation,2,1.1820261,2
+2026-09-07,W.P. Kuala Lumpur,pack/unit mismatch?,3,2.0435212,3
+2026-09-07,W.P. Kuala Lumpur,persistent premium,133,1.4448681,4
+2026-09-07,W.P. Kuala Lumpur,spike,8,1.4039817,5
+2026-09-14,W.P. Kuala Lumpur,above peers,66,1.1843368,6
+2026-09-14,W.P. Kuala Lumpur,decimal slip?,1,8.695653,1
+2026-09-14,W.P. Kuala Lumpur,first observation,4,1.6262758,2
+2026-09-14,W.P. Kuala Lumpur,pack/unit mismatch?,6,2.1513498,3
+2026-09-14,W.P. Kuala Lumpur,persistent premium,136,1.4846165,4
+2026-09-14,W.P. Kuala Lumpur,spike,7,1.2333392,5
+2026-09-21,W.P. Kuala Lumpur,above peers,49,1.2142591,6
+2026-09-21,W.P. Kuala Lumpur,decimal slip?,5,46.34391,1
+2026-09-21,W.P. Kuala Lumpur,first observation,24,1.344596,2
+2026-09-21,W.P. Kuala Lumpur,pack/unit mismatch?,6,1.9832445,3
+2026-09-21,W.P. Kuala Lumpur,persistent premium,130,1.4632844,4
+2026-09-21,W.P. Kuala Lumpur,spike,6,2.3895042,5
+2026-09-28,W.P. Kuala Lumpur,above peers,73,1.2984868,6
+2026-09-28,W.P. Kuala Lumpur,decimal slip?,1,12.224999,1
+2026-09-28,W.P. Kuala Lumpur,first observation,7,1.6898726,2
+2026-09-28,W.P. Kuala Lumpur,pack/unit mismatch?,4,2.251051,3
+2026-09-28,W.P. Kuala Lumpur,persistent premium,132,1.4385962,4
+2026-09-28,W.P. Kuala Lumpur,spike,3,1.216134,5
+2026-10-12,W.P. Kuala Lumpur,above peers,66,1.228552,6
+2026-10-12,W.P. Kuala Lumpur,decimal slip?,1,10.084312,1
+2026-10-12,W.P. Kuala Lumpur,first observation,18,1.3719327,2
+2026-10-12,W.P. Kuala Lumpur,pack/unit mismatch?,5,1.9872434,3
+2026-10-12,W.P. Kuala Lumpur,persistent premium,112,1.4602915,4
+2026-10-12,W.P. Kuala Lumpur,spike,18,1.277213,5
+2026-10-19,W.P. Kuala Lumpur,above peers,76,1.2030615,6
+2026-10-19,W.P. Kuala Lumpur,first observation,6,1.6149373,2
+2026-10-19,W.P. Kuala Lumpur,persistent premium,128,1.4880892,4
+2026-10-19,W.P. Kuala Lumpur,spike,10,1.2245424,5
+2026-01-05,W.P. Labuan,first observation,60,1.2011733,2
+2026-01-12,W.P. Labuan,above peers,34,1.0909767,6
+2026-01-12,W.P. Labuan,decimal slip?,1,9.848147,1
+2026-01-12,W.P. Labuan,first observation,4,1.369991,2
+2026-01-12,W.P. Labuan,persistent premium,19,1.32102,4
+2026-01-12,W.P. Labuan,spike,2,1.4605204,5
+2026-01-19,W.P. Labuan,above peers,33,1.1330405,6
+2026-01-19,W.P. Labuan,first observation,2,1.097756,2
+2026-01-19,W.P. Labuan,pack/unit mismatch?,1,1.9333333,3
+2026-01-19,W.P. Labuan,persistent premium,23,1.320555,4
+2026-01-19,W.P. Labuan,spike,1,1.1527777,5
+2026-01-26,W.P. Labuan,above peers,25,1.11499,6
+2026-01-26,W.P. Labuan,first observation,8,1.1975288,2
+2026-01-26,W.P. Labuan,pack/unit mismatch?,1,1.9777777,3
+2026-01-26,W.P. Labuan,persistent premium,23,1.3051538,4
+2026-01-26,W.P. Labuan,spike,3,1.376006,5
+2026-02-02,W.P. Labuan,above peers,20,1.1057125,6
+2026-02-02,W.P. Labuan,first observation,1,1.1623529,2
+2026-02-02,W.P. Labuan,persistent premium,25,1.3122219,4
+2026-02-02,W.P. Labuan,spike,5,1.251221,5
+2026-02-09,W.P. Labuan,above peers,32,1.1251597,6
+2026-02-09,W.P. Labuan,first observation,3,1.22821,2
+2026-02-09,W.P. Labuan,persistent premium,20,1.3658969,4
+2026-02-09,W.P. Labuan,spike,5,1.2085662,5
+2026-02-23,W.P. Labuan,above peers,32,1.1157738,6
+2026-02-23,W.P. Labuan,first observation,6,1.1114616,2
+2026-02-23,W.P. Labuan,persistent premium,18,1.3773855,4
+2026-02-23,W.P. Labuan,spike,4,1.3568773,5
+2026-03-02,W.P. Labuan,above peers,35,1.1138406,6
+2026-03-02,W.P. Labuan,first observation,2,1.077193,2
+2026-03-02,W.P. Labuan,persistent premium,22,1.3379651,4
+2026-03-02,W.P. Labuan,spike,1,1.6853933,5
+2026-03-09,W.P. Labuan,above peers,29,1.1275536,6
+2026-03-09,W.P. Labuan,first observation,7,1.1417596,2
+2026-03-09,W.P. Labuan,pack/unit mismatch?,1,1.9134616,3
+2026-03-09,W.P. Labuan,persistent premium,22,1.3407394,4
+2026-03-09,W.P. Labuan,spike,1,1.0872484,5
+2026-03-16,W.P. Labuan,above peers,35,1.1200806,6
+2026-03-16,W.P. Labuan,first observation,5,1.2152526,2
+2026-03-16,W.P. Labuan,pack/unit mismatch?,1,2.020202,3
+2026-03-16,W.P. Labuan,persistent premium,17,1.3425806,4
+2026-03-16,W.P. Labuan,spike,2,1.2208607,5
+2026-03-23,W.P. Labuan,above peers,32,1.1744181,6
+2026-03-23,W.P. Labuan,first observation,2,1.5674157,2
+2026-03-23,W.P. Labuan,persistent premium,9,1.3570324,4
+2026-03-23,W.P. Labuan,spike,4,1.162267,5
+2026-03-30,W.P. Labuan,above peers,35,1.139085,6
+2026-03-30,W.P. Labuan,first observation,3,1.2222716,2
+2026-03-30,W.P. Labuan,persistent premium,17,1.3419682,4
+2026-03-30,W.P. Labuan,spike,5,1.3069444,5
+2026-04-06,W.P. Labuan,above peers,33,1.1544869,6
+2026-04-06,W.P. Labuan,first observation,5,1.1396563,2
+2026-04-06,W.P. Labuan,persistent premium,16,1.389874,4
+2026-04-06,W.P. Labuan,spike,6,1.2429165,5
+2026-04-13,W.P. Labuan,above peers,37,1.1830899,6
+2026-04-13,W.P. Labuan,first observation,2,1.4345238,2
+2026-04-13,W.P. Labuan,persistent premium,18,1.3407092,4
+2026-04-13,W.P. Labuan,spike,3,1.2029601,5
+2026-04-20,W.P. Labuan,above peers,33,1.1571376,6
+2026-04-20,W.P. Labuan,first observation,3,1.3040427,2
+2026-04-20,W.P. Labuan,persistent premium,18,1.2836419,4
+2026-04-20,W.P. Labuan,spike,6,1.2491874,5
+2026-04-27,W.P. Labuan,above peers,30,1.1640413,6
+2026-04-27,W.P. Labuan,first observation,7,1.2402676,2
+2026-04-27,W.P. Labuan,persistent premium,16,1.341397,4
+2026-04-27,W.P. Labuan,spike,7,1.3625995,5
+2026-05-04,W.P. Labuan,above peers,33,1.1380979,6
+2026-05-04,W.P. Labuan,first observation,1,1.0648379,2
+2026-05-04,W.P. Labuan,pack/unit mismatch?,1,1.9285716,3
+2026-05-04,W.P. Labuan,persistent premium,24,1.4434427,4
+2026-05-04,W.P. Labuan,spike,1,1.451613,5
+2026-05-11,W.P. Labuan,above peers,32,1.1434361,6
+2026-05-11,W.P. Labuan,first observation,3,1.3382684,2
+2026-05-11,W.P. Labuan,pack/unit mismatch?,1,1.9285716,3
+2026-05-11,W.P. Labuan,persistent premium,17,1.6901768,4
+2026-05-11,W.P. Labuan,spike,7,1.477216,5
+2026-05-18,W.P. Labuan,above peers,29,1.1756339,6
+2026-05-18,W.P. Labuan,first observation,3,1.0775863,2
+2026-05-18,W.P. Labuan,pack/unit mismatch?,1,3.0769231,3
+2026-05-18,W.P. Labuan,persistent premium,20,1.6335891,4
+2026-05-18,W.P. Labuan,spike,7,1.3079771,5
+2026-05-25,W.P. Labuan,above peers,31,1.1585174,6
+2026-05-25,W.P. Labuan,first observation,9,1.1063805,2
+2026-05-25,W.P. Labuan,persistent premium,15,1.3986977,4
+2026-05-25,W.P. Labuan,spike,5,1.5138937,5
+2026-06-01,W.P. Labuan,above peers,33,1.1417642,6
+2026-06-01,W.P. Labuan,first observation,3,1.1504254,2
+2026-06-01,W.P. Labuan,persistent premium,20,1.5129075,4
+2026-06-01,W.P. Labuan,spike,4,1.2551157,5
+2026-06-08,W.P. Labuan,above peers,31,1.1964847,6
+2026-06-08,W.P. Labuan,pack/unit mismatch?,2,2.0113552,3
+2026-06-08,W.P. Labuan,persistent premium,21,1.4711428,4
+2026-06-08,W.P. Labuan,spike,6,1.2334772,5
+2026-06-15,W.P. Labuan,above peers,32,1.139579,6
+2026-06-15,W.P. Labuan,first observation,4,1.2611973,2
+2026-06-15,W.P. Labuan,pack/unit mismatch?,2,2.0113552,3
+2026-06-15,W.P. Labuan,persistent premium,19,1.4455434,4
+2026-06-15,W.P. Labuan,spike,3,1.195066,5
+2026-06-22,W.P. Labuan,above peers,32,1.1357725,6
+2026-06-22,W.P. Labuan,first observation,9,1.2803302,2
+2026-06-22,W.P. Labuan,pack/unit mismatch?,1,2.051282,3
+2026-06-22,W.P. Labuan,persistent premium,18,1.3852448,4
+2026-06-29,W.P. Labuan,above peers,26,1.1796234,6
+2026-06-29,W.P. Labuan,first observation,9,1.2452314,2
+2026-06-29,W.P. Labuan,persistent premium,23,1.2660536,4
+2026-06-29,W.P. Labuan,spike,2,1.2677927,5
+2026-07-06,W.P. Labuan,above peers,32,1.162394,6
+2026-07-06,W.P. Labuan,first observation,1,1.1111112,2
+2026-07-06,W.P. Labuan,pack/unit mismatch?,1,1.9148939,3
+2026-07-06,W.P. Labuan,persistent premium,18,1.3651608,4
+2026-07-06,W.P. Labuan,spike,8,1.2023238,5
+2026-07-13,W.P. Labuan,above peers,30,1.1734905,6
+2026-07-13,W.P. Labuan,first observation,4,1.1372845,2
+2026-07-13,W.P. Labuan,pack/unit mismatch?,3,2.017094,3
+2026-07-13,W.P. Labuan,persistent premium,17,1.3801352,4
+2026-07-13,W.P. Labuan,spike,6,1.223926,5
+2026-07-20,W.P. Labuan,above peers,37,1.1600387,6
+2026-07-20,W.P. Labuan,first observation,1,1.3636364,2
+2026-07-20,W.P. Labuan,pack/unit mismatch?,1,2.051282,3
+2026-07-20,W.P. Labuan,persistent premium,20,1.3937943,4
+2026-07-20,W.P. Labuan,spike,1,1.3,5
+2026-07-27,W.P. Labuan,above peers,33,1.149359,6
+2026-07-27,W.P. Labuan,first observation,12,1.3968488,2
+2026-07-27,W.P. Labuan,persistent premium,12,1.318237,4
+2026-07-27,W.P. Labuan,spike,3,1.2242085,5
+2026-08-03,W.P. Labuan,above peers,34,1.1351597,6
+2026-08-03,W.P. Labuan,first observation,3,1.1210757,2
+2026-08-03,W.P. Labuan,pack/unit mismatch?,1,2.051282,3
+2026-08-03,W.P. Labuan,persistent premium,17,1.4796491,4
+2026-08-03,W.P. Labuan,spike,5,1.2688562,5
+2026-08-10,W.P. Labuan,above peers,34,1.1211402,6
+2026-08-10,W.P. Labuan,first observation,1,1.8072288,2
+2026-08-10,W.P. Labuan,pack/unit mismatch?,3,1.9617041,3
+2026-08-10,W.P. Labuan,persistent premium,18,1.456733,4
+2026-08-10,W.P. Labuan,spike,4,1.2425672,5
+2026-08-17,W.P. Labuan,above peers,35,1.1237234,6
+2026-08-17,W.P. Labuan,first observation,1,1.0999999,2
+2026-08-17,W.P. Labuan,pack/unit mismatch?,2,2.026482,3
+2026-08-17,W.P. Labuan,persistent premium,19,1.4292084,4
+2026-08-17,W.P. Labuan,spike,3,1.4818959,5
+2026-08-24,W.P. Labuan,above peers,32,1.1134584,6
+2026-08-24,W.P. Labuan,first observation,7,1.1754339,2
+2026-08-24,W.P. Labuan,pack/unit mismatch?,2,1.9875,3
+2026-08-24,W.P. Labuan,persistent premium,17,1.4156889,4
+2026-08-24,W.P. Labuan,spike,2,1.2425871,5
+2026-08-31,W.P. Labuan,above peers,14,1.1455795,6
+2026-08-31,W.P. Labuan,pack/unit mismatch?,1,2.051282,3
+2026-08-31,W.P. Labuan,persistent premium,24,1.4674677,4
+2026-08-31,W.P. Labuan,spike,6,1.3344368,5
+2026-09-07,W.P. Labuan,above peers,29,1.1445016,6
+2026-09-07,W.P. Labuan,first observation,6,1.3043936,2
+2026-09-07,W.P. Labuan,persistent premium,19,1.4900392,4
+2026-09-07,W.P. Labuan,spike,6,1.3258001,5
+2026-09-14,W.P. Labuan,above peers,32,1.1842809,6
+2026-09-14,W.P. Labuan,first observation,4,1.3989998,2
+2026-09-14,W.P. Labuan,pack/unit mismatch?,1,2.051282,3
+2026-09-14,W.P. Labuan,persistent premium,17,1.4280708,4
+2026-09-14,W.P. Labuan,spike,6,1.483881,5
+2026-09-21,W.P. Labuan,above peers,25,1.1251557,6
+2026-09-21,W.P. Labuan,first observation,8,1.2011929,2
+2026-09-21,W.P. Labuan,pack/unit mismatch?,1,2.0338984,3
+2026-09-21,W.P. Labuan,persistent premium,23,1.4638125,4
+2026-09-21,W.P. Labuan,spike,3,1.313185,5
+2026-09-28,W.P. Labuan,above peers,34,1.1163411,6
+2026-09-28,W.P. Labuan,first observation,2,1.4499223,2
+2026-09-28,W.P. Labuan,pack/unit mismatch?,1,3.0612245,3
+2026-09-28,W.P. Labuan,persistent premium,19,1.3977829,4
+2026-09-28,W.P. Labuan,spike,4,1.3063967,5
+2026-10-12,W.P. Labuan,above peers,35,1.1113398,6
+2026-10-12,W.P. Labuan,first observation,4,1.206219,2
+2026-10-12,W.P. Labuan,persistent premium,15,1.3847568,4
+2026-10-12,W.P. Labuan,spike,6,1.3460461,5
+2026-10-19,W.P. Labuan,above peers,41,1.1329731,6
+2026-10-19,W.P. Labuan,first observation,2,1.0596492,2
+2026-10-19,W.P. Labuan,pack/unit mismatch?,2,1.9184915,3
+2026-10-19,W.P. Labuan,persistent premium,14,1.3836358,4
+2026-10-19,W.P. Labuan,spike,1,1.2020202,5
+2026-01-05,W.P. Putrajaya,first observation,40,1.3887317,2
+2026-01-12,W.P. Putrajaya,above peers,5,1.1872585,6
+2026-01-12,W.P. Putrajaya,first observation,3,1.6776506,2
+2026-01-12,W.P. Putrajaya,pack/unit mismatch?,2,2.0016694,3
+2026-01-12,W.P. Putrajaya,persistent premium,30,1.4474654,4
+2026-01-19,W.P. Putrajaya,above peers,12,1.1670887,6
+2026-01-19,W.P. Putrajaya,first observation,4,2.0152218,2
+2026-01-19,W.P. Putrajaya,pack/unit mismatch?,2,1.9537616,3
+2026-01-19,W.P. Putrajaya,persistent premium,21,1.4685626,4
+2026-01-19,W.P. Putrajaya,spike,1,1.4347824,5
+2026-01-26,W.P. Putrajaya,above peers,9,1.2483921,6
+2026-01-26,W.P. Putrajaya,first observation,5,1.3312392,2
+2026-01-26,W.P. Putrajaya,persistent premium,26,1.368386,4
+2026-02-02,W.P. Putrajaya,above peers,8,1.1284322,6
+2026-02-02,W.P. Putrajaya,persistent premium,30,1.599251,4
+2026-02-02,W.P. Putrajaya,spike,2,1.6251664,5
+2026-02-09,W.P. Putrajaya,above peers,10,1.1424677,6
+2026-02-09,W.P. Putrajaya,first observation,3,1.4277229,2
+2026-02-09,W.P. Putrajaya,pack/unit mismatch?,1,1.9263667,3
+2026-02-09,W.P. Putrajaya,persistent premium,24,1.4944652,4
+2026-02-09,W.P. Putrajaya,spike,2,1.1811357,5
+2026-02-23,W.P. Putrajaya,above peers,9,1.1576872,6
+2026-02-23,W.P. Putrajaya,first observation,9,1.3561751,2
+2026-02-23,W.P. Putrajaya,persistent premium,21,1.5113245,4
+2026-02-23,W.P. Putrajaya,spike,1,2.282051,5
+2026-03-02,W.P. Putrajaya,above peers,6,1.2104567,6
+2026-03-02,W.P. Putrajaya,first observation,2,1.8238933,2
+2026-03-02,W.P. Putrajaya,persistent premium,25,1.4101793,4
+2026-03-02,W.P. Putrajaya,spike,7,1.4708928,5
+2026-03-09,W.P. Putrajaya,above peers,15,1.2447398,6
+2026-03-09,W.P. Putrajaya,first observation,2,1.4137129,2
+2026-03-09,W.P. Putrajaya,pack/unit mismatch?,1,1.998,3
+2026-03-09,W.P. Putrajaya,persistent premium,21,1.4281628,4
+2026-03-09,W.P. Putrajaya,spike,1,1.3228488,5
+2026-03-16,W.P. Putrajaya,above peers,19,1.3432926,6
+2026-03-16,W.P. Putrajaya,first observation,1,1.2666667,2
+2026-03-16,W.P. Putrajaya,pack/unit mismatch?,3,1.9993334,3
+2026-03-16,W.P. Putrajaya,persistent premium,16,1.6441664,4
+2026-03-16,W.P. Putrajaya,spike,1,1.5151515,5
+2026-03-23,W.P. Putrajaya,above peers,9,1.3169591,6
+2026-03-23,W.P. Putrajaya,pack/unit mismatch?,2,1.9920878,3
+2026-03-23,W.P. Putrajaya,persistent premium,22,1.6672599,4
+2026-03-23,W.P. Putrajaya,spike,7,1.324602,5
+2026-03-30,W.P. Putrajaya,above peers,13,1.2571672,6
+2026-03-30,W.P. Putrajaya,first observation,9,1.3180968,2
+2026-03-30,W.P. Putrajaya,persistent premium,17,1.5539742,4
+2026-03-30,W.P. Putrajaya,spike,1,1.2013423,5
+2026-04-06,W.P. Putrajaya,above peers,10,1.2450426,6
+2026-04-06,W.P. Putrajaya,first observation,5,1.847436,2
+2026-04-06,W.P. Putrajaya,persistent premium,23,1.5237707,4
+2026-04-06,W.P. Putrajaya,spike,2,1.4353541,5
+2026-04-13,W.P. Putrajaya,above peers,11,1.3314408,6
+2026-04-13,W.P. Putrajaya,first observation,2,1.2175984,2
+2026-04-13,W.P. Putrajaya,pack/unit mismatch?,2,1.9997293,3
+2026-04-13,W.P. Putrajaya,persistent premium,22,1.5706254,4
+2026-04-13,W.P. Putrajaya,spike,3,1.3153794,5
+2026-04-20,W.P. Putrajaya,above peers,11,1.2086657,6
+2026-04-20,W.P. Putrajaya,first observation,1,1.2392343,2
+2026-04-20,W.P. Putrajaya,pack/unit mismatch?,2,2.0656896,3
+2026-04-20,W.P. Putrajaya,persistent premium,24,1.4870826,4
+2026-04-20,W.P. Putrajaya,spike,2,1.1422725,5
+2026-04-27,W.P. Putrajaya,above peers,8,1.2828737,6
+2026-04-27,W.P. Putrajaya,decimal slip?,1,8.166864,1
+2026-04-27,W.P. Putrajaya,first observation,2,1.6308136,2
+2026-04-27,W.P. Putrajaya,pack/unit mismatch?,2,2.0513816,3
+2026-04-27,W.P. Putrajaya,persistent premium,25,1.4058799,4
+2026-04-27,W.P. Putrajaya,spike,2,1.2394681,5
+2026-05-04,W.P. Putrajaya,above peers,8,1.1854298,6
+2026-05-04,W.P. Putrajaya,first observation,2,1.2157466,2
+2026-05-04,W.P. Putrajaya,pack/unit mismatch?,1,2.0340135,3
+2026-05-04,W.P. Putrajaya,persistent premium,28,1.4608027,4
+2026-05-04,W.P. Putrajaya,spike,1,1.1449275,5
+2026-05-11,W.P. Putrajaya,above peers,15,1.2265819,6
+2026-05-11,W.P. Putrajaya,first observation,2,1.2288873,2
+2026-05-11,W.P. Putrajaya,pack/unit mismatch?,1,2.0067112,3
+2026-05-11,W.P. Putrajaya,persistent premium,22,1.4640311,4
+2026-05-18,W.P. Putrajaya,above peers,12,1.1873069,6
+2026-05-18,W.P. Putrajaya,first observation,3,1.4291081,2
+2026-05-18,W.P. Putrajaya,pack/unit mismatch?,1,2.076389,3
+2026-05-18,W.P. Putrajaya,persistent premium,23,1.4396744,4
+2026-05-18,W.P. Putrajaya,spike,1,1.4173622,5
+2026-05-25,W.P. Putrajaya,above peers,9,1.2806591,6
+2026-05-25,W.P. Putrajaya,first observation,5,1.2871264,2
+2026-05-25,W.P. Putrajaya,persistent premium,25,1.5694854,4
+2026-05-25,W.P. Putrajaya,spike,1,1.1980991,5
+2026-06-01,W.P. Putrajaya,above peers,11,1.2538755,6
+2026-06-01,W.P. Putrajaya,first observation,1,1.4580672,2
+2026-06-01,W.P. Putrajaya,persistent premium,24,1.4760046,4
+2026-06-01,W.P. Putrajaya,spike,4,1.4169494,5
+2026-06-08,W.P. Putrajaya,above peers,13,1.3333498,6
+2026-06-08,W.P. Putrajaya,pack/unit mismatch?,1,2.0033388,3
+2026-06-08,W.P. Putrajaya,persistent premium,22,1.6362605,4
+2026-06-08,W.P. Putrajaya,spike,4,1.3582639,5
+2026-06-15,W.P. Putrajaya,above peers,17,1.3131136,6
+2026-06-15,W.P. Putrajaya,first observation,1,1.2562814,2
+2026-06-15,W.P. Putrajaya,persistent premium,22,1.4459774,4
+2026-06-22,W.P. Putrajaya,above peers,9,1.3028016,6
+2026-06-22,W.P. Putrajaya,first observation,2,1.2182915,2
+2026-06-22,W.P. Putrajaya,pack/unit mismatch?,1,1.9732441,3
+2026-06-22,W.P. Putrajaya,persistent premium,25,1.4539177,4
+2026-06-22,W.P. Putrajaya,spike,3,1.9638429,5
+2026-06-29,W.P. Putrajaya,above peers,6,1.1394663,6
+2026-06-29,W.P. Putrajaya,first observation,7,1.3062533,2
+2026-06-29,W.P. Putrajaya,pack/unit mismatch?,2,2.0294118,3
+2026-06-29,W.P. Putrajaya,persistent premium,22,1.5695988,4
+2026-06-29,W.P. Putrajaya,spike,3,1.4182158,5
+2026-07-06,W.P. Putrajaya,above peers,10,1.2331849,6
+2026-07-06,W.P. Putrajaya,decimal slip?,1,9.83733,1
+2026-07-06,W.P. Putrajaya,first observation,4,1.5689528,2
+2026-07-06,W.P. Putrajaya,persistent premium,23,1.5102922,4
+2026-07-06,W.P. Putrajaya,spike,2,1.575609,5
+2026-07-13,W.P. Putrajaya,above peers,14,1.379494,6
+2026-07-13,W.P. Putrajaya,first observation,2,1.297132,2
+2026-07-13,W.P. Putrajaya,pack/unit mismatch?,2,1.9970579,3
+2026-07-13,W.P. Putrajaya,persistent premium,21,1.4529616,4
+2026-07-13,W.P. Putrajaya,spike,1,1.2294042,5
+2026-07-20,W.P. Putrajaya,above peers,12,1.2110378,6
+2026-07-20,W.P. Putrajaya,first observation,2,1.244679,2
+2026-07-20,W.P. Putrajaya,pack/unit mismatch?,1,1.9359016,3
+2026-07-20,W.P. Putrajaya,persistent premium,25,1.4457916,4
+2026-07-27,W.P. Putrajaya,above peers,8,1.7148472,6
+2026-07-27,W.P. Putrajaya,first observation,8,1.5955248,2
+2026-07-27,W.P. Putrajaya,pack/unit mismatch?,2,1.930215,3
+2026-07-27,W.P. Putrajaya,persistent premium,21,1.4607322,4
+2026-07-27,W.P. Putrajaya,spike,1,1.3007519,5
+2026-08-03,W.P. Putrajaya,above peers,12,1.1953174,6
+2026-08-03,W.P. Putrajaya,first observation,1,2.0,2
+2026-08-03,W.P. Putrajaya,pack/unit mismatch?,2,1.9253978,3
+2026-08-03,W.P. Putrajaya,persistent premium,22,1.534425,4
+2026-08-03,W.P. Putrajaya,spike,3,1.3011616,5
+2026-08-10,W.P. Putrajaya,above peers,13,1.16794,6
+2026-08-10,W.P. Putrajaya,first observation,4,1.1787324,2
+2026-08-10,W.P. Putrajaya,pack/unit mismatch?,3,1.9647974,3
+2026-08-10,W.P. Putrajaya,persistent premium,19,1.352706,4
+2026-08-10,W.P. Putrajaya,spike,1,1.4504836,5
+2026-08-17,W.P. Putrajaya,above peers,11,1.2263,6
+2026-08-17,W.P. Putrajaya,decimal slip?,1,13.571428,1
+2026-08-17,W.P. Putrajaya,first observation,5,1.2506526,2
+2026-08-17,W.P. Putrajaya,pack/unit mismatch?,1,1.930502,3
+2026-08-17,W.P. Putrajaya,persistent premium,22,1.3828146,4
+2026-08-24,W.P. Putrajaya,above peers,10,1.149918,6
+2026-08-24,W.P. Putrajaya,first observation,3,1.7795604,2
+2026-08-24,W.P. Putrajaya,pack/unit mismatch?,1,1.9245284,3
+2026-08-24,W.P. Putrajaya,persistent premium,25,1.4392617,4
+2026-08-24,W.P. Putrajaya,spike,1,1.1999999,5
+2026-08-31,W.P. Putrajaya,above peers,3,1.2032164,6
+2026-08-31,W.P. Putrajaya,persistent premium,37,1.5449868,4
+2026-09-07,W.P. Putrajaya,above peers,15,1.2371897,6
+2026-09-07,W.P. Putrajaya,first observation,2,2.1317203,2
+2026-09-07,W.P. Putrajaya,persistent premium,22,1.4471377,4
+2026-09-07,W.P. Putrajaya,spike,1,1.4504836,5
+2026-09-14,W.P. Putrajaya,above peers,12,1.153002,6
+2026-09-14,W.P. Putrajaya,first observation,1,1.1142857,2
+2026-09-14,W.P. Putrajaya,persistent premium,27,1.5015875,4
+2026-09-21,W.P. Putrajaya,above peers,14,1.1954733,6
+2026-09-21,W.P. Putrajaya,first observation,3,1.4001403,2
+2026-09-21,W.P. Putrajaya,persistent premium,22,1.5233933,4
+2026-09-21,W.P. Putrajaya,spike,1,1.4285712,5
+2026-09-28,W.P. Putrajaya,above peers,13,1.2437458,6
+2026-09-28,W.P. Putrajaya,first observation,4,1.1931655,2
+2026-09-28,W.P. Putrajaya,persistent premium,23,1.4527032,4
+2026-10-12,W.P. Putrajaya,above peers,10,1.133303,6
+2026-10-12,W.P. Putrajaya,first observation,4,1.46079,2
+2026-10-12,W.P. Putrajaya,persistent premium,25,1.5031279,4
+2026-10-12,W.P. Putrajaya,spike,1,1.1442308,5
+2026-10-19,W.P. Putrajaya,above peers,11,1.162468,6
+2026-10-19,W.P. Putrajaya,first observation,1,1.1004902,2
+2026-10-19,W.P. Putrajaya,persistent premium,25,1.4337249,4
+2026-10-19,W.P. Putrajaya,spike,3,1.4215428,5

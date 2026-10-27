@@ -1,0 +1,65 @@
+table flags_weekly
+	lineageTag: d5607d2f-1784-5f2c-b3cf-d8d0cf9acac9
+
+	measure 'Weekly Flags' = SUM ( flags_weekly[flags] )
+		formatString: #,0
+		displayFolder: Base
+		lineageTag: 1b1e6592-2a83-5ff0-91e8-7dceabadcd5e
+
+	column week
+		dataType: dateTime
+		formatString: d mmm yyyy
+		lineageTag: 7d4cf584-441a-579e-8bb8-b2d1dd6e61f6
+		summarizeBy: none
+		sourceColumn: week
+
+	column state
+		dataType: string
+		lineageTag: a790d216-1161-523e-b3ab-3bfc4bd4dc61
+		summarizeBy: none
+		sourceColumn: state
+
+	column likely_cause
+		dataType: string
+		lineageTag: 5b79505d-dc25-5a8f-b9c9-b27d93320c43
+		summarizeBy: none
+		sourceColumn: likely_cause
+		sortByColumn: cause_order
+
+	column flags
+		dataType: int64
+		formatString: #,0
+		lineageTag: 11afe358-2ec7-5960-8816-f367019c067e
+		summarizeBy: none
+		sourceColumn: flags
+
+	column mean_ratio
+		dataType: double
+		formatString: 0.00
+		lineageTag: adb708d7-d3a9-59ed-9f60-f7149239df1a
+		summarizeBy: none
+		sourceColumn: mean_ratio
+
+	column cause_order
+		dataType: int64
+		formatString: 0
+		lineageTag: 74b9c12f-889d-59ae-aa66-f63b4190760e
+		summarizeBy: none
+		sourceColumn: cause_order
+
+	partition flags_weekly = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\flags_weekly.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {
+				        {"week", type date},
+				        {"state", type text},
+				        {"likely_cause", type text},
+				        {"flags", Int64.Type},
+				        {"mean_ratio", type number},
+				        {"cause_order", Int64.Type}
+				    }, "en-US")
+				in
+				    Typed

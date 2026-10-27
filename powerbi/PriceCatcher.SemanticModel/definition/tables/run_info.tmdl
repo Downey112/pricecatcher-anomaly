@@ -1,0 +1,36 @@
+table run_info
+	lineageTag: 46a6bfa7-8af3-5942-9ed7-2155f5c961bb
+
+	measure 'Chosen Scorer' = SELECTEDVALUE ( run_info[chosen_scorer] )
+		displayFolder: KPI
+		lineageTag: f5b7bdc0-1df5-5fae-bbe6-9cc1f1be89cd
+
+	measure 'Label Chosen' = "best on validation, rule set first"
+		displayFolder: Labels
+		lineageTag: 4c204734-4fc2-5ae2-a1e2-872ed1ba65da
+
+	column chosen_scorer
+		dataType: string
+		lineageTag: 4e9149c6-9754-5f35-805d-457b00800975
+		summarizeBy: none
+		sourceColumn: chosen_scorer
+
+	column latest_week
+		dataType: dateTime
+		formatString: d mmm yyyy
+		lineageTag: 40e4dd5d-2bc8-5b82-bca1-2ec93d130b8f
+		summarizeBy: none
+		sourceColumn: latest_week
+
+	partition run_info = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\run_info.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {
+				        {"chosen_scorer", type text},
+				        {"latest_week", type date}
+				    }, "en-US")
+				in
+				    Typed

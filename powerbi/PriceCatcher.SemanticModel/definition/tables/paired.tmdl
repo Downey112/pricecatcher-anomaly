@@ -1,0 +1,67 @@
+table paired
+	lineageTag: 1803b910-a97a-5c22-a8e0-e70819d00b68
+
+	column comparison
+		dataType: string
+		lineageTag: 01f3fe21-2efb-51be-8e63-d05cb0e9d0de
+		summarizeBy: none
+		sourceColumn: comparison
+
+	column planted
+		dataType: string
+		lineageTag: e01a1aa0-5ea1-5a84-85cf-e0bb972a8bab
+		summarizeBy: none
+		sourceColumn: planted
+		sortByColumn: planted_order
+
+	column planted_order
+		dataType: int64
+		formatString: 0
+		lineageTag: 3e8251c1-61a5-552a-8cd9-a993a84e99f4
+		summarizeBy: none
+		sourceColumn: planted_order
+
+	column diff
+		dataType: double
+		formatString: +0.000;-0.000;0.000
+		lineageTag: cfe597ae-5cb1-590a-8eb0-09b008028461
+		summarizeBy: none
+		sourceColumn: diff
+
+	column ci_lo
+		dataType: double
+		formatString: +0.000;-0.000;0.000
+		lineageTag: 4f709f31-ed95-5d53-bbd0-fd7c4276e76d
+		summarizeBy: none
+		sourceColumn: ci_lo
+
+	column ci_hi
+		dataType: double
+		formatString: +0.000;-0.000;0.000
+		lineageTag: 20910450-168e-5855-9179-fe64cde771d9
+		summarizeBy: none
+		sourceColumn: ci_hi
+
+	column verdict
+		dataType: string
+		lineageTag: f3b3d6cd-e9f3-5d38-a36f-712e155d6cdb
+		summarizeBy: none
+		sourceColumn: verdict
+
+	partition paired = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\paired.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {
+				        {"comparison", type text},
+				        {"planted", type text},
+				        {"planted_order", Int64.Type},
+				        {"diff", type number},
+				        {"ci_lo", type number},
+				        {"ci_hi", type number},
+				        {"verdict", type text}
+				    }, "en-US")
+				in
+				    Typed

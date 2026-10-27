@@ -1,0 +1,4 @@
+expression DataFolder = "C:\Users\courts\pricecatcher-anomaly\powerbi\data" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	lineageTag: 100a069c-821c-54e5-af4e-e3e421a5016e
+
+	annotation PBI_ResultType = Text

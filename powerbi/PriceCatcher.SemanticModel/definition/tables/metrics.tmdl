@@ -1,0 +1,69 @@
+table metrics
+	lineageTag: 941bb521-b533-5272-b871-56e326b910ef
+
+	measure 'Test Prices' = CALCULATE ( MAX ( metrics[value] ), metrics[metric] = "test_rows" )
+		formatString: #,0
+		displayFolder: KPI
+		lineageTag: 20e0bb4e-1343-5d96-82c3-dbf74cd17926
+
+	measure 'Planted Prices' = CALCULATE ( MAX ( metrics[value] ), metrics[metric] = "test_planted" )
+		formatString: #,0
+		displayFolder: KPI
+		lineageTag: 91d683cc-5286-5b23-9ec7-16556776f693
+
+	measure 'Test District Weeks' = CALCULATE ( MAX ( metrics[value] ), metrics[metric] = "test_district_weeks" )
+		formatString: #,0
+		displayFolder: KPI
+		lineageTag: 3077999e-ae97-5c2a-a651-60eee88c2b0a
+
+	measure 'Weeks Scored' = CALCULATE ( MAX ( metrics[value] ), metrics[metric] = "weeks" )
+		formatString: #,0
+		displayFolder: KPI
+		lineageTag: 548f793d-b2aa-57ba-b668-67d8857a54b2
+
+	measure 'Budget K' = CALCULATE ( MAX ( metrics[value] ), metrics[metric] = "budget_k" )
+		formatString: 0
+		displayFolder: KPI
+		lineageTag: f9b00eed-2c50-5477-9390-3a301d15e158
+
+	measure 'Label Test Prices' = "7 Sep – 24 Oct, unseen in fitting"
+		displayFolder: Labels
+		lineageTag: c2c6a256-2549-5f7e-b1d2-1a1ba8aeb121
+
+	measure 'Label Planted' = "one-week, held and ×10 rises"
+		displayFolder: Labels
+		lineageTag: c584529a-3d2b-5abc-a164-47a5d996d7af
+
+	measure 'Label District Weeks' = "each gets its own top-20 list"
+		displayFolder: Labels
+		lineageTag: f05d5a5e-98c2-5d6e-9177-fce50433b08f
+
+	measure 'Label Budget' = "per district per week, about 1.7%"
+		displayFolder: Labels
+		lineageTag: 21f238ec-6667-5610-b3da-e9b321f4a356
+
+	column metric
+		dataType: string
+		lineageTag: 41569489-699f-5b1a-9b2f-486fab8a33f9
+		summarizeBy: none
+		sourceColumn: metric
+
+	column value
+		dataType: double
+		formatString: 0
+		lineageTag: 5ed593d7-cd29-5e5e-905f-1183a65c4401
+		summarizeBy: none
+		sourceColumn: value
+
+	partition metrics = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\metrics.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {
+				        {"metric", type text},
+				        {"value", type number}
+				    }, "en-US")
+				in
+				    Typed

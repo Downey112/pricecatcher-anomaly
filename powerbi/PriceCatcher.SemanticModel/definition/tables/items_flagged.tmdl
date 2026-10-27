@@ -1,0 +1,63 @@
+table items_flagged
+	lineageTag: 21100023-2ec0-5dd6-9780-258d7a1734fe
+
+	measure 'Item Flag Rate' = DIVIDE ( SUM ( items_flagged[flags] ), SUM ( items_flagged[prices_checked] ) )
+		formatString: 0.0%
+		displayFolder: Base
+		lineageTag: 59ffd9d2-e209-5afe-95e5-ed70171dc565
+
+	column item_category
+		dataType: string
+		lineageTag: a8650bfc-9fc0-58c4-b6df-68de414451be
+		summarizeBy: none
+		sourceColumn: item_category
+
+	column item
+		dataType: string
+		lineageTag: e896abd1-c7e9-5a25-a116-b7833f052d30
+		summarizeBy: none
+		sourceColumn: item
+
+	column unit
+		dataType: string
+		lineageTag: 516487b1-e34e-540e-9704-0434da4672f7
+		summarizeBy: none
+		sourceColumn: unit
+
+	column flags
+		dataType: int64
+		formatString: #,0
+		lineageTag: 8f751ebb-0c7f-568d-a4c9-6cf1009549fe
+		summarizeBy: none
+		sourceColumn: flags
+
+	column prices_checked
+		dataType: int64
+		formatString: #,0
+		lineageTag: f890ad34-4988-564f-b45f-91ceae09c00d
+		summarizeBy: none
+		sourceColumn: prices_checked
+
+	column flag_rate
+		dataType: double
+		formatString: 0.0%
+		lineageTag: 988ef569-898d-50df-9c89-8fd6974cd212
+		summarizeBy: none
+		sourceColumn: flag_rate
+
+	partition items_flagged = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\items_flagged.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {
+				        {"item_category", type text},
+				        {"item", type text},
+				        {"unit", type text},
+				        {"flags", Int64.Type},
+				        {"prices_checked", Int64.Type},
+				        {"flag_rate", type number}
+				    }, "en-US")
+				in
+				    Typed

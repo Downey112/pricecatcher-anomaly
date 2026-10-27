@@ -1,0 +1,22 @@
+{
+  "rows_read": 16572009,
+  "dropped_nonpositive_price": 0,
+  "dropped_unmatched_item": 251893,
+  "dropped_unmatched_premise": 13,
+  "dropped_partial_week_rows": 126327,
+  "dropped_insufficient_peers": 41316,
+  "panel_rows": 7417007,
+  "feature_rows": 7375691,
+  "raw_rows": 16572022,
+  "weeks": 40,
+  "partial_weeks": [
+    "2025-12-29",
+    "2026-02-16",
+    "2026-10-05"
+  ],
+  "ref_level_share": {
+    "district": 0.458,
+    "state_type": 0.4953,
+    "state": 0.0467
+  }
+}

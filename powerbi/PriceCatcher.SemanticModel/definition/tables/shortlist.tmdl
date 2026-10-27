@@ -1,0 +1,198 @@
+table shortlist
+	lineageTag: 07904230-2112-50c9-8cdf-9b3aa6186b81
+
+	measure 'Flagged Prices' = COUNTROWS ( shortlist )
+		formatString: #,0
+		displayFolder: KPI
+		lineageTag: 7da46f17-2e24-5c3d-a1bc-4443130e7557
+
+	measure 'Districts Covered' = DISTINCTCOUNT ( shortlist[district_key] )
+		formatString: #,0
+		displayFolder: KPI
+		lineageTag: bbb4f9ea-6f33-5619-9bda-27e966eb73b7
+
+	measure 'Median Ratio' = MEDIAN ( shortlist[ratio_to_ref] )
+		formatString: 0.00"×"
+		displayFolder: KPI
+		lineageTag: ba30954d-f259-56d9-8533-12b7cc1989da
+
+	measure 'Persistent Share' =
+			DIVIDE (
+			    CALCULATE ( COUNTROWS ( shortlist ), KEEPFILTERS ( shortlist[likely_cause] = "persistent premium" ) ),
+			    COUNTROWS ( shortlist )
+			)
+		formatString: 0%
+		displayFolder: KPI
+		lineageTag: 8ba2ad25-43f5-5479-8e6d-53e4321dca3b
+
+	measure 'Data Quality Flags' =
+			CALCULATE (
+			    COUNTROWS ( shortlist ),
+			    KEEPFILTERS ( shortlist[likely_cause] IN { "first observation", "pack/unit mismatch?", "decimal slip?" } )
+			) + 0
+		formatString: #,0
+		displayFolder: KPI
+		lineageTag: 5d7f92bd-a2c6-5521-b6d0-6412eae927f1
+
+	measure 'Label Flagged' = "top 20 per district · " & FORMAT ( [Districts Covered], "#,0" ) & " districts"
+		displayFolder: Labels
+		lineageTag: 184f406d-4c37-5393-93a1-32c53027130a
+
+	measure 'Label Districts' = "with at least 5 comparable shops"
+		displayFolder: Labels
+		lineageTag: 143aae27-2468-5cbe-a3a4-c7dfc5f7a64c
+
+	measure 'Label Median' = "flagged price ÷ peer median"
+		displayFolder: Labels
+		lineageTag: 969f638e-08c3-5be5-8fb4-5d075a3415b0
+
+	measure 'Label Persistent' = "shops usually 15%+ above peers"
+		displayFolder: Labels
+		lineageTag: d71426f5-f665-56a0-8435-cc62fd35c6b3
+
+	measure 'Label Quality' = "first price, pack size or decimal slip?"
+		displayFolder: Labels
+		lineageTag: 1fdd9e87-172c-55d5-82f5-5a067cba3fab
+
+	measure 'Title Shortlist' = "Inspection shortlist · week of " & FORMAT ( MAX ( run_info[latest_week] ), "d mmm yyyy" ) & " · highest score first"
+		displayFolder: Titles
+		lineageTag: 0e74fb30-abd2-59c9-a10a-0294cbaf746b
+
+	column state
+		dataType: string
+		lineageTag: aa6e3c22-2c26-5980-841e-734f8b9bcdcc
+		summarizeBy: none
+		sourceColumn: state
+
+	column district
+		dataType: string
+		lineageTag: acf59b61-14ab-5b9a-aa8c-acfcfd4afcea
+		summarizeBy: none
+		sourceColumn: district
+
+	column district_key
+		dataType: string
+		lineageTag: b74c5a9f-90ad-5f07-8825-746e20b71fa8
+		summarizeBy: none
+		sourceColumn: district_key
+
+	column premise
+		dataType: string
+		lineageTag: 83504625-0896-549a-817e-a560fdba676a
+		summarizeBy: none
+		sourceColumn: premise
+
+	column premise_type
+		dataType: string
+		lineageTag: 2a3b1248-a021-5acb-b3e4-25729df218d7
+		summarizeBy: none
+		sourceColumn: premise_type
+
+	column item_category
+		dataType: string
+		lineageTag: 3551a3e2-3ea0-5efb-a3ae-e4f676df0bb9
+		summarizeBy: none
+		sourceColumn: item_category
+
+	column item
+		dataType: string
+		lineageTag: a1a7240d-74c0-5aec-bd7b-621f46865066
+		summarizeBy: none
+		sourceColumn: item
+
+	column unit
+		dataType: string
+		lineageTag: d6d9a8c4-2f4c-505d-94f7-b47fe483ef78
+		summarizeBy: none
+		sourceColumn: unit
+
+	column price
+		dataType: double
+		formatString: "RM"#,0.00
+		lineageTag: e4a23a0f-c7c1-52ec-ba6f-934d7f3627cc
+		summarizeBy: none
+		sourceColumn: price
+
+	column ref_price
+		dataType: double
+		formatString: "RM"#,0.00
+		lineageTag: b7241549-b0ab-5df6-90cb-f9c79044e181
+		summarizeBy: none
+		sourceColumn: ref_price
+
+	column ratio_to_ref
+		dataType: double
+		formatString: 0.00"×"
+		lineageTag: 5edc0f68-02af-58a9-93b1-0e76da226b2c
+		summarizeBy: none
+		sourceColumn: ratio_to_ref
+
+	column peer_count
+		dataType: int64
+		formatString: #,0
+		lineageTag: db6364af-4fd6-577a-bc0a-fa2323cdc4fa
+		summarizeBy: none
+		sourceColumn: peer_count
+
+	column own_premium
+		dataType: double
+		formatString: +0%;-0%;0%
+		lineageTag: 38cc5143-509a-5f2c-aa4f-83f01f0882a8
+		summarizeBy: none
+		sourceColumn: own_premium
+
+	column score
+		dataType: double
+		formatString: 0.0
+		lineageTag: 406d797f-6e13-5fde-8f03-0259eaa06d1f
+		summarizeBy: none
+		sourceColumn: score
+
+	column rank_in_district
+		dataType: int64
+		formatString: 0
+		lineageTag: a5277394-9ee1-5f5f-84be-d5d3f28d5977
+		summarizeBy: none
+		sourceColumn: rank_in_district
+
+	column likely_cause
+		dataType: string
+		lineageTag: f11e09ae-92be-5639-8918-cb978497b122
+		summarizeBy: none
+		sourceColumn: likely_cause
+		sortByColumn: cause_order
+
+	column cause_order
+		dataType: int64
+		formatString: 0
+		lineageTag: b98f199e-9c75-516c-9fcc-0104a7c5d7e7
+		summarizeBy: none
+		sourceColumn: cause_order
+
+	partition shortlist = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\shortlist.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {
+				        {"state", type text},
+				        {"district", type text},
+				        {"district_key", type text},
+				        {"premise", type text},
+				        {"premise_type", type text},
+				        {"item_category", type text},
+				        {"item", type text},
+				        {"unit", type text},
+				        {"price", type number},
+				        {"ref_price", type number},
+				        {"ratio_to_ref", type number},
+				        {"peer_count", Int64.Type},
+				        {"own_premium", type number},
+				        {"score", type number},
+				        {"rank_in_district", Int64.Type},
+				        {"likely_cause", type text},
+				        {"cause_order", Int64.Type}
+				    }, "en-US")
+				in
+				    Typed

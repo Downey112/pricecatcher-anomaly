@@ -1,0 +1,7 @@
+comparison,planted,planted_order,diff,ci_lo,ci_hi,verdict
+vs Isolation Forest,+20% one week,2,0.0258,0.0062,0.0464,baseline
+vs ECOD,+20% one week,2,0.0339,0.0132,0.0551,baseline
+vs Isolation Forest,+20% held,5,0.1036,0.092,0.1164,baseline
+vs ECOD,+20% held,5,0.1196,0.1065,0.1337,baseline
+vs Isolation Forest,+50% one week,4,-0.274,-0.3021,-0.2468,model
+vs ECOD,+50% one week,4,-0.1461,-0.1772,-0.1154,model

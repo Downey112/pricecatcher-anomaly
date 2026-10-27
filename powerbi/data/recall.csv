@@ -1,0 +1,37 @@
+split,scorer_label,scorer_order,planted,planted_order,recall,precision_at_k,average_precision
+val,MAD baseline,1,+20% held,5,0.204111,0.172494,0.1832
+val,MAD baseline,1,+30% one week,3,0.303475,0.172494,0.1832
+val,MAD baseline,1,+20% one week,2,0.201474,0.172494,0.1832
+val,MAD baseline,1,+10% one week,1,0.084672,0.172494,0.1832
+val,MAD baseline,1,+50% one week,4,0.416254,0.172494,0.1832
+val,MAD baseline,1,×10 slip,6,0.885346,0.172494,0.1832
+val,Isolation Forest,2,+20% held,5,0.095313,0.170717,0.216615
+val,Isolation Forest,2,+30% one week,3,0.361233,0.170717,0.216615
+val,Isolation Forest,2,+20% one week,2,0.190172,0.170717,0.216615
+val,Isolation Forest,2,+10% one week,1,0.055474,0.170717,0.216615
+val,Isolation Forest,2,+50% one week,4,0.701189,0.170717,0.216615
+val,Isolation Forest,2,×10 slip,6,0.988964,0.170717,0.216615
+val,ECOD,3,+20% held,5,0.08641,0.158994,0.199567
+val,ECOD,3,+30% one week,3,0.326481,0.158994,0.199567
+val,ECOD,3,+20% one week,2,0.183784,0.158994,0.199567
+val,ECOD,3,+10% one week,1,0.082725,0.158994,0.199567
+val,ECOD,3,+50% one week,4,0.570367,0.158994,0.199567
+val,ECOD,3,×10 slip,6,0.999387,0.158994,0.199567
+test,MAD baseline,1,+20% held,5,0.209544,0.190293,0.188153
+test,MAD baseline,1,+10% one week,1,0.075779,0.190293,0.188153
+test,MAD baseline,1,+50% one week,4,0.414286,0.190293,0.188153
+test,MAD baseline,1,+20% one week,2,0.205703,0.190293,0.188153
+test,MAD baseline,1,+30% one week,3,0.288933,0.190293,0.188153
+test,MAD baseline,1,×10 slip,6,0.901598,0.190293,0.188153
+test,Isolation Forest,2,+20% held,5,0.105982,0.188071,0.222101
+test,Isolation Forest,2,+10% one week,1,0.062323,0.188071,0.222101
+test,Isolation Forest,2,+50% one week,4,0.688312,0.188071,0.222101
+test,Isolation Forest,2,+20% one week,2,0.179905,0.188071,0.222101
+test,Isolation Forest,2,+30% one week,3,0.345924,0.188071,0.222101
+test,Isolation Forest,2,×10 slip,6,0.989066,0.188071,0.222101
+test,ECOD,3,+20% held,5,0.089903,0.173476,0.205276
+test,ECOD,3,+10% one week,1,0.084986,0.173476,0.205276
+test,ECOD,3,+50% one week,4,0.56039,0.173476,0.205276
+test,ECOD,3,+20% one week,2,0.171758,0.173476,0.205276
+test,ECOD,3,+30% one week,3,0.326706,0.173476,0.205276
+test,ECOD,3,×10 slip,6,0.997477,0.173476,0.205276

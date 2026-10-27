@@ -1,0 +1,91 @@
+table recall
+	lineageTag: 32dc3c35-d8a1-5178-a136-4b5c77339b5a
+
+	measure 'Recall MAD' = CALCULATE ( AVERAGE ( recall[recall] ), recall[split] = "test", recall[scorer_label] = "MAD baseline" )
+		formatString: 0%
+		displayFolder: Recall
+		lineageTag: 9822fa99-675f-544b-823a-ab187859de89
+
+	measure 'Recall IForest' = CALCULATE ( AVERAGE ( recall[recall] ), recall[split] = "test", recall[scorer_label] = "Isolation Forest" )
+		formatString: 0%
+		displayFolder: Recall
+		lineageTag: 8ed31388-50a1-5971-b2a6-105241ccb950
+
+	measure 'Recall ECOD' = CALCULATE ( AVERAGE ( recall[recall] ), recall[split] = "test", recall[scorer_label] = "ECOD" )
+		formatString: 0%
+		displayFolder: Recall
+		lineageTag: cef6f558-29db-5b82-8ce3-132f366fa43b
+
+	column split
+		dataType: string
+		lineageTag: 0aa03011-fc80-5d7a-896b-8bf3855fe22c
+		summarizeBy: none
+		sourceColumn: split
+
+	column scorer_label
+		dataType: string
+		lineageTag: 5f4ff93a-6cbf-5974-b067-7863052d8361
+		summarizeBy: none
+		sourceColumn: scorer_label
+		sortByColumn: scorer_order
+
+	column scorer_order
+		dataType: int64
+		formatString: 0
+		lineageTag: 79ec8a9b-766e-5121-9a37-9c2e683e98e7
+		summarizeBy: none
+		sourceColumn: scorer_order
+
+	column planted
+		dataType: string
+		lineageTag: 2b9031b2-8849-529a-9d54-a1d30519d6b0
+		summarizeBy: none
+		sourceColumn: planted
+		sortByColumn: planted_order
+
+	column planted_order
+		dataType: int64
+		formatString: 0
+		lineageTag: b7480956-cce7-545f-8ebb-d37958264406
+		summarizeBy: none
+		sourceColumn: planted_order
+
+	column recall
+		dataType: double
+		formatString: 0.0%
+		lineageTag: 46c3c322-ca35-5ab4-a855-9e307ab1a5e8
+		summarizeBy: none
+		sourceColumn: recall
+
+	column precision_at_k
+		dataType: double
+		formatString: 0.0%
+		lineageTag: 54d4d3bc-dced-54c2-9e99-f37c3bdcd759
+		summarizeBy: none
+		sourceColumn: precision_at_k
+
+	column average_precision
+		dataType: double
+		formatString: 0.000
+		lineageTag: 5f6d6091-a5fb-5427-8b35-519704bdd41d
+		summarizeBy: none
+		sourceColumn: average_precision
+
+	partition recall = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\recall.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {
+				        {"split", type text},
+				        {"scorer_label", type text},
+				        {"scorer_order", Int64.Type},
+				        {"planted", type text},
+				        {"planted_order", Int64.Type},
+				        {"recall", type number},
+				        {"precision_at_k", type number},
+				        {"average_precision", type number}
+				    }, "en-US")
+				in
+				    Typed

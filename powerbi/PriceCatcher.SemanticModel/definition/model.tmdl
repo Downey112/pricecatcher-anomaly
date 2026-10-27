@@ -1,0 +1,22 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-US
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 0
+
+annotation PBI_QueryOrder = ["DataFolder", "shortlist", "flags_weekly", "items_flagged", "recall", "paired", "funnel", "metrics", "run_info"]
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table shortlist
+ref table flags_weekly
+ref table items_flagged
+ref table recall
+ref table paired
+ref table funnel
+ref table metrics
+ref table run_info
