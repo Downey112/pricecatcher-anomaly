@@ -16,8 +16,22 @@ TOP_N = 15
 PROMPT = """You write a weekly brief for Malaysian price inspectors. Below are prices flagged as \
 unusually high this week (numbered rows). Write at most 8 bullet points: group by state or item \
 where it helps, name the premise and item, and cite rows as [#n]. Use ONLY numbers that appear in \
-the rows (prices in RM, ratios, counts). Do not explain causes beyond the 'likely_cause' column. \
+the rows (prices in RM, ratios, counts). If a bullet names a state, name the state of EVERY row \
+it cites, taken from the State column. Do not explain causes beyond the 'likely_cause' column. \
 A flag is a reason to check, not proof of profiteering; say so once."""
+# core names, so "Kuala Lumpur" in the text matches "W.P. Kuala Lumpur" in the data
+STATES = ["Johor", "Kedah", "Kelantan", "Melaka", "Negeri Sembilan", "Pahang", "Perak", "Perlis",
+          "Pulau Pinang", "Sabah", "Sarawak", "Selangor", "Terengganu", "Kuala Lumpur", "Putrajaya", "Labuan"]
+REF_GROUP = re.compile(r"\[#\s*(\d+(?:\s*,\s*#?\s*\d+)*)\]")
+
+
+def cited_rows(text: str) -> list[int]:
+    """Row numbers in references like [#3] or [#1,#2] or [#1, 2]."""
+    return [int(n) for group in REF_GROUP.findall(text) for n in re.findall(r"\d+", group)]
+
+
+def states_in(text: str) -> set[str]:
+    return {s for s in STATES if re.search(rf"\b{re.escape(s)}\b", text, re.I)}
 
 
 def top_rows(flags: pd.DataFrame, n: int = TOP_N) -> pd.DataFrame:
@@ -65,16 +79,23 @@ def numbers_in(text: str) -> set[str]:
 
 
 def check_grounded(text: str, rows: pd.DataFrame, allowed_extra: set[str]) -> list[str]:
-    """Problems with an LLM brief: numbers not found in the rows, or row references that don't exist."""
+    """Problems with an LLM brief: row references that don't exist, numbers not found in the rows,
+    and bullets whose named states differ from the states of the rows they cite."""
     problems = []
-    refs = {int(n) for n in re.findall(r"\[#(\d+)\]", text)}
+    refs = set(cited_rows(text))
     if bad := sorted(refs - set(rows.index)):
         problems.append(f"cites rows that do not exist: {bad}")
     source = rows_table(rows) + " " + " ".join(sorted(allowed_extra))
     known = numbers_in(source) | {str(i) for i in rows.index}
-    text_wo_refs = re.sub(r"\[#\d+\]", "", text)
-    if unknown := sorted(numbers_in(text_wo_refs) - known):
+    if unknown := sorted(numbers_in(REF_GROUP.sub("", text)) - known):
         problems.append(f"numbers not in the flagged rows: {unknown[:10]}")
+    for line in text.splitlines():
+        named, line_refs = states_in(line), [i for i in cited_rows(line) if i in rows.index]
+        if named and line_refs:
+            actual = {s for i in line_refs for s in states_in(str(rows.loc[i, "state"]))}
+            if named != actual:
+                problems.append(f"states named {sorted(named)} but cited rows are in {sorted(actual)}: "
+                                f"{line.strip()[:80]}")
     return problems
 
 
