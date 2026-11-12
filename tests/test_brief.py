@@ -44,6 +44,20 @@ def test_invented_number_falls_back_to_template():
     assert problems and "35" in problems[0] and "## Strongest" in text
 
 
+def test_multi_row_reference_is_parsed_and_checked():
+    rows = top_rows(FLAGS)
+    assert check_grounded("Chilli and onions [#1,#2].", rows, set()) == []
+    assert "do not exist" in check_grounded("See [#1, #9].", rows, set())[0]
+
+
+def test_wrong_state_for_a_cited_row_is_caught():
+    # the real failure from week 2026-11-02: two rows grouped under one state, one was elsewhere
+    rows = top_rows(FLAGS)  # row 1 Johor, row 3 Selangor
+    problems = check_grounded("- Johor: chilli and chicken [#1,#3]", rows, set())
+    assert problems and "Selangor" in problems[0]
+    assert check_grounded("- Johor and Selangor: chilli and chicken [#1,#3]", rows, set()) == []
+
+
 def test_missing_row_reference_is_caught():
     rows = top_rows(FLAGS)
     assert check_grounded("See [#9].", rows, set())[0].startswith("cites rows that do not exist")
