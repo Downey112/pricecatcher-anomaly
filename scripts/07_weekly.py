@@ -45,6 +45,8 @@ items, premises = load_lookups(config.RAW_DIR)
 flags = (flags.merge(items[["item_code", "item", "unit"]], on="item_code", how="left")
               .merge(premises[["premise_code", "premise"]], on="premise_code", how="left"))
 flags["ratio_to_ref"] = np.exp(flags["log_ratio"]).round(2)
+# medians can land on half a sen (4.995); round once so the CSV, the brief and its check agree
+flags[["price", "ref_price"]] = flags[["price", "ref_price"]].round(2)
 cols = ["week", "state", "district", "premise_code", "premise", "premise_type", "item_code", "item", "unit",
         "price", "ref_price", "ratio_to_ref", "peer_count", "score", "p_value", "likely_cause"]
 flags = flags[cols].sort_values("p_value")
