@@ -31,7 +31,8 @@ def cited_rows(text: str) -> list[int]:
 
 
 def states_in(text: str) -> set[str]:
-    return {s for s in STATES if re.search(rf"\b{re.escape(s)}\b", text, re.I)}
+    # \s+ between words: models sometimes write "Pulau Pinang" (narrow no-break space)
+    return {s for s in STATES if re.search(r"\b" + r"\s+".join(map(re.escape, s.split())) + r"\b", text, re.I)}
 
 
 def top_rows(flags: pd.DataFrame, n: int = TOP_N) -> pd.DataFrame:
