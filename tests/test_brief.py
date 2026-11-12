@@ -58,6 +58,13 @@ def test_wrong_state_for_a_cited_row_is_caught():
     assert check_grounded("- Johor and Selangor: chilli and chicken [#1,#3]", rows, set()) == []
 
 
+def test_state_names_with_unusual_spaces_are_recognised():
+    # real case from the 2026-11-02 rerun: the model wrote "Pulau Pinang"
+    from pcad.brief import states_in
+    assert states_in("Pulau Pinang & Sarawak") == {"Pulau Pinang", "Sarawak"}
+    assert states_in("Negeri Sembilan") == {"Negeri Sembilan"}
+
+
 def test_missing_row_reference_is_caught():
     rows = top_rows(FLAGS)
     assert check_grounded("See [#9].", rows, set())[0].startswith("cites rows that do not exist")
