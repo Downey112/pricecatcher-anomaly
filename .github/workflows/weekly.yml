@@ -1,0 +1,57 @@
+name: Weekly price-check run
+
+on:
+  schedule:
+    - cron: "0 2 * * 1"   # Mondays 10:00 Malaysia time
+  workflow_dispatch:
+
+permissions:
+  contents: write   # to commit results/weekly/
+
+concurrency:
+  group: weekly
+  cancel-in-progress: false
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Download the last two months of PriceCatcher
+        run: python scripts/00_download.py --months 2
+      - name: Build weekly panel and features
+        run: python scripts/01_build.py
+      - name: Score the latest week, write the brief, log to MLflow
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}           # optional: LLM brief
+          MLFLOW_TRACKING_URI: ${{ secrets.MLFLOW_TRACKING_URI }}  # optional: e.g. DagsHub
+          MLFLOW_TRACKING_USERNAME: ${{ secrets.MLFLOW_TRACKING_USERNAME }}
+          MLFLOW_TRACKING_PASSWORD: ${{ secrets.MLFLOW_TRACKING_PASSWORD }}
+        run: python scripts/07_weekly.py
+
+      - name: Commit this week's brief and flags
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add results/weekly
+          git diff --cached --quiet || git commit -m "Weekly price-check brief $(ls -t results/weekly/*.md | head -1 | xargs basename .md)"
+          git push
+
+      - name: Keep the MLflow run
+        uses: actions/upload-artifact@v4
+        with:
+          name: mlflow-${{ github.run_id }}
+          path: |
+            mlflow.db
+            mlruns/
+          if-no-files-found: ignore
+
+      - name: Brief in the run summary
+        run: cat "$(ls -t results/weekly/*.md | head -1)" >> "$GITHUB_STEP_SUMMARY"
