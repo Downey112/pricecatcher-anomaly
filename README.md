@@ -18,6 +18,39 @@ model (21% vs 9–11%); Isolation Forest is better only at large one-week jumps.
 > A flag means "look at this", not "this shop is profiteering". Many flags are
 > premium shops, pack-size mismatches or data-entry slips.
 
+## v2: weekly pipeline with calibrated flags
+
+[![Weekly run](https://github.com/Downey112/pricecatcher-anomaly/actions/workflows/weekly.yml/badge.svg)](https://github.com/Downey112/pricecatcher-anomaly/actions/workflows/weekly.yml)
+[![CI](https://github.com/Downey112/pricecatcher-anomaly/actions/workflows/ci.yml/badge.svg)](https://github.com/Downey112/pricecatcher-anomaly/actions/workflows/ci.yml)
+
+Every Monday a GitHub Actions job downloads the last two months of PriceCatcher, scores the
+latest complete week, and commits a brief to [`results/weekly/`](results/weekly/).
+
+- **Conformal p-values** (`src/pcad/conformal.py`): each price's MAD score is compared with
+  200,000 scores from the training weeks. Flagging at p ≤ α means a normal price is flagged at
+  most α of the time. Checked on weeks never used for calibration:
+
+  | α | validation flag rate | test flag rate | flags per week (all Malaysia) |
+  |---|---|---|---|
+  | 0.01 | 0.0099 | 0.0098 | ~1,900 |
+  | 0.001 | 0.0011 | 0.0011 | ~210 |
+  | **0.0001 (used)** | 0.00010 | 0.00009 | ~18 |
+
+- **Brief** (`src/pcad/brief.py`): a Markdown table of the strongest flags. With `GROQ_API_KEY`
+  set, an LLM writes a summary, which is rejected (falling back to the table) if it contains a
+  number that is not in the flagged rows or cites a row that does not exist.
+- **MLflow** (`scripts/07_weekly.py`): each run logs α, counts, flag rate and the brief, to a
+  local SQLite store (uploaded as a workflow artifact) or any server set in `MLFLOW_TRACKING_URI`
+  (e.g. DagsHub).
+
+```bash
+python scripts/00_download.py --months 2   # latest two months only
+python scripts/01_build.py
+python scripts/07_weekly.py --alpha 0.0001
+```
+
+Design notes: [EXPLAIN.md](EXPLAIN.md).
+
 ## Data
 
 - **Source:** KPDN PriceCatcher via [data.gov.my](https://data.gov.my/data-catalogue/pricecatcher),

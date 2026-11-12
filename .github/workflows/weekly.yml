@@ -17,8 +17,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.13"
           cache: pip
@@ -41,11 +41,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add results/weekly
-          git diff --cached --quiet || git commit -m "Weekly price-check brief $(ls -t results/weekly/*.md | head -1 | xargs basename .md)"
+          latest=$(basename "$(ls results/weekly/*.md | sort | tail -1)" .md)
+          git diff --cached --quiet || git commit -m "Weekly price-check brief: week of $latest"
           git push
 
       - name: Keep the MLflow run
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: mlflow-${{ github.run_id }}
           path: |
@@ -54,4 +55,4 @@ jobs:
           if-no-files-found: ignore
 
       - name: Brief in the run summary
-        run: cat "$(ls -t results/weekly/*.md | head -1)" >> "$GITHUB_STEP_SUMMARY"
+        run: cat "$(ls results/weekly/*.md | sort | tail -1)" >> "$GITHUB_STEP_SUMMARY"
